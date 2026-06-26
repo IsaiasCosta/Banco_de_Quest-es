@@ -1,0 +1,14 @@
+[
+    {
+        concurso: "Banco do Brasil",
+        materia: "Conhecimentos Bancários",
+        enunciado: "Qual órgão detém a atribuição reguladora máxima no SFN?",
+        alternativas: [
+            "A) Banco Central do Brasil (Bacen)",
+            "B) Conselho Monetário Nacional (CMN)",
+            "C) Caixa Econômica Federal"
+        ],
+        respostaCorreta: 1,
+        explicacao: "O CMN é o órgão normativo máximo. O Bacen apenas executa."
+    },
+]

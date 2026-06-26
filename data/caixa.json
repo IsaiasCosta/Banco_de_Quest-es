@@ -1,0 +1,12 @@
+    {
+        concurso: "Caixa",
+        materia: "Conhecimentos Bancários",
+        enunciado: "Qual instituição financeira atua como Agente Operador do FGTS?",
+        alternativas: [
+            "A) Banco do Brasil",
+            "B) Banco Central",
+            "C) Caixa Econômica Federal"
+        ],
+        respostaCorreta: 2,
+        explicacao: "A Caixa é a gestora e agente operador do FGTS por lei."
+    },
