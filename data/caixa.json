@@ -1,12 +1,129 @@
-    {
-        concurso: "Caixa",
-        materia: "Conhecimentos Bancários",
-        enunciado: "Qual instituição financeira atua como Agente Operador do FGTS?",
-        alternativas: [
+[    {
+        "concurso": "Caixa",
+        "materia": "Conhecimentos Bancários",
+       "enunciado": "Qual instituição financeira atua como Agente Operador do FGTS?",
+        "alternativas": [
             "A) Banco do Brasil",
             "B) Banco Central",
             "C) Caixa Econômica Federal"
         ],
-        respostaCorreta: 2,
-        explicacao: "A Caixa é a gestora e agente operador do FGTS por lei."
+        "respostaCorreta": 2,
+        "explicacao": "A Caixa é a gestora e agente operador do FGTS por lei."
     },
+    {
+        "concurso": "Caixa",
+        "materia": "Conhecimentos Bancários",
+       "enunciado": "Qual instituição financeira atua como Agente Operador do FGTS?",
+        "alternativas": [
+            "A) Banco do Brasil",
+            "B) Banco Central",
+            "C) Caixa Econômica Federal"
+        ],
+        "respostaCorreta": 2, 
+        "explicacao": "A Caixa é a gestora e agente operador do FGTS por lei."
+    },
+    {
+        "concurso": "Caixa",
+        "materia": "Conhecimentos Bancários",
+       "enunciado": "O Open Finance (Sistema Financeiro Aberto) é uma iniciativa do Banco Central que tem como principal objetivo:",
+        "alternativas": [
+            "A) Centralizar todos os dados financeiros dos cidadãos em um único banco estatal.",
+            "B) Permitir o compartilhamento padronizado de dados e serviços por meio de abertura e integração de sistemas (APIs), mediante o consentimento do cliente.",
+            "C) Acabar com as tarifas bancárias em todas as instituições financeiras privadas.",
+            "D) Substituir o PIX para transferências internacionais."
+        ],
+        "respostaCorreta": 1, 
+        "explicacao": "O Open Finance permite que os clientes autorizem o compartilhamento de seus dados financeiros entre diferentes instituições, estimulando a concorrência e a oferta de melhores produtos."
+    },
+    {
+        "concurso": "Caixa",
+        "materia": "Tecnologia da Informação",
+       "enunciado": "No contexto da Lei Geral de Proteção de Dados (LGPD), o dado pessoal sobre origem racial ou étnica, convicção religiosa e dados referentes à saúde ou à vida sexual é classificado como:",
+        "alternativas": [
+            "A) Dado anonimizado.",
+            "B) Dado pessoal sensível.",
+            "C) Dado público.",
+            "D) Dado criptografado."
+        ],
+        "respostaCorreta": 1, 
+        "explicacao": "A LGPD classifica informações que podem gerar discriminação (saúde, biometria, religião, etnia, política) como 'dados pessoais sensíveis', exigindo maior rigor na sua proteção."
+    },
+    {
+        "concurso": "Caixa",
+        "materia": "Matemática Financeira",
+       "enunciado": "O conceito de 'Taxas Equivalentes' em juros compostos significa que:",
+        "alternativas": [
+            "A) São taxas que, aplicadas ao mesmo capital inicial durante o mesmo período de tempo, produzem o mesmo montante final.",
+            "B) São taxas proporcionais obtidas através da simples divisão ou multiplicação pelo prazo.",
+            "C) São taxas definidas anualmente pelo Banco Central para equiparar a inflação.",
+            "D) São taxas que geram descontos iguais em sistemas de amortização diferentes."
+        ],
+        "respostaCorreta": 0, 
+        "explicacao": "Em juros compostos, taxas equivalentes (ex: uma mensal e outra anual) produzem o mesmo montante final se aplicadas sobre o mesmo capital e pelo mesmo tempo total."
+    },
+    {
+        "concurso": "Caixa",
+        "materia": "Língua Portuguesa",
+       "enunciado": "A crase é o fenômeno da fusão da preposição 'a' com o artigo definido feminino 'a'. Assinale a alternativa onde a crase é obrigatória:",
+        "alternativas": [
+            "A) Entregou o documento a ele.",
+            "B) Começou a chover forte.",
+            "C) Fomos à agência da Caixa bem cedo.",
+            "D) O prêmio será pago a qualquer pessoa."
+        ],
+        "respostaCorreta": 2, 
+        "explicacao": "Utiliza-se crase porque o verbo 'Fomos' exige a preposição 'a', e 'agência' é um substantivo feminino que admite o artigo 'a'. Não se usa crase antes de verbo (B) ou pronomes (A, D)."
+    },
+    {
+        "concurso": "Caixa",
+        "materia": "Atendimento Bancário",
+       "enunciado": "A inclusão financeira e a educação financeira no atendimento bancário são importantes porque:",
+        "alternativas": [
+            "A) Aumentam exclusivamente o endividamento da população para gerar lucro ao banco.",
+            "B) Visam garantir que os cidadãos tenham acesso a serviços financeiros adequados e compreendam como gerir seus recursos de forma saudável.",
+            "C) São obrigações voltadas apenas para clientes de alta renda.",
+            "D) Substituem a necessidade de análise de crédito pelo gerente."
+        ],
+        "respostaCorreta": 1, 
+        "explicacao": "A inclusão e a educação financeira buscam democratizar o acesso a serviços (conta, crédito) e promover o uso consciente do dinheiro, trazendo benefícios tanto para o cliente quanto para a estabilidade do SFN."
+    },
+    {
+        "concurso": "Caixa",
+        "materia": "Ética, Compliance e Governança",
+       "enunciado": "No ambiente corporativo, o termo 'Compliance' significa:",
+        "alternativas": [
+            "A) A estratégia de marketing para captar novos clientes através de redes sociais.",
+            "B) O processo de inovação tecnológica e migração para a computação em nuvem.",
+            "C) O conjunto de disciplinas a fim de cumprir e se fazer cumprir as normas legais e regulamentares, além de políticas e diretrizes da instituição.",
+            "D) A área de recursos humanos focada exclusivamente na diversidade."
+        ],
+        "respostaCorreta": 2, 
+        "explicacao": "Compliance vem do verbo inglês 'to comply' (agir de acordo com uma regra). Significa estar em conformidade com leis, regulamentos e códigos de ética da empresa."
+    },
+    {
+        "concurso": "Caixa",
+        "materia": "Vendas e Negociação",
+       "enunciado": "O momento do 'Pós-venda' em uma instituição bancária é considerado fundamental para:",
+        "alternativas": [
+            "A) Encerrar o relacionamento com o cliente, pois o produto já foi adquirido.",
+            "B) Fidelizar o cliente, garantir a satisfação com o produto adquirido e criar oportunidades para novos negócios.",
+            "C) Realizar exclusivamente cobranças de clientes inadimplentes.",
+            "D) Substituir a necessidade de um bom atendimento inicial."
+        ],
+        "respostaCorreta": 1, 
+        "explicacao": "O pós-venda foca na retenção e fidelização. Um cliente satisfeito tem maior probabilidade de realizar novas compras (cross-selling/up-selling)."
+    },
+    {
+        "concurso": "Caixa",
+        "materia": "Probabilidade e Estatística",
+       "enunciado": "Ao lançarmos um dado comum de 6 faces, não viciado, qual é a probabilidade de obtermos um número par?",
+        "alternativas": [
+            "A) 25%",
+            "B) 33,3%",
+            "C) 50%",
+            "D) 75%"
+        ],
+        "respostaCorreta": 2, 
+        "explicacao": "Um dado tem 6 faces. Três são pares (2, 4, 6) e três são ímpares (1, 3, 5). Probabilidade = Casos Favoráveis (3) / Casos Possíveis (6) = 3/6 = 1/2 = 50%."
+    }
+]

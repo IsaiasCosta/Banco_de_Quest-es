@@ -1,14 +1,131 @@
 [
     {
-        concurso: "Banco do Brasil",
-        materia: "Conhecimentos Bancários",
-        enunciado: "Qual órgão detém a atribuição reguladora máxima no SFN?",
-        alternativas: [
+        "concurso": "Banco do Brasil",
+        "materia": "Conhecimentos Bancários",
+        "enunciado": "Qual órgão detém a atribuição reguladora máxima no SFN?",
+        "alternativas": [
             "A) Banco Central do Brasil (Bacen)",
             "B) Conselho Monetário Nacional (CMN)",
             "C) Caixa Econômica Federal"
         ],
-        respostaCorreta: 1,
-        explicacao: "O CMN é o órgão normativo máximo. O Bacen apenas executa."
+        "respostaCorreta": 1,
+        "explicacao": "O CMN é o órgão normativo máximo. O Bacen apenas executa."
     },
+    {
+        "concurso": "Banco do Brasil",
+        "materia": "Conhecimentos Bancários",
+        "enunciado": "Sobre o Sistema de Pagamentos Instantâneos (PIX), criado pelo Banco Central, é correto afirmar que:",
+        "alternativas": [
+            "A) Funciona apenas em dias úteis, das 06h às 22h.",
+            "B) Tem liquidação em tempo real e está disponível 24 horas por dia, 7 dias por semana.",
+            "C) É um serviço exclusivo para transferências entre contas do mesmo banco.",
+            "D) Substituiu obrigatoriamente as modalidades TED e DOC no mercado."
+        ],
+        "respostaCorreta": 1, 
+        "explicacao": "O PIX funciona 24/7, com liquidação (transferência do valor) em poucos segundos. Ele não substituiu o TED/DOC obrigatoriamente, sendo apenas mais uma opção."
+    },
+    {
+        "concurso": "Banco do Brasil",
+        "materia": "Língua Portuguesa",
+        "enunciado": "De acordo com as regras de regência e uso da crase, assinale a alternativa correta:",
+        "alternativas": [
+            "A) O gerente referiu-se à regras antigas do banco.",
+            "B) O atendimento é feito de segunda à sexta-feira.",
+            "C) Entregamos o contrato à cliente que estava aguardando.",
+            "D) O banco está disposto à negociar a dívida."
+        ],
+        "respostaCorreta": 2, 
+        "explicacao": "A) Incorreta (a singular + palavra plural não tem crase). B) Incorreta (de... a não leva crase, apenas de... para a). D) Incorreta (não se usa crase antes de verbo). C) Correta (Quem entrega, entrega algo A alguém + A cliente)."
+    },
+    {
+        "concurso": "Banco do Brasil",
+        "materia": "Matemática",
+        "enunciado": "Um cliente obteve um desconto de 15% ao quitar uma dívida antecipadamente. Se o valor original da dívida era de R$ 1.200,00, qual foi o valor pago?",
+        "alternativas": [
+            "A) R$ 1.050,00",
+            "B) R$ 1.020,00",
+            "C) R$ 1.000,00",
+            "D) R$ 1.185,00"
+        ],
+        "respostaCorreta": 1, 
+        "explicacao": "10% de 1200 é 120. 5% é 60. Logo, 15% é 180. O valor pago foi 1200 - 180 = R$ 1.020,00."
+    },
+    {
+        "concurso": "Banco do Brasil",
+        "materia": "Matemática Financeira",
+        "enunciado": "O sistema de amortização em que o valor da prestação (parcela) é constante do início ao fim do financiamento é o:",
+        "alternativas": [
+            "A) SAC (Sistema de Amortização Constante)",
+            "B) Sistema Misto",
+            "C) Tabela Price (Sistema Francês)",
+            "D) Sistema Americano"
+        ],
+        "respostaCorreta": 2, 
+        "explicacao": "Na Tabela Price (Sistema Francês), as prestações são iguais/constantes. No SAC, o que é constante é a Amortização, fazendo a prestação ser decrescente."
+    },
+    {
+        "concurso": "Banco do Brasil",
+        "materia": "Vendas e Negociação",
+        "enunciado": "A estratégia de marketing de relacionamento e fidelização que busca aumentar a venda oferecendo um produto de valor superior (premium) ao que o cliente pretendia comprar originalmente é chamada de:",
+        "alternativas": [
+            "A) Cross-selling",
+            "B) Up-selling",
+            "C) Benchmarking",
+            "D) Inbound Marketing"
+        ],
+        "respostaCorreta": 1, 
+        "explicacao": "Up-selling = Vender uma versão mais cara/premium do mesmo produto. Cross-selling = Venda cruzada (oferecer um seguro junto com o cartão)."
+    },
+    {
+        "concurso": "Banco do Brasil",
+        "materia": "Atualidades do Mercado Financeiro",
+        "enunciado": "A taxa básica de juros da economia brasileira, definida pelo COPOM e que serve de referência para as demais taxas do mercado, é a:",
+        "alternativas": [
+            "A) Taxa CDI",
+            "B) Taxa TR",
+            "C) Taxa IPCA",
+            "D) Taxa Selic"
+        ],
+        "respostaCorreta": 3, 
+        "explicacao": "A Taxa Selic é a taxa básica de juros da economia brasileira, sendo o principal instrumento de política monetária utilizado pelo Banco Central (via COPOM) para controlar a inflação."
+    },
+    {
+        "concurso": "Banco do Brasil",
+        "materia": "Informática",
+        "enunciado": "No contexto da segurança da informação, a prática criminosa que consiste em enviar e-mails falsos passando-se por uma instituição confiável (como um banco) para roubar dados do usuário é conhecida como:",
+        "alternativas": [
+            "A) Ransomware",
+            "B) Phishing",
+            "C) Keylogger",
+            "D) Adware"
+        ],
+        "respostaCorreta": 1, 
+        "explicacao": "Phishing (pescaria) é a técnica de enganar o usuário com mensagens falsas para 'pescar' senhas e dados bancários."
+    },
+    {
+        "concurso": "Banco do Brasil",
+        "materia": "Probabilidade e Estatística",
+        "enunciado": "Em um conjunto de dados ordenados (ex: idades de clientes), o valor que ocupa a posição central, dividindo a amostra em duas metades iguais, é chamado de:",
+        "alternativas": [
+            "A) Média",
+            "B) Mediana",
+            "C) Moda",
+            "D) Desvio Padrão"
+        ],
+        "respostaCorreta": 1, 
+        "explicacao": "A Mediana é a medida de tendência central que separa a metade maior da metade menor de uma amostra. A Moda é o valor mais frequente, e a Média é a soma dividida pela quantidade."
+    },
+    {
+        "concurso": "Banco do Brasil",
+        "materia": "Língua Inglesa",
+        "enunciado": "In a banking context, the term 'loan' translates to:",
+        "alternativas": [
+            "A) Conta Corrente",
+            "B) Saque",
+            "C) Empréstimo",
+            "D) Investimento"
+        ],
+        "respostaCorreta": 2, 
+        "explicacao": "O termo 'Loan' significa Empréstimo. 'Conta Corrente' é Checking Account, 'Saque' é Withdrawal e 'Investimento' é Investment."
+    }
 ]
