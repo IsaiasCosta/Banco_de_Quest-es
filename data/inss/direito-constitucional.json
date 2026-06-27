@@ -1,0 +1,31 @@
+[
+    {
+      "concurso": "INSS",
+      "materia": "Direito Constitucional",
+      "enunciado": "Julgue o item a seguir: Recentemente, o transporte foi incluído no rol de direitos sociais previstos na CF, que já contemplavam, entre outros, o direito à saúde, ao trabalho, à moradia e à previdência social, bem como a assistência aos desamparados.",
+      "alternativas": ["A) Certo", "B) Errado"],
+      "respostaCorreta": 0,
+      "explicacao": "Gabarito: Certo. A Emenda Constitucional nº 90/2015 inseriu expressamente o transporte no rol dos direitos sociais do Artigo 6º da Constituição Federal."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Constitucional",
+      "enunciado": "Julgue o item: Considerando-se a CF, é correto afirmar que, no cálculo do benefício previdenciário de um servidor do INSS que esteja licenciado do cargo para exercer mandato de deputado federal, os valores serão determinados como se ele estivesse no exercício do cargo na referida autarquia.",
+      "alternativas": ["A) Certo", "B) Errado"],
+      "respostaCorreta": 0,
+      "explicacao": "Gabarito: Certo. Conforme a Constituição Federal, o servidor público investido em mandato eletivo federal, estadual ou distrital ficará afastado de seu cargo, mas seu tempo de serviço será contado para todos os efeitos legais, e os valores de seus benefícios previdenciários serão determinados como se no exercício estivesse."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Constitucional",
+      "enunciado": "Segundo a Constituição Federal de 1988, são direitos sociais expressos no artigo 6º, EXCETO:",
+      "alternativas": [
+        "A) Educação, saúde e alimentação.",
+        "B) Trabalho, moradia e transporte.",
+        "C) Previdência social e proteção à maternidade e à infância.",
+        "D) Propriedade privada e livre iniciativa."
+      ],
+      "respostaCorreta": 3,
+      "explicacao": "Propriedade privada e livre iniciativa não são direitos sociais (art. 6º), mas sim princípios da ordem econômica e direitos fundamentais."
+    }
+]

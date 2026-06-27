@@ -1,0 +1,34 @@
+[
+  {
+    "concurso": "INSS",
+    "materia": "Seguridade Social",
+    "enunciado": "O princípio da Seguridade Social que garante a prestação de serviços e benefícios iguais às populações urbanas e rurais é a:",
+    "alternativas": [
+      "A) Universalidade da cobertura e do atendimento.",
+      "B) Uniformidade e equivalência dos benefícios e serviços às populações urbanas e rurais.",
+      "C) Seletividade e distributividade na prestação dos benefícios.",
+      "D) Irredutibilidade do valor dos benefícios."
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A 'Uniformidade e equivalência' garante que os mesmos eventos sejam cobertos da mesma forma para urbanos e rurais."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Seguridade Social",
+    "enunciado": "Julgue o item: A reabilitação profissional do beneficiário incapacitado parcial ou totalmente inclui o fornecimento de aparelho de prótese, órtese e instrumentos de auxílio para locomoção.",
+    "alternativas": ["A) Certo", "B) Errado"],
+    "respostaCorreta": 0,
+    "explicacao": "Gabarito: Certo. O INSS fornece órteses e próteses essenciais para a reabilitação funcional."
+  },
+  {
+      "concurso": "INSS",
+      "materia": "Seguridade Social - Financiamento",
+      "enunciado": "Julgue o item: A seguridade social será financiada por toda a sociedade, de forma direta e indireta, nos termos da lei, exclusivamente mediante recursos provenientes das contribuições sociais dos empregadores e dos trabalhadores.",
+      "alternativas": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Gabarito: Errado. Segundo o art. 195 da CF/88, além das contribuições sociais (de empregadores, trabalhadores e receita de concursos de prognósticos), a Seguridade Social é financiada mediante recursos provenientes dos orçamentos da União, dos Estados, do Distrito Federal e dos Municípios."
+    }
+]

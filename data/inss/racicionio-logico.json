@@ -1,0 +1,55 @@
+[
+    {
+      "concurso": "INSS",
+      "materia": "Probabilidade",
+      "enunciado": "Situação: O grupo B tem 600 pessoas. A quantidade de fumantes é 20% do total. A quantidade de ex-fumantes é 30% da quantidade de fumantes. Assertiva: Escolhendo-se aleatoriamente um indivíduo, a probabilidade de ele não pertencer ao conjunto de fumantes nem ao de ex-fumantes será inferior a 70%.",
+      "alternativas": ["A) Certo", "B) Errado"],
+      "respostaCorreta": 1,
+      "explicacao": "Gabarito: Errado. Fumantes = 20% de 600 = 120. Ex-fumantes = 30% de 120 = 36. Não fumantes = 600 - (120 + 36) = 444. A probabilidade de escolher um não fumante é 444/600 = 0,74 (74%). Como 74% NÃO é inferior a 70%, o item está incorreto."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Probabilidade",
+      "enunciado": "Numa população de 1.000 idosos, 400 já sofreram infarto (Grupo A). Cada pessoa do Grupo A é diabética, fumante ou ambos. Se do Grupo A, 280 são fumantes e 195 são diabéticas, julgue o item: 120 pessoas desse grupo são diabéticas e não são fumantes.",
+      "alternativas": ["A) Certo", "B) Errado"],
+      "respostaCorreta": 0,
+      "explicacao": "Gabarito: Certo. O total é 400. Somando Fumantes (280) + Diabéticos (195) = 475. A diferença (475 - 400 = 75) é a intersecção (diabéticos E fumantes). Para saber quem é APENAS diabético (não fuma): 195 - 75 = 120."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Raciocínio Lógico",
+      "enunciado": "Julgue o item: Considerando-se as proposições simples 'Cláudio pratica esportes' e 'Cláudio tem uma alimentação balanceada', é correto afirmar que a proposição 'Cláudio pratica esportes ou ele não pratica esportes e não tem uma alimentação balanceada' é uma tautologia.",
+      "alternativas": ["A) Certo", "B) Errado"],
+      "respostaCorreta": 1,
+      "explicacao": "Gabarito: Errado. Denominando as proposições como P e Q, a sentença lógica é representada como: P v (~P ^ ~Q). Para que fosse Tautologia, o resultado teria que ser Verdadeiro independentemente dos valores. Se Cláudio não pratica esporte (F) mas tem uma alimentação balanceada (V), o resultado desta equação lógica será Falso."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Raciocínio Lógico",
+      "enunciado": "Julgue o item: Na lógica proposicional, a oração 'Antônio fuma 10 cigarros por dia, logo a probabilidade de ele sofrer um infarto é três vezes maior que a de Pedro, que é não fumante' representa uma proposição composta.",
+      "alternativas": ["A) Certo", "B) Errado"],
+      "respostaCorreta": 1,
+      "explicacao": "Gabarito: Errado. Esta sentença apresenta uma relação causal descritiva (probabilidade estatística explicada), não contendo proposições fechadas que possam ser puramente valoradas como Verdadeiras ou Falsas separadas por conectivos lógicos rígidos para compor uma proposição composta matemática clássica."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Raciocínio Lógico",
+      "enunciado": "Supondo-se que p seja a proposição simples 'João é fumante', que q seja a proposição simples 'João não é saudável' e que p -> q, então o valor lógico da proposição 'João não é fumante, logo ele é saudável' será verdadeiro.",
+      "alternativas": ["A) Certo", "B) Errado"],
+      "respostaCorreta": 1,
+      "explicacao": "Gabarito: Errado. O item descreve uma falácia clássica conhecida como 'Negação do Antecedente'. O fato de todo fumante não ser saudável (p -> q) não assegura logicamente que todo não fumante será perfeitamente saudável (~p -> ~q), pois existem diversos outros motivos para alguém não ser saudável."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Raciocínio Lógico",
+      "enunciado": "A negação lógica da proposição 'Se o candidato estuda, então ele passa no INSS' é:",
+      "alternativas": [
+        "A) Se o candidato não estuda, então ele não passa no INSS.",
+        "B) O candidato não estuda e não passa no INSS.",
+        "C) O candidato estuda e não passa no INSS.",
+        "D) O candidato não estuda ou passa no INSS."
+      ],
+      "respostaCorreta": 2,
+      "explicacao": "A negação de uma condicional (P -> Q) é obtida mantendo a primeira parte E negando a segunda (P e ~Q). Regra do 'MANÉ' (Mantém e Nega)."
+    }
+]

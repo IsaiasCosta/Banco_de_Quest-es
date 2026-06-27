@@ -1,0 +1,15 @@
+[
+    {
+      "concurso": "Caixa",
+      "materia": "Probabilidade e Estatística",
+      "enunciado": "Ao lançarmos um dado comum de 6 faces, não viciado, qual é a probabilidade de obtermos um número par?",
+      "alternativas": [
+        "A) 25%",
+        "B) 33,3%",
+        "C) 50%",
+        "D) 75%"
+      ],
+      "respostaCorreta": 2,
+      "explicacao": "Um dado tem 6 faces. Três são pares (2, 4, 6) e três são ímpares (1, 3, 5). Probabilidade = Casos Favoráveis (3) / Casos Possíveis (6) = 3/6 = 1/2 = 50%."
+    }
+]

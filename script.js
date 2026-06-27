@@ -1,105 +1,112 @@
 // O script.js agora é APENAS o motor lógico. Sem banco de dados fixo aqui.
+let concursos = []; // Array para armazenar os concursos carregados do JSON // Array para armazenar as matérias carregadas do JSON
+
 let questoesFiltradas = [];
 let questaoAtual = 0;
 let acertos = 0;
 let erros = 0;
 let respondeu = false;
 
-// Configuração dos concursos disponíveis na pasta 'data'
-const arquivosConcursos = [
-    { arquivo: "inss", nome: "INSS" },
-    { arquivo: "bb", nome: "Banco do Brasil" },
-    { arquivo: "caixa", nome: "Caixa" }
-];
+
+async function carregarConfiguracoes() {
+
+    const respostaConcursos = await fetch("config/concursos.json");
+    concursos = await respostaConcursos.json();
+
+        console.log(concursos);
+        
+    carregarOpcoesDeFiltro();
+
+}
 
 // Prepara as caixas de seleção automaticamente
 function carregarOpcoesDeFiltro() {
-    const selectConcurso = document.getElementById("select-concurso");
-    selectConcurso.innerHTML = '<option value="todos">Selecione um Concurso</option>'; // Força o usuário a escolher
-    
-    arquivosConcursos.forEach(c => {
+
+    const select = document.getElementById("select-concurso");
+    select.innerHTML = "<option value=''>Selecione um concurso</option>";
+    concursos.forEach(c => {
         const option = document.createElement("option");
-        option.value = c.arquivo; // Valor é o nome do arquivo JSON
-        option.innerText = c.nome;
-        selectConcurso.appendChild(option);
-    });
-}
+        option.value = c.id;
+        option.textContent = c.nome;
+        select.appendChild(option);
 
+    });
+
+}
 // Quando mudar o concurso, busca o arquivo JSON correspondente
-async function atualizarMaterias() {
-    const concursoSelecionado = document.getElementById("select-concurso").value;
-    const selectMateria = document.getElementById("select-materia");
-    
-    selectMateria.innerHTML = '<option value="todas">Todas as Matérias</option>';
-    
-    if (concursoSelecionado === "todos") return; // Sai se não tiver escolhido
+function atualizarMaterias() {
 
-    try {
-        // A MÁGICA DO FETCH ACONTECE AQUI
-        const resposta = await fetch(`data/${concursoSelecionado}.json`);
-        
-        if (!resposta.ok) throw new Error("Arquivo JSON não encontrado.");
-        
-        const questoes = await resposta.json();
-        
-        // Extrai as matérias daquele JSON específico
-        const materiasUnicas = [...new Set(questoes.map(q => q.materia))];
-        
-        materiasUnicas.forEach(materia => {
-            const option = document.createElement("option");
-            option.value = materia;
-            option.innerText = materia;
-            selectMateria.appendChild(option);
-        });
-        
-        // Já salva as questões do arquivo selecionado na memória para o filtro
-        window.questoesTemporarias = questoes; 
+    const concurso = document.getElementById("select-concurso").value;
 
-    } catch (erro) {
-        console.error("Erro ao carregar matérias:", erro);
-        alert(`Não foi possível carregar o arquivo data/${concursoSelecionado}.json. Você está usando o Live Server?`);
-    }
-}
+    const select = document.getElementById("select-materia");
 
-function iniciarEstudos() {
-    const concursoSelecionado = document.getElementById("select-concurso").value;
-    const materiaSelecionada = document.getElementById("select-materia").value;
+    select.innerHTML = "<option value=''>Selecione a matéria</option>";
 
-    if (concursoSelecionado === "todos" || !window.questoesTemporarias) {
-        alert("Por favor, selecione um concurso primeiro!");
-        return;
-    }
+    if (!concurso) return;
 
-    // Lógica principal do filtro em cima do JSON carregado
-    questoesFiltradas = window.questoesTemporarias.filter(q => {
-        const matchMateria = (materiaSelecionada === "todas") || (q.materia === materiaSelecionada);
-        return matchMateria;
+    const dados = concursos.find(c => c.id === concurso);
+
+    if (!dados) return;
+
+    dados.materias.forEach(materia => {
+
+        const option = document.createElement("option");
+
+        option.value = materia;
+
+        option.textContent = materia
+            .replaceAll("-", " ")
+            .replace(/\b\w/g, letra => letra.toUpperCase());
+
+        select.appendChild(option);
+
     });
 
-    if (questoesFiltradas.length === 0) {
-        alert("Nenhuma questão encontrada com esses filtros!");
+}
+
+async function iniciarEstudos() {
+
+    const concurso = document.getElementById("select-concurso").value;
+    const materia = document.getElementById("select-materia").value;
+    if (!concurso || !materia) {
+
+        alert("Selecione o concurso e a matéria.");
+        return;
+
+    }
+
+    const resposta = await fetch(`data/${concurso}/${materia}.json`);
+
+    if (!resposta.ok) {
+        alert(`Arquivo não encontrado:\ndata/${concurso}/${materia}.json`);
         return;
     }
 
-    // Limpa o placar a cada nova sessão
+    questoesFiltradas = await resposta.json();
     questaoAtual = 0;
     acertos = 0;
     erros = 0;
+
     document.getElementById("total-filtradas").innerText = questoesFiltradas.length;
     atualizarDashboard();
-    
     renderizarQuestao();
+
 }
 
 function renderizarQuestao() {
     respondeu = false;
     const q = questoesFiltradas[questaoAtual];
-    
+
+    if (!q) {
+        alert("Nenhuma questão encontrada.");
+        return;
+    }
+
     document.getElementById("area-feedback").className = "feedback-oculto";
     document.getElementById("tag-concurso").innerText = q.concurso;
     document.getElementById("tag-materia").innerText = q.materia;
     document.getElementById("enunciado").innerText = q.enunciado;
-    
+
     const divOpcoes = document.getElementById("opcoes");
     divOpcoes.innerHTML = "";
 
@@ -112,7 +119,7 @@ function renderizarQuestao() {
 }
 
 function verificarResposta(indiceEscolhido, botaoClicado) {
-    if (respondeu) return; 
+    if (respondeu) return;
     respondeu = true;
 
     const q = questoesFiltradas[questaoAtual];
@@ -129,7 +136,7 @@ function verificarResposta(indiceEscolhido, botaoClicado) {
         statusTxt.className = "status-resposta sucesso";
     } else {
         botaoClicado.classList.add("errada");
-        botoes[q.respostaCorreta].classList.add("correta"); 
+        botoes[q.respostaCorreta].classList.add("correta");
         erros++;
         statusTxt.innerText = "Resposta Incorreta. ❌";
         statusTxt.className = "status-resposta falha";
@@ -151,8 +158,16 @@ function atualizarDashboard() {
 }
 
 function proximaQuestao() {
+
+    if (!respondeu) {
+        alert("Responda a questão antes de continuar.");
+        return;
+    }
+
     questaoAtual++;
-    
+
+    questaoAtual++;
+
     if (questaoAtual >= questoesFiltradas.length) {
         alert("Fim das questões para este filtro! Vamos recomeçar a rodada.");
         questaoAtual = 0;
@@ -165,8 +180,10 @@ function questaoAnterior() {
 }
 
 // O evento onChange para atualizar matérias quando mudar o concurso
-document.getElementById('select-concurso').addEventListener('change', atualizarMaterias);
 
 window.onload = () => {
-    carregarOpcoesDeFiltro();
+    carregarConfiguracoes();
+    document
+        .getElementById("select-concurso")
+        .addEventListener("change", atualizarMaterias);
 };

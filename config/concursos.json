@@ -1,0 +1,48 @@
+[
+    {
+        "id": "inss",
+        "nome": "INSS",
+        "materias": [
+            "portugues",
+            "raciocinio-logico",
+            "informatica",
+            "direito-constitucional",
+            "direito-administrativo",
+            "etica",
+            "lei-8112",
+            "seguridade-social",
+            "servico-social",
+            "direito-previdenciario"
+        ]
+    },
+    {
+        "id": "bb",
+        "nome": "Banco do Brasil",
+        "materias": [
+            "portugues",
+            "matematica",
+            "matematica-financeira",
+            "conhecimentos-bancarios",
+            "informatica",
+            "probabilidade-estatistica",
+            "atualidades-mercado-financeiro",
+            "vendas-negociacao",
+            "ingles",
+            "etica"
+        ]
+    },
+    {
+        "id": "caixa",
+        "nome": "Caixa Econômica Federal",
+        "materias": [
+            "portugues",
+            "matematica-financeira",
+            "conhecimentos-bancarios",
+            "tecnologia-informacao",
+            "probabilidade-estatistica",
+            "atendimento-bancario",
+            "vendas-negociacao",
+            "etica"
+        ]
+    }
+]

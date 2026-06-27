@@ -1,33 +1,41 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Meu Caderno de Questões</title>
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
 
     <!-- Filtros de Estudo -->
     <div class="painel-filtros">
         <h3>🎯 Escolha o que estudar hoje</h3>
+
         <div class="controles-filtro">
-            <select id="select-concurso" onchange="atualizarMaterias()">
-                <option value="todos">Todos os Concursos</option>
+
+            <select id="select-concurso">
+                <option value="">Selecione um concurso</option>
             </select>
-            
+
             <select id="select-materia">
-                <option value="todas">Todas as Matérias</option>
+                <option value="">Selecione a matéria</option>
             </select>
-            
-            <button class="btn-filtrar" onclick="iniciarEstudos()">Iniciar Revisão</button>
+
+            <button class="btn-filtrar" onclick="iniciarEstudos()">
+                Iniciar Revisão
+            </button>
+
         </div>
     </div>
-
     <!-- Dashboard de Desempenho -->
     <div class="dashboard">
-        <div class="placar-item">Questões: <span id="total-respondidas">0</span>/<span id="total-filtradas">0</span></div>
-        <div class="placar-item acertos">Acertos: <span id="total-acertos">0</span> (<span id="pct-acertos">0%</span>)</div>
+        <div class="placar-item">Questões: <span id="total-respondidas">0</span>/<span id="total-filtradas">0</span>
+        </div>
+        <div class="placar-item acertos">Acertos: <span id="total-acertos">0</span> (<span id="pct-acertos">0%</span>)
+        </div>
         <div class="placar-item erros">Erros: <span id="total-erros">0</span></div>
     </div>
 
@@ -37,9 +45,9 @@
             <span class="tag-concurso" id="tag-concurso">...</span>
             <span class="tag-materia" id="tag-materia">...</span>
         </div>
-        
+
         <h2 class="enunciado" id="enunciado">Selecione os filtros acima e clique em "Iniciar Revisão".</h2>
-        
+
         <div class="opcoes" id="opcoes">
             <!-- Alternativas dinâmicas -->
         </div>
@@ -47,14 +55,15 @@
         <div id="area-feedback" class="feedback-oculto">
             <div id="status-resposta"></div>
             <div class="explicacao">
-                <strong>Gabarito Comentado:</strong> 
+                <strong>Gabarito Comentado:</strong>
                 <p id="texto-explicacao"></p>
             </div>
-              <button id="btn-anterior" onclick="questaoAnterior()">&larr; Anterior</button>
-              <button id="btn-proxima" onclick="proximaQuestao()">Próxima Questão &rarr;</button>
+            <button id="btn-anterior" onclick="questaoAnterior()">&larr; Anterior</button>
+            <button id="btn-proxima" onclick="proximaQuestao()">Próxima Questão &rarr;</button>
         </div>
     </div>
 
     <script src="script.js"></script>
 </body>
+
 </html>

@@ -1,0 +1,31 @@
+[
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "Julgue o item acerca da administração direta e indireta: O INSS integra a administração direta do governo federal, uma vez que esse instituto é uma autarquia federal vinculada ao MPS.",
+      "alternativas": ["A) Certo", "B) Errado"],
+      "respostaCorreta": 1,
+      "explicacao": "Gabarito: Errado. A Administração Pública Direta é formada pelos órgãos (Ministérios, Presidência, etc.). As autarquias, como o INSS, compõem a Administração Pública INDIRETA (criadas por descentralização administrativa)."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "Julgue o item: Os institutos da desconcentração e da descentralização, essenciais à organização e repartição de competências da administração pública, podem ser exemplificados, respectivamente, pela relação entre o MPS e a União e pela vinculação entre o INSS e o MPS.",
+      "alternativas": ["A) Certo", "B) Errado"],
+      "respostaCorreta": 1,
+      "explicacao": "Gabarito: Errado. A descentralização cria novas entidades (como a criação do INSS, que é uma autarquia). A desconcentração cria órgãos dentro da mesma entidade (como os Ministérios dentro da União). O erro do item está na formulação da relação 'entre o MPS e a União' como exemplo direto de desconcentração na ordem apresentada, o que tornou o item incorreto segundo a banca."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "A Administração Pública direta e indireta de qualquer dos Poderes obedece aos princípios constitucionais conhecidos pelo mnemônico LIMPE. Quais são eles?",
+      "alternativas": [
+        "A) Legalidade, Igualdade, Moralidade, Proporcionalidade e Eficiência.",
+        "B) Legalidade, Impessoalidade, Moralidade, Publicidade e Eficiência.",
+        "C) Legitimidade, Impessoalidade, Moralidade, Probidade e Eficiência.",
+        "D) Legalidade, Impessoalidade, Motivação, Publicidade e Efetividade."
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "O art. 37 da CF traz os princípios constitucionais expressos: Legalidade, Impessoalidade, Moralidade, Publicidade e Eficiência (LIMPE)."
+    }
+]

@@ -1,0 +1,55 @@
+[
+  {
+      "concurso": "INSS",
+      "materia": "Informática",
+      "enunciado": "Julgue a assertiva: Para melhorar o desempenho de um computador lento com muitos aplicativos abertos, o usuário deve utilizar um aplicativo de antivírus instalado localmente, para eliminar os aplicativos que estiverem consumindo recursos além do normal.",
+      "alternativas": ["A) Certo", "B) Errado"],
+      "respostaCorreta": 1,
+      "explicacao": "Gabarito: Errado. Um antivírus atua identificando e mitigando ameaças (malwares, cavalos de troia). Para gerenciar recursos e forçar o encerramento de aplicações comuns que consomem muita memória, utiliza-se o Gerenciador de Tarefas do Windows."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Informática",
+      "enunciado": "Julgue o item: Não haverá similaridade entre os sistemas de consulta disponibilizados na Internet e na Intranet, porque sistemas voltados para intranet, diferentemente dos voltados para Internet, não são compatíveis com o ambiente web.",
+      "alternativas": ["A) Certo", "B) Errado"],
+      "respostaCorreta": 1,
+      "explicacao": "Gabarito: Errado. A essência de uma Intranet é justamente utilizar a exata mesma base tecnológica da Internet (protocolos TCP/IP, padrões web como HTML, navegadores) de forma restrita (fechada para a organização). Logo, há total compatibilidade."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Informática",
+      "enunciado": "Situação: Elisa compartilhou um arquivo de texto para que todos do setor o editassem a partir de suas estações. Todos realizaram a edição por meio do LibreOffice Writer com a função Gravar alterações ativada. Assertiva: Quando da revisão final do texto, Elisa terá acesso a diversas informações, tais como: tipo de alteração, data e hora da alteração e autor da alteração.",
+      "alternativas": ["A) Certo", "B) Errado"],
+      "respostaCorreta": 1,
+      "explicacao": "Gabarito: Errado. O erro da assertiva reside na descrição do fluxo. O LibreOffice Writer (processador de texto tradicional desktop) não suporta coautoria simultânea do mesmo arquivo local na rede de forma que permita essa consolidação direta e em tempo real, diferentemente de ferramentas nativas na nuvem (como o Google Docs)."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Informática",
+      "enunciado": "Julgue o item: Para que fosse calculada a média dos cinco últimos rendimentos, inseriu-se os dados no LibreOffice Calc (células A1 até A5). Por meio da fórmula =MED(A1:A5:5), inserida na célula A6, poderá determinar-se corretamente a média desejada.",
+      "alternativas": ["A) Certo", "B) Errado"],
+      "respostaCorreta": 1,
+      "explicacao": "Gabarito: Errado. A fórmula =MED() não calcula a média, mas sim a MEDIANA de um conjunto de valores. Para média aritmética no software em português, utiliza-se a função =MÉDIA(). Além disso, a sintaxe (A1:A5:5) é incorreta."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Informática",
+      "enunciado": "Julgue o item: No explorador de arquivos do Windows 10, é possível fixar as pastas favoritas na funcionalidade acesso rápido, que lista, além das pastas fixadas, as usadas com frequência e também os arquivos usados recentemente.",
+      "alternativas": ["A) Certo", "B) Errado"],
+      "respostaCorreta": 0,
+      "explicacao": "Gabarito: Certo. A funcionalidade 'Acesso Rápido' (Quick Access) do Windows 10 tem exatamente essa premissa: agrupar itens fixados pelo usuário junto com pastas frequentes e arquivos recentes."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Informática",
+      "enunciado": "Qual atalho de teclado é utilizado no Windows 10 para abrir o Explorador de Arquivos (File Explorer)?",
+      "alternativas": [
+        "A) Windows + E",
+        "B) Windows + D",
+        "C) Windows + L",
+        "D) Ctrl + Shift + Esc"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "A tecla Windows + E (de Explorer) abre imediatamente o Explorador de Arquivos."
+    }
+]

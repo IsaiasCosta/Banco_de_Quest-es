@@ -1,0 +1,844 @@
+[
+    {
+        "concurso": "INSS",
+        "materia": "Seguridade Social - Princípios",
+        "enunciado": "O princípio da Seguridade Social que garante a prestação de serviços e benefícios iguais às populações urbanas e rurais é a:",
+        "alternativas": [
+            "A) Universalidade da cobertura e do atendimento.",
+            "B) Uniformidade e equivalência dos benefícios e serviços às populações urbanas e rurais.",
+            "C) Seletividade e distributividade na prestação dos benefícios.",
+            "D) Irredutibilidade do valor dos benefícios."
+        ],
+        "respostaCorreta": 1,
+        "explicacao": "A 'Uniformidade e equivalência' garante que os mesmos eventos (ex: aposentadoria, salário-maternidade) sejam cobertos da mesma forma tanto para trabalhadores urbanos quanto rurais, respeitando a equivalência de valores."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Seguridade Social - Reabilitação",
+        "enunciado": "Julgue o item: A reabilitação profissional do beneficiário incapacitado parcial ou totalmente inclui o fornecimento de aparelho de prótese, órtese e instrumentos de auxílio para locomoção.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Gabarito: Certo. O INSS é obrigado a fornecer órteses e próteses quando estas forem essenciais para a reabilitação funcional e profissional do segurado."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Seguridade Social - Custeio",
+        "enunciado": "Julgue o item a respeito do custeio da seguridade social: Sobre a receita de loterias, apostas e sorteio de números incidirá contribuição social destinada a financiar a seguridade social.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Gabarito: Certo. Conforme o Artigo 195, inciso III, da Constituição, a seguridade social também é financiada pela receita de concursos de prognósticos (loterias, sorteios e apostas)."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Seguridade Social - Princípios",
+        "enunciado": "Julgue o item: O serviço público deve-se orientar na estruturação da seguridade social pelos seguintes objetivos, entre outros: equidade na forma de participação no custeio e caráter democrático e descentralizado da administração.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Gabarito: Certo. Estes são exatamente alguns dos objetivos (ou princípios) da Seguridade Social previstos expressamente no artigo 194 da Constituição Federal."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Seguridade Social - Regimes Previdenciários",
+        "enunciado": "Julgue o item: O RGPS constitui um gênero do qual são espécies a previdência dos servidores públicos, a dos trabalhadores empregados da iniciativa privada e a dos trabalhadores autônomos.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 1,
+        "explicacao": "Gabarito: Errado. A previdência dos servidores públicos não é uma espécie do RGPS (Regime Geral de Previdência Social). Os servidores titulares de cargos efetivos possuem o RPPS (Regime Próprio de Previdência Social)."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Seguridade Social - Custeio",
+        "enunciado": "Situação hipotética: Caio aposentou-se recentemente pelo RGPS e recebe o teto do salário-de-benefício. Assertiva: Empregado aposentado pelo RGPS, Caio deve, assim como os servidores públicos inativos, contribuir para o custeio da seguridade social.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 1,
+        "explicacao": "Gabarito: Errado. Aposentados e pensionistas do RGPS são isentos do pagamento da contribuição previdenciária. Apenas os inativos do regime próprio (servidores públicos) pagam contribuição sobre o que excede o teto."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Seguridade Social - Custeio",
+        "enunciado": "Situação hipotética: Bruno, portador de doença incapacitante devidamente comprovada, é pensionista da União e percebe benefício de R$ 10.000,00. Assertiva: Bruno não precisa contribuir com a previdência, pois portadores de doença incapacitante contribuem apenas sobre as parcelas que superem o dobro do limite máximo do RGPS.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Gabarito: Certo. *Atenção do Estudante:* Esta questão foi considerada certa conforme a Emenda Constitucional nº 41/03 vigente na época da prova (2016). Após a Reforma da Previdência (EC 103/2019), essa regra de isenção em dobro para doenças incapacitantes foi revogada."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Seguridade Social - Custeio",
+        "enunciado": "Situação hipotética: Ana, servidora aposentada por RPPS, recebe R$ 6.500,00 de aposentadoria. Assertiva: De acordo com a CF, incide contribuição previdenciária de 11% sobre o valor total da aposentadoria de Ana, pois seus proventos superam o teto do salário-de-benefício.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 1,
+        "explicacao": "Gabarito: Errado. Para servidores inativos (RPPS), a contribuição não incide sobre o valor total, mas APENAS sobre a parcela dos proventos que ultrapassa o teto do RGPS."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Seguridade Social - Benefícios",
+        "enunciado": "Situação hipotética: Roberto ficará afastado do trabalho por 4 meses por doença atestada pelo INSS. Assertiva: Durante o período de quatro meses de afastamento, Roberto fará jus ao recebimento de auxílio-acidente.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 1,
+        "explicacao": "Gabarito: Errado. O afastamento temporário por problema de saúde enseja a concessão do Auxílio-Doença (atual Auxílio por Incapacidade Temporária). O Auxílio-Acidente tem natureza indenizatória e só é concedido após a consolidação das lesões que deixam sequelas permanentes."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Seguridade Social - Segurados",
+        "enunciado": "Julgue o item: Flávia contribuiu para o RGPS durante seis anos, após os quais deixou de contribuir e perdeu a qualidade de segurada. Nessa situação, caso volte a contribuir para o RGPS, Flávia não poderá computar esses seis anos para efeito de aposentadoria por tempo de contribuição.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 1,
+        "explicacao": "Gabarito: Errado. A perda da qualidade de segurada não extingue o tempo de contribuição já recolhido. Quando Flávia voltar a contribuir, todo o tempo anterior será somado no cálculo geral para aposentadoria."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Seguridade Social - Avaliação Biopsicossocial",
+        "enunciado": "Julgue o item: A concessão de benefícios destinados às pessoas com deficiência está condicionada a avaliação prévia. No caso de aposentadorias, essa avaliação restringe-se à perícia médica e, no caso do BPC, à avaliação pelo assistente social.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 1,
+        "explicacao": "Gabarito: Errado. Tanto para o BPC quanto para a Aposentadoria da Pessoa com Deficiência (LC 142), a avaliação da deficiência e do grau de incapacidade deve ser biopsicossocial, devendo envolver necessariamente equipe multiprofissional e interdisciplinar (médico e assistente social) para os dois casos."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Seguridade Social na Previdência",
+        "enunciado": "Julgue o item: Entre os avanços proporcionados pela matriz teórico-metodológica do serviço social na previdência social, destaca-se a produção teórica específica sobre a política previdenciária e o serviço social, com divulgação em congressos, livros e periódicos.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Gabarito: Certo. O fortalecimento intelectual e a organização acadêmica levaram os assistentes sociais da autarquia a criar farta literatura especializada sobre o Serviço Social Previdenciário (Matriz Teórico-Metodológica do Serviço Social na Previdência, elaborada nos anos 2000)."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Seguridade Social - Organização",
+        "enunciado": "Julgue o item: Na organização da seguridade social, o objetivo da universalidade da cobertura e do atendimento diz respeito, mais diretamente, à política de previdência social, dada a superação de sua lógica securitária.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 1,
+        "explicacao": "Gabarito: Errado. A previdência social NÃO superou a sua lógica securitária (ela continua sendo contributiva e de filiação obrigatória). A universalidade do atendimento aplica-se de forma muito mais direta e ampla à Saúde (SUS), que atende a todos independentemente de contribuição."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Seguridade Social - Saúde (SUS)",
+        "enunciado": "Julgue o item: Os princípios que orientam as ações e os serviços públicos de saúde e serviços privados contratados ou conveniados que integram o SUS incluem a universalidade de acesso, a integralidade de assistência e a descentralização político-administrativa.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Gabarito: Certo. Conforme estabelecido no Artigo 198 da Constituição Federal e na Lei 8.080/90, estes são os princípios e diretrizes basilares que regem a estruturação do Sistema Único de Saúde (SUS)."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Seguridade Social - Pensão por Morte",
+        "enunciado": "Julgue o item: O direito à pensão por morte é assegurado ao cônjuge ou companheiro(a) somente se, no momento do óbito, houver casamento ou união estável por, no mínimo, cinco anos.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 1,
+        "explicacao": "Gabarito: Errado. A legislação atual exige que o casamento ou a união estável tenha se iniciado há pelo menos 2 anos (e não 5 anos) antes do óbito do segurado para que o cônjuge tenha direito à pensão além do prazo mínimo de 4 meses."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Seguridade Social - Benefícios",
+        "enunciado": "Situação hipotética: Roberto deverá afastar-se do trabalho por quatro meses em função de um problema cardíaco atestado em perícia do INSS. Assertiva: caso, após seu afastamento do trabalho, Roberto não recupere a saúde, e se comprove a sua incapacidade absoluta para o trabalho, o INSS poderá conceder-lhe aposentadoria por invalidez.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Gabarito: Certo. A aposentadoria por invalidez (atualmente chamada de aposentadoria por incapacidade permanente) é concedida ao segurado que, estando ou não em gozo de auxílio-doença, for considerado incapaz e insuscetível de reabilitação para o exercício de atividade que lhe garanta a subsistência."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Seguridade Social - Justificação Administrativa",
+        "enunciado": "Julgue o item: Raimunda conviveu em regime de união estável com Cláudio por doze anos, até falecer. Raimunda não inscreveu Cláudio como seu dependente previdenciário. Nessa situação, caso o INSS exija prova da união estável para a concessão de benefício, Cláudio poderá utilizar-se da justificação administrativa.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Gabarito: Certo. A Justificação Administrativa (JA) é um procedimento que permite suprir a falta ou insuficiência de documento ou produzir prova de fato ou circunstância de interesse dos beneficiários, mediante a apresentação de início de prova material e testemunhas."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Seguridade Social - RGPS",
+        "enunciado": "Julgue o item: O RGPS tem como princípio a universalidade de cobertura, o que significa que os segurados vinculados a esse regime e seus dependentes têm direito aos mesmos benefícios e serviços.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 1,
+        "explicacao": "Gabarito: Errado. A 'Universalidade da cobertura e do atendimento' é um princípio da Seguridade Social como um todo, e não significa que todos terão os mesmos benefícios idênticos independentemente de sua contribuição ou situação, pois existem regras específicas de elegibilidade no RGPS."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Seguridade Social - Custeio",
+        "enunciado": "Julgue o item relativo ao custeio da seguridade social: A contribuição do segurado empregado e a do trabalhador doméstico recaem sobre o valor dos seus salários de contribuição, até um teto máximo fixado por lei.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Gabarito: Certo. As contribuições dos segurados empregados e trabalhadores domésticos são calculadas com base em seus salários de contribuição e estão, de fato, limitadas ao teto máximo do RGPS (teto previdenciário)."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Seguridade Social - Segurados e Dependentes",
+        "enunciado": "São considerados segurados obrigatórios da Previdência Social, EXCETO:",
+        "alternativas": [
+            "A) O empregado de empresa pública ou sociedade de economia mista.",
+            "B) O trabalhador avulso, que presta serviço a diversas empresas, sem vínculo empregatício.",
+            "C) A dona de casa que contribui facultativamente para a Previdência.",
+            "D) O contribuinte individual (trabalhador autônomo)."
+        ],
+        "respostaCorreta": 2,
+        "explicacao": "A dona de casa (ou estudante) não exerce atividade remunerada, portanto, é segurada FACULTATIVA, e não obrigatória."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Seguridade Social - Benefícios",
+        "enunciado": "O auxílio-reclusão é devido, nas condições da lei, aos:",
+        "alternativas": [
+            "A) Dependentes do segurado de baixa renda.",
+            "B) Segurados que estejam cumprindo pena em regime fechado ou semiaberto.",
+            "C) Dependentes de qualquer segurado, independente de renda.",
+            "D) Dependentes do segurado de alta renda."
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Conforme a Emenda Constitucional 103/2019, o auxílio-reclusão é devido exclusivamente aos dependentes do segurado de BAIXA RENDA recolhido à prisão em regime fechado."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Prática Previdenciária",
+        "enunciado": "Julgue o item: Compete ao serviço social esclarecer aos beneficiários seus direitos sociais e os meios de exercê-los, assim como estabelecer conjuntamente com esses beneficiários o processo de solução dos problemas que emergirem de sua relação com a previdência social.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Gabarito: Certo. O Serviço Social na Previdência tem caráter educativo e emancipatório, orientando o cidadão sobre como acessar seus direitos e participar da solução de seus problemas."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Projeto Ético-Político",
+        "enunciado": "Julgue o item: Atualmente, o serviço social na previdência ultrapassa o discurso da humanização para apoiar-se em sólido conhecimento da realidade, aliado à defesa de direitos dos usuários.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Gabarito: Certo. A profissão abandonou a visão burocrática/humanista rasa para assumir uma postura fundamentada na 'Matriz Teórico-Metodológica', defendendo direitos e analisando a realidade social."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Estado e Governo",
+        "enunciado": "Julgue o item: Estado e governo se confundem, pois as instituições em uma sociedade territorialmente definida são ocupadas por dirigentes que governam em nome do Estado.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 1,
+        "explicacao": "Gabarito: Errado. Estado (permanente) e governo (temporário/transitório) são conceitos distintos. Os dirigentes governam o Estado, mas não são o Estado."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Burocracia Estatal",
+        "enunciado": "Julgue o item: Na perspectiva da dominação racional-legal, funcionários que compõem o quadro administrativo burocrático do Estado são livres, exercem o cargo como profissão única, são contratados por qualificação e obedecem a hierarquia.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Gabarito: Certo. Esta é a descrição clássica de Max Weber sobre a burocracia racional-legal, a base da organização administrativa moderna."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Estado de Bem-Estar",
+        "enunciado": "Julgue o item: A crise do Estado de bem-estar social manifesta-se pela articulação dos seguintes fatores: universalismo protetor, particularismo social e a mercantilização da política social.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 1,
+        "explicacao": "Gabarito: Errado. A crise ocorre justamente quando o Estado começa a abandonar o 'universalismo protetor' e a aumentar a 'mercantilização' das políticas, e não pela existência desses fatores como virtudes."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Cidadania",
+        "enunciado": "Julgue o item: No Brasil, o termo 'cidadania regulada' está relacionado ao direito à previdência assegurado aos cidadãos contribuintes que não possuam vínculo empregatício formal.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 1,
+        "explicacao": "Gabarito: Errado. O conceito de 'Cidadania Regulada' (de Wanderley Guilherme dos Santos) refere-se especificamente aos trabalhadores vinculados ao mercado formal de trabalho na era Vargas."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Política Social",
+        "enunciado": "Julgue o item: A relação entre política social e cidadania é direta e imediata, uma vez que a política social dilui conflitos de classe.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 1,
+        "explicacao": "Gabarito: Errado. Políticas sociais não diluem conflitos de classe; elas são, na verdade, respostas estatais a contradições de classe, tentando gerenciar (e não eliminar) esses conflitos."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Políticas Públicas",
+        "enunciado": "Julgue o item: É comum às políticas públicas o fato de se constituírem em espaços de poder onde se disputam recursos e a visão de mundo que orienta a ação sobre a realidade.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Gabarito: Certo. Políticas públicas nunca são neutras; são arenas de disputa de poder e projetos de sociedade."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Políticas Públicas",
+        "enunciado": "Julgue o item: Políticas públicas distributivas são menos conflituosas que políticas redistributivas, uma vez que os recursos nas distributivas não tornam explícito quem paga a conta.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Gabarito: Certo. Esta é a análise clássica da tipologia de Lowi. Políticas distributivas (como subsídios) são mais fáceis de passar que as redistributivas (que retiram de um grupo para dar a outro)."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Formulação de Políticas",
+        "enunciado": "Julgue o item: A fase de formulação de uma política pública refere-se ao processo de criação de opções sobre o que fazer a respeito de um problema público, incluindo restrições técnicas e políticas.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Gabarito: Certo. A formulação é o momento de desenhar as  'alternativas' de intervenção considerando a viabilidade técnica e política."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Política Pública",
+        "enunciado": "Julgue o item: Política pública pode ser considerada sinônimo de política estatal, pois é do governo a responsabilidade de identifying os problemas sociais prioritários.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 1,
+        "explicacao": "Gabarito: Errado. O conceito de política pública é mais amplo que política estatal; envolve a participação da sociedade civil e atores diversos, não se restringindo apenas ao que o governo faz."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Controle Social",
+        "enunciado": "Julgue o item: O fortalecimento da estrutura dos conselhos e sua capacidade de execução relaciona-se diretamente ao reconhecimento pelo Estado de que tais conselhos são parte integrante do processo de gestão de políticas públicas.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Gabarito: Certo. A eficácia dos conselhos de políticas sociais depende diretamente de sua integração formal e prática no processo de tomada de decisão do Estado."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Dimensões do Controle Social",
+        "enunciado": "Julgue o item: A dimensão política do controle social observa-se na influência na agenda governamental. A técnica, na fiscalização da gestão pública. A ética, na construção de novos valores fundados na solidariedade e justiça social.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Gabarito: Certo. Esta divisão didática (dimensão política, técnica e ética) é amplamente aceita no Serviço Social para analisar como ocorre a participação social no Estado democrático."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Pobreza e Programas Sociais",
+        "enunciado": "Julgue o item: A pobreza tem natureza conjuntural, e não estrutural, de modo que programas de transferência de renda condicionada alcançam seus objetivos de assegurar o direito à vida, mas não resolvem a situação de pobreza.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 1,
+        "explicacao": "Gabarito: Errado. A pobreza no sistema capitalista é ESTRUTURAL, não conjuntural (passageira). O erro do item foi dizer que a pobreza não é estrutural."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Direitos do Idoso",
+        "enunciado": "Julgue o item: São as entidades sociais as responsáveis por garantir aos idosos o direito à concessão de benefícios e à cobertura de programas como a seguridade social (saúde, previdência e assistência social).",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 1,
+        "explicacao": "Gabarito: Errado. A responsabilidade primária de garantir tais direitos (Saúde, Previdência e Assistência) é do ESTADO, e não de entidades sociais (ONGs/Terceiro Setor), embora estas possam prestar serviços conveniados."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Estudo Socioeconômico",
+        "enunciado": "Julgue o item: Na realização de entrevistas para a elaboração de um parecer social, o assistente social deve ignorar as informações contidas nos prontuários ou processos relativos à situação em estudo, para não ser influenciado na sua opinião técnica.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 1,
+        "explicacao": "Gabarito: Errado. É exatamente o oposto: a análise documental e a leitura de prontuários formam uma etapa indispensável do estudo social. O profissional deve ter o máximo de base histórica possível para subsidiar a emissão do seu parecer."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Fundamentos",
+        "enunciado": "Julgue o item: O serviço social emergiu como profissão no estágio neoliberal da sociedade capitalista, quando a questão social, por seu caráter de classe, demandou do Estado, além de mecanismos de intervenção econômica, também mecanismos de intervenção política e social.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 1,
+        "explicacao": "Gabarito: Errado. O Serviço Social não emergiu no estágio neoliberal (que ocorreu a partir do final do século XX). A sua gênese como profissão ocorre no estágio monopolista do capitalismo (início do século XX), quando o Estado passa a intervir sistematicamente na 'questão social'."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Institucionalização no Brasil",
+        "enunciado": "Julgue o item: No Brasil, a institucionalização do serviço social como profissão foi provocada pela progressiva intervenção de entidades religiosas no processo de regulação social, quando as manifestações da questão social foram alçadas a objeto de políticas sociais.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 1,
+        "explicacao": "Gabarito: Errado. A institucionalização do Serviço Social no Brasil não foi provocada pela intervenção religiosa, mas sim pela ação do ESTADO (na Era Vargas), que assumiu a 'questão social' e passou a criar políticas sociais trabalhistas e previdenciárias."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Divisão Sociotécnica",
+        "enunciado": "Julgue o item: O trabalho do assistente social como profissional, inscrito na divisão sociotécnica do trabalho, insere-se no processo de mercantilização e valorização do capital.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Gabarito: Certo. Como trabalhador assalariado que vende sua força de trabalho na sociedade capitalista, o assistente social participa das relações sociais que, em última instância, contribuem para o processo de reprodução, mercantilização e valorização do capital."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Significado da Profissão",
+        "enunciado": "Julgue o item: Para a compreensão do significado do serviço social como profissão, é necessário considerá-lo no processo de reprodução das relações sociais, a partir de sua inserção na sociedade, ultrapassando-se a análise de profissão em si mesma.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Gabarito: Certo. Segundo Marilda Iamamoto, a profissão não pode ser entendida isoladamente (de forma endógena). Ela precisa ser analisada dentro da totalidade histórica e de sua função na reprodução das relações sociais (materiais e ideológicas)."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Polarização",
+        "enunciado": "Julgue o item: O serviço social como profissão enfrenta uma polarização, uma vez que ele participa tanto do processo de reprodução e preservação do capital quanto das respostas às necessidades de sobrevivência da classe que vive do trabalho.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Gabarito: Certo. Essa é a contradição fundamental da profissão: ao mesmo tempo em que atua executando políticas que servem para atenuar tensões e preservar o sistema capitalista, o assistente social também viabiliza o acesso aos direitos e responde às necessidades vitais da classe trabalhadora."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Condições de Trabalho",
+        "enunciado": "Julgue o item: No trabalho do assistente social nos diferentes espaços sócio-ocupacionais em que ele se realiza, verifica-se uma situação de precarização, provocada por fatores tais como: precárias formas de contratação, insegurança do emprego, desvalorização dos salários e pressão pelo aumento da produtividade.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Gabarito: Certo. O assistente social, como trabalhador, não está imune às transformações do mundo do trabalho sob o regime de acumulação flexível e neoliberalismo, sofrendo diretamente com a terceirização e precarização das suas condições de trabalho."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Fundamentos Históricos",
+        "enunciado": "Julgue o item: O serviço social, desde sua gênese, fundamentou-se em concepções pluralistas acerca do exercício profissional.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 1,
+        "explicacao": "Gabarito: Errado. Na sua gênese (década de 1930 no Brasil), o Serviço Social tinha uma base teórica e ideológica estritamente conservadora e dogmática, fortemente hegemonizada pelo pensamento social da Igreja Católica (neotomismo). O pluralismo só surge muito mais tarde, com a renovação da profissão."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Movimento de Reconceituação",
+        "enunciado": "Julgue o item: A década de 70 do século XX foi intensa tanto do ponto de vista teórico quanto no sentido das transformações políticas para o serviço social no Brasil e nos países do Cone Sul da América Latina.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Gabarito: Certo. Este período marcou o auge do Movimento de Reconceituação na América Latina, onde a profissão passou por intensos questionamentos teóricos e práticos, buscando romper com o conservadorismo diante de regimes ditatoriais e fortes efervescências sociais."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social e Políticas Sociais",
+        "enunciado": "Julgue o item: Apesar de haver conexão entre políticas sociais e o serviço social no Brasil desde 1930, a temática da política social foi introduzida nas pautas profissionais tardiamente: na década de 50 no cenário internacional e a partir de 1970 no Brasil.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Gabarito: Certo. Embora o assistente social execute políticas sociais desde a sua gênese, o estudo sistematizado, crítico e teórico da 'Política Social' como disciplina e objeto de pesquisa só ganhou força no Serviço Social brasileiro a partir da década de 1970."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Autonomia Profissional",
+        "enunciado": "Julgue o item: O serviço social foi reconhecido nos estatutos legais e éticos como profissão liberal, no entanto, o assistente social, na condição de trabalhador assalariado, não dispõe de total autonomia na efetivação do seu exercício profissional.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Gabarito: Certo. Apesar de a profissão garantir autonomia técnica no Código de Ética, o assistente social atua majoritariamente como trabalhador assalariado. Logo, ele sofre a coerção das instituições empregadoras e não possui autonomia absoluta."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Movimento de Reconceituação",
+        "enunciado": "Julgue o item: Na reconceituação do serviço social no Brasil, o núcleo central da perspectiva da reatualização do conservadorismo consistiu na integração e dinamização do processo de desenvolvimento capitalista.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 1,
+        "explicacao": "Gabarito: Errado. Quem buscou a adequação e integração ao 'desenvolvimento capitalista' tecnocrático foi a Perspectiva Modernizadora. A Reatualização do Conservadorismo (matriz fenomenológica) centrava-se no desenvolvimento da 'pessoa', rejeitando o produtivismo estatal da ditadura."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Perspectiva Modernizadora",
+        "enunciado": "Julgue o item: Sob a perspectiva da vertente modernizadora, um dos objetivos do processo de renovação do serviço social no Brasil foi adequar a profissão às exigências da autocracia burguesa, tendo sido os seminários de Araxá e Teresópolis marcos dessa perspectiva.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Gabarito: Certo. A perspectiva modernizadora engajou a profissão na lógica tecnocrática e desenvolvimentista da ditadura civil-militar (autocracia burguesa), destacando-se os famosos Documentos de Araxá (1967) e Teresópolis (1970)."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Perspectiva Modernizadora",
+        "enunciado": "Julgue o item: No Brasil, à época da ditadura militar, marcada pelo desenvolvimento capitalista, o caráter modernizador da perspectiva modernizadora esteve relacionado a uma postura de contestação à ordem sociopolítica então vigente.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 1,
+        "explicacao": "Gabarito: Errado. A perspectiva modernizadora NÃO contestava a ordem. Pelo contrário, ela aliou o Serviço Social aos ditames do Estado ditatorial, buscando adequar o trabalhador ao processo produtivo e modernizar as engrenagens sem questionar a estrutura."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Intenção de Ruptura",
+        "enunciado": "Julgue o item: A intenção de ruptura foi forjada com a pretensão de romper com a herança teórico-metodológica conservadora e seus paradigmas de intervenção social.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Gabarito: Certo. Esta é a essência da perspectiva da intenção de ruptura (baseada no marxismo), desenvolvida nas academias (como no Método BH). Ela buscou a quebra com a herança conservadora, funcionalista e positivista da profissão."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Reconceituação (Instituições)",
+        "enunciado": "Julgue o item: O ponto de arranque da perspectiva da intenção de ruptura foi a criação do Centro Brasileiro de Cooperação e Intercâmbio de Serviços Sociais (CBCISS), instituição extrauniversitária que contribuiu para a reconceituação no Brasil.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 1,
+        "explicacao": "Gabarito: Errado. O CBCISS foi a principal instituição de articulação da Perspectiva MODERNIZADORA (alinhada à ditadura), e não da Intenção de Ruptura (que surgiu nos meios acadêmicos e críticos)."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Movimento de Reconceituação",
+        "enunciado": "Julgue o item: A intenção de ruptura repercutiu internacionalmente no marco da crise do serviço social, dito então tradicional, e chegou a ser identificada como ponto de partida do movimento de reconceituação.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 1,
+        "explicacao": "Gabarito: Errado. O ponto de partida do Movimento de Reconceituação latino-americano não foi a 'intenção de ruptura' em si, mas a insatisfação geral com o Serviço Social tradicional. A ruptura (aproximação com o marxismo) foi uma consequência mais avançada desse processo."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Vertentes Teóricas",
+        "enunciado": "Julgue o item: A fenomenologia fundamentou teórico-metodologicamente a perspectiva da reatualização do conservadorismo, que centrava sua análise e intervenção na ajuda psicossocial e em valores humanistas.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 1,
+        "explicacao": "Gabarito: Errado. A fenomenologia realmente embasou a reatualização do conservadorismo focada na pessoa, porém a 'ajuda psicossocial' clínica e ajustadora pertencia à vertente tradicional, originada lá atrás nos Estados Unidos (Mary Richmond)."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Luta de Classes",
+        "enunciado": "Julgue o item: Os movimentos sociais das classes subalternas expressam o desdobramento sociopolítico das contradições do sistema capitalista que se materializam na questão social.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Gabarito: Certo. A questão social manifesta-se através das contradições entre capital e trabalho. Os movimentos sociais são a expressão organizada dos trabalhadores contra as refrações geradas por esse modelo capitalista desigual."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Totalidade",
+        "enunciado": "Julgue o item: A atual conjuntura sócio-histórica da sociedade consiste em mero pano de fundo para a discussão do trabalho profissional do assistente social.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 1,
+        "explicacao": "Gabarito: Errado. A conjuntura histórico-social não é apenas um 'cenário' ou 'pano de fundo'. Ela determina ativamente as condições, limites e possibilidades do trabalho profissional. O Serviço Social e a sociedade são mutuamente determinantes na análise marxista."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Ética e Legislação",
+        "enunciado": "Julgue o item: Os atuais instrumentos normativos do serviço social no Brasil, como a Lei de Regulamentação Profissional e o Código de Ética, expressam a materialização do projeto ético-político profissional construído nos últimos trinta anos no seio da categoria.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Gabarito: Certo. O Código de Ética de 1993, a Lei de Regulamentação e as Diretrizes Curriculares constituem exatamente o tripé legal/instrumental que expressa a hegemonia do Projeto Ético-Político na categoria profissional."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Questão Social",
+        "enunciado": "Julgue o item: A questão social pode ser apreendida como o conjunto das expressões das desigualdades da sociedade capitalista madura, que têm uma raiz comum, a qual inclui a produção social coletiva e a apropriação privada da riqueza.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Gabarito: Certo. Esta é a definição acadêmica hegemônica de 'Questão Social' dada por Iamamoto. É o produto da contradição básica do modo de produção capitalista."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Planejamento Estratégico",
+        "enunciado": "No que se refere ao planejamento, julgue o item: Na perspectiva do planejamento estratégico situacional, o momento explicativo é representado pelo desenho de ações ou projetos específicos e pela definição dos produtos e resultados esperados.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 1,
+        "explicacao": "Gabarito: Errado. No método de Matus, o momento Explicativo serve para explicar a realidade (o diagnóstico do problema). A parte de 'desenho de ações e resultados' pertence ao momento Normativo (o 'dever ser')."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Planejamento Social",
+        "enunciado": "Julgue o item: O planejamento se restringe às decisões técnicas relacionadas à elaboração de um plano, o qual se limita à identificação do que deve ser realizado para a mudança de determinada realidade.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 1,
+        "explicacao": "Gabarito: Errado. O planejamento NUNCA é apenas neutro ou meramente técnico. Ele é essencialmente técnico-político, envolvendo tomadas de decisões valorativas, alocação de poder e articulação com atores sociais."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Planejamento Estratégico",
+        "enunciado": "Julgue o item: No planejamento estratégico situacional, recomenda-se a análise das motivações dos atores envolvidos para a definição da viabilidade política de determinado programa.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Gabarito: Certo. O momento 'Estratégico' deste método engloba a avaliação da viabilidade política e das motivações e interesses dos atores que podem impulsionar ou barrar o projeto, saindo do planejamento puramente de gabinete."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Instrumentalidade",
+        "enunciado": "Acerca das estratégias de intervenção, julgue o item: A socialização das informações constitui uma ação de fortalecimento do usuário para acessar determinados bens ou serviços, o que inclui o direito dos usuários de usufruírem de todo conhecimento socialmente produzido.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Gabarito: Certo. O Código de Ética prevê o empenho na eliminação da retenção de informações no repasse aos usuários, e entende a informação (educação aos direitos) como via de emancipação."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Assessoria e Consultoria",
+        "enunciado": "Julgue o item: No desempenho de atividades como assessor ou consultor, espera-se que o assistente social realize o estudo da realidade e discuta as demandas e necessidades prioritárias, em conjunto com a equipe da instituição e/ou movimentos sociais a que presta assessoria/consultoria.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Gabarito: Certo. A Assessoria não deve ser feita de forma alienada ou impositiva. Requer estudo da realidade, pesquisa participante e construção conjunta das prioridades com a instituição ou classe envolvida."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Trabalho com Grupos",
+        "enunciado": "Julgue o item: O profissional assistente social pode dispensar a elaboração prévia de roteiro para a condução de uma oficina se o objetivo desta for facilitar a discussão, incrementar a participação e promover a construção coletiva.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 1,
+        "explicacao": "Gabarito: Errado. Toda atividade coletiva exige sistematização, planejamento e definição prévia de objetivos e estratégias (roteiro estruturado), ainda que na sua condução prática o assistente social aplique a flexibilidade e o diálogo."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Entrevista",
+        "enunciado": "Julgue o item: O uso da técnica de clarificação em uma entrevista permite que o entrevistado compreenda a situação a partir do ponto de vista do entrevistador, além de estimular a mudança de tema em caso de silêncio prolongado.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 1,
+        "explicacao": "Gabarito: Errado. A técnica da clarificação consiste em ajudar o próprio usuário (entrevistado) a esclarecer para si mesmo os seus pensamentos, e não forçá-lo a aceitar a visão do entrevistador, tampouco serve para 'fugir' mudando de tema durante pausas."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Parecer Social",
+        "enunciado": "Em relação ao parecer social com vistas à concessão de um benefício assistencial, julgue o item: O assistente social deve encaminhar ao setor solicitante o parecer por ele elaborado, juntamente com o estudo socioeconômico realizado.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 1,
+        "explicacao": "Gabarito: Errado. O Assistente Social emite apenas o Parecer (a conclusão pericial). O processo completo de 'estudo social' com detalhes socioeconômicos e históricos íntimos da família ficam protegidos sob a guarda profissional, em respeito estrito ao Sigilo (Código de Ética)."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Sigilo Profissional",
+        "enunciado": "Julgue o item: O parecer social constitui mecanismo de averiguação de veracidade dos fatos, quando solicitado pela Procuradoria Federal Especializada do INSS, tendo, nessa situação, caráter sigiloso.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 1,
+        "explicacao": "Gabarito: Errado. O Serviço Social atua pautado na garantia de direitos e emancipação do indivíduo. Assistente Social não exerce 'poder de polícia' nem atua como investigador de fraudes ou instrumento exclusivo de averiguação de veracidade em favor do Estado."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Trabalho Multidisciplinar",
+        "enunciado": "Julgue o item: No caso de a intervenção do assistente social ser feita em conjunto com outros profissionais, a avaliação da situação deve contemplar a opinião da equipe técnica emitida em um documento único assinado por um representante da equipe.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 1,
+        "explicacao": "Gabarito: Errado. Em trabalhos com equipes interprofissionais, o documento único emitido em conjunto exige a rubrica e assinatura de TODOS os profissionais envolvidos (médico, assistente social, psicólogo, etc), cada qual respondendo pelo seu respectivo campo de competência legal."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Laudo Social",
+        "enunciado": "Julgue o item: O laudo — documento que expressa de forma clara e precisa a conclusão do estudo social — oferece subsídios para a tomada de decisões relativas a direitos sociais.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Gabarito: Certo. O Laudo Pericial Social é uma peça técnica contendo a tradução objetiva do processo investigatório (estudo social) para finalidade judicial ou institucional, subsidiando a concessão do direito reivindicado."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Parecer Técnico",
+        "enunciado": "Julgue o item: O parecer social deve conter uma análise prospectiva da situação estudada e indicar hipóteses sobre desdobramentos e consequências da situação.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Gabarito: Certo. O Parecer vai além de descrever o que aconteceu. Baseado no conhecimento teórico, ele apresenta a interpretação técnica do profissional e indica desdobramentos futuros e orientações resolutivas em favor do usuário analisado."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Questão Social na Era Vargas",
+        "enunciado": "Julgue o item: Na década de 30 do século passado, o Estado brasileiro assumiu a questão social como problema de administração, desenvolvendo políticas e agências de poder estatal em diversos setores.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Gabarito: Certo. A partir da Revolução de 1930 (Era Vargas), a 'questão social' deixou de ser tratada apenas como 'caso de polícia' e passou a ser gerenciada pelo Estado através de legislações trabalhistas, criação de ministérios (Trabalho, Indústria e Comércio) e institutos de aposentadorias (IAPs)."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Conhecimentos Específicos - Questão Social",
+        "enunciado": "Julgue o item: Na sociedade capitalista madura, quanto mais se desenvolvem as forças produtivas, mais a produção se torna social, isto é, mais o trabalho se torna amplamente social, enquanto a apropriação de seus frutos é privada, monopolizada por uma parte da sociedade.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Gabarito: Certo. Esta afirmação reflete perfeitamente a teoria marxista acerca da contradição principal do capitalismo: a produção de riqueza é socializada (depende do esforço coletivo dos trabalhadores), mas a apropriação dessa mesma riqueza gerada é estritamente privada (pertence aos donos dos meios de produção)."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Desafios Contemporâneos",
+        "enunciado": "Julgue o item: A precarização das condições de trabalho, a ausência de preparo técnico e a fragilização de uma consciência crítica e política são elementos que propiciam o incremento das ideias conservadoras.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Gabarito: Certo. A fragilização da formação crítica abre espaço para a volta de concepções conservadoras na prática profissional."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Projeto Ético-Político",
+        "enunciado": "Julgue o item: A construção do projeto ético-político profissional decorre essencialmente da articulação estabelecida pelas escolas de serviço social do estado de São Paulo.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 1,
+        "explicacao": "Gabarito: Errado. O projeto ético-político é resultado de uma construção coletiva, nacional e histórica de toda a categoria profissional, e não fruto isolado das escolas de um único estado."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Dominação Estatal",
+        "enunciado": "Julgue o item: A racionalidade da tarefa burocrática pode estimular, na sociedade, a luta por transformações estruturais, especialmente quando ações de setores da burocracia se identificam com os fins do Estado.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 1,
+        "explicacao": "Gabarito: Errado. A racionalidade puramente burocrática, em regra, tende a conservar a ordem e não estimula transformações estruturais da sociedade."
+    },
+    {
+        "concurso": "INSS",
+        "materia": "Serviço Social - Estado e Sociedade",
+        "enunciado": "Julgue o item: Quanto ao exercício do poder político, o Estado pode ser considerado garantidor dos direitos individuais e de ações que visem ao bem comum ou considerado um instrumento de dominação de classe.",
+        "alternativas": [
+            "A) Certo",
+            "B) Errado"
+        ],
+        "respostaCorreta": 0,
+        "explicacao": "Gabarito: Certo. O Estado possui uma natureza dual: na teoria liberal, é garantidor de direitos; na teoria marxista (hegemônica no Serviço Social), é um instrumento de dominação de classe."
+    }
+]

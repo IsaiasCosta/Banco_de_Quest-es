@@ -1,0 +1,31 @@
+[
+    {
+      "concurso": "INSS",
+      "materia": "Serviço Social - Código de Ética",
+      "enunciado": "Julgue o item: A articulação com os movimentos de outras categorias profissionais constitui um dos princípios do Código de Ética do Assistente Social, devendo ultrapassar os limites do corporativismo.",
+      "alternativas": ["A) Certo", "B) Errado"],
+      "respostaCorreta": 0,
+      "explicacao": "Gabarito: Certo. O Código de Ética do Assistente Social valoriza a articulação com outros movimentos profissionais e repudia posturas corporativistas que isolam a categoria."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Ética no Serviço Público",
+      "enunciado": "Conforme o Decreto nº 1.171/1994, a moralidade da Administração Pública não se limita à distinção entre o bem e o mal, devendo ser acrescida da ideia de que o fim é sempre:",
+      "alternativas": [
+        "A) A legalidade estrita.",
+        "B) O bem comum.",
+        "C) O lucro governamental.",
+        "D) A eficiência dos processos."
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "A regra deontológica expressa no decreto afirma que a moralidade deve ser acrescida da ideia de que o fim é sempre o bem comum."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Serviço Social - Código de Ética",
+      "enunciado": "Julgue o item: As alterações realizadas no atual Código de Ética reafirmam princípios do projeto ético-político ao reconhecer a linguagem de gênero e substituir o termo 'opção sexual' por 'orientação sexual'.",
+      "alternativas": ["A) Certo", "B) Errado"],
+      "respostaCorreta": 0,
+      "explicacao": "Gabarito: Certo. O Código foi atualizado para utilizar terminologias mais precisas e inclusivas, adequando a linguagem à realidade contemporânea da profissão."
+    }
+]

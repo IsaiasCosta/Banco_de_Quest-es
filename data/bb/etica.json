@@ -1,0 +1,15 @@
+[
+    {
+      "concurso": "Caixa",
+      "materia": "Ética, Compliance e Governança",
+      "enunciado": "No ambiente corporativo, o termo 'Compliance' significa:",
+      "alternativas": [
+        "A) A estratégia de marketing para captar novos clientes através de redes sociais.",
+        "B) O processo de inovação tecnológica e migração para a computação em nuvem.",
+        "C) O conjunto de disciplinas a fim de cumprir e se fazer cumprir as normas legais e regulamentares, além de políticas e diretrizes da instituição.",
+        "D) A área de recursos humanos focada exclusivamente na diversidade."
+      ],
+      "respostaCorreta": 2,
+      "explicacao": "Compliance vem do verbo inglês 'to comply' (agir de acordo com uma regra). Significa estar em conformidade com leis, regulamentos e códigos de ética da empresa."
+    }
+]

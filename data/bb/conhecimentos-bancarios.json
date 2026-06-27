@@ -1,0 +1,39 @@
+[
+    {
+      "concurso": "Caixa",
+      "materia": "Conhecimentos Bancários",
+      "enunciado": "Qual instituição financeira atua como Agente Operador do FGTS?",
+      "alternativas": [
+        "A) Banco do Brasil",
+        "B) Banco Central",
+        "C) Caixa Econômica Federal"
+      ],
+      "respostaCorreta": 2,
+      "explicacao": "A Caixa é a gestora e agente operador do FGTS por lei."
+    },
+    {
+      "concurso": "Caixa",
+      "materia": "Conhecimentos Bancários",
+      "enunciado": "Qual instituição financeira atua como Agente Operador do FGTS?",
+      "alternativas": [
+        "A) Banco do Brasil",
+        "B) Banco Central",
+        "C) Caixa Econômica Federal"
+      ],
+      "respostaCorreta": 2,
+      "explicacao": "A Caixa é a gestora e agente operador do FGTS por lei."
+    },
+    {
+      "concurso": "Caixa",
+      "materia": "Conhecimentos Bancários",
+      "enunciado": "O Open Finance (Sistema Financeiro Aberto) é uma iniciativa do Banco Central que tem como principal objetivo:",
+      "alternativas": [
+        "A) Centralizar todos os dados financeiros dos cidadãos em um único banco estatal.",
+        "B) Permitir o compartilhamento padronizado de dados e serviços por meio de abertura e integração de sistemas (APIs), mediante o consentimento do cliente.",
+        "C) Acabar com as tarifas bancárias em todas as instituições financeiras privadas.",
+        "D) Substituir o PIX para transferências internacionais."
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "O Open Finance permite que os clientes autorizem o compartilhamento de seus dados financeiros entre diferentes instituições, estimulando a concorrência e a oferta de melhores produtos."
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+      "concurso": "Caixa",
+      "materia": "Matemática Financeira",
+      "enunciado": "O conceito de 'Taxas Equivalentes' em juros compostos significa que:",
+      "alternativas": [
+        "A) São taxas que, aplicadas ao mesmo capital inicial durante o mesmo período de tempo, produzem o mesmo montante final.",
+        "B) São taxas proporcionais obtidas através da simples divisão ou multiplicação pelo prazo.",
+        "C) São taxas definidas anualmente pelo Banco Central para equiparar a inflação.",
+        "D) São taxas que geram descontos iguais em sistemas de amortização diferentes."
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Em juros compostos, taxas equivalentes (ex: uma mensal e outra anual) produzem o mesmo montante final se aplicadas sobre o mesmo capital e pelo mesmo tempo total."
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+      "concurso": "INSS",
+      "materia": "Regime Jurídico Único (Lei 8.112/90)",
+      "enunciado": "Julgue o item: É proibido ao servidor público atuar como intermediário junto a repartições públicas, salvo quando se tratar de benefícios previdenciários ou assistenciais de parentes até o segundo grau e de cônjuge ou companheiro.",
+      "alternativas": ["A) Certo", "B) Errado"],
+      "respostaCorreta": 0,
+      "explicacao": "Gabarito: Certo. A Lei 8.112/90 proíbe que o servidor atue como procurador ou intermediário, mas traz exatamente esta exceção legal (Art. 117, inciso XI) para benefícios previdenciários de parentes próximos."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Legislação Previdenciária do Servidor",
+      "enunciado": "Situação hipotética: Sandra é servidora pública federal e Aldo ocupa cargo exclusivamente em comissão. Assertiva: Os filhos de Aldo e Sandra, como dependentes de servidor público, têm direito aos seguintes benefícios do plano de seguridade social: pensão, auxílio-funeral, auxílio-reclusão e assistência à saúde.",
+      "alternativas": ["A) Certo", "B) Errado"],
+      "respostaCorreta": 0,
+      "explicacao": "Gabarito: Certo. De acordo com a Lei 8.112/90, o plano de seguridade social do servidor civil (Sandra) garante exatamente estes benefícios para os seus dependentes diretos."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Legislação Previdenciária do Servidor",
+      "enunciado": "Situação hipotética: Sandra é servidora pública efetiva federal e Aldo ocupa cargo exclusivamente em comissão. Assertiva: Com base na universalidade da cobertura e do atendimento, Aldo terá direito aos mesmos benefícios de plano de seguridade social e de assistência à saúde garantidos a Sandra.",
+      "alternativas": ["A) Certo", "B) Errado"],
+      "respostaCorreta": 1,
+      "explicacao": "Gabarito: Errado. Aldo (ocupante exclusivamente de cargo em comissão) é segurado obrigatório do RGPS (INSS), portanto, não se submete ao RPPS nem tem acesso aos mesmos benefícios estatutários de Sandra."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Regime Jurídico Único (Lei 8.112/90)",
+      "enunciado": "Julgue o item: Caso um procedimento instaurado por comissão de ética receba a chancela de reservado, o investigado só terá direito de saber o que lhe está sendo imputado, de conhecer o teor da acusação e de ter vista dos autos após a regular notificação para prestar esclarecimentos.",
+      "alternativas": ["A) Certo", "B) Errado"],
+      "respostaCorreta": 1,
+      "explicacao": "Gabarito: Errado. O investigado (e o seu advogado) tem o direito de ter acesso e vista aos autos a qualquer momento para garantir o direito à ampla defesa, mesmo que o procedimento seja classificado como reservado."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Regime Jurídico Único (Lei 8.112/90)",
+      "enunciado": "Das opções abaixo, qual representa exclusivamente uma forma de VACÂNCIA de cargo público?",
+      "alternativas": [
+        "A) Nomeação.",
+        "B) Reintegração.",
+        "C) Aproveitamento.",
+        "D) Demissão."
+      ],
+      "respostaCorreta": 3,
+      "explicacao": "Nomeação, reintegração e aproveitamento são formas de provimento (preencher o cargo). Demissão é forma de vacância (deixar o cargo vazio) e atua como penalidade."
+    }
+]

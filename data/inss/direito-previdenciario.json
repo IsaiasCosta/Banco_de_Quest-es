@@ -1,0 +1,68 @@
+[
+   {
+      "concurso": "INSS",
+      "materia": "Direito Previdenciário - Pensão por Morte",
+      "enunciado": "Julgue o item: De acordo com a Emenda Constitucional nº 103/2019 (Reforma da Previdência), a cota familiar da pensão por morte é equivalente a uma cota familiar de 50% do valor da aposentadoria recebida pelo segurado ou daquela a que teria direito se fosse aposentado por incapacidade permanente na data do óbito, acrescida de cotas de 10% por dependente, até o máximo de 100%.",
+      "alternativas": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Gabarito: Certo. A Reforma da Previdência (EC 103/2019) alterou significativamente o cálculo da pensão por morte, estabelecendo a regra da cota familiar de 50% acrescida de 10% por dependente, até o limite de 100%."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Previdenciário - Auxílio-Acidente",
+      "enunciado": "Julgue o item: O auxílio-acidente será concedido, como indenização, ao segurado quando, após consolidação das lesões decorrentes de acidente de qualquer natureza, resultarem sequelas que impliquem redução da capacidade para o trabalho que habitualmente exercia.",
+      "alternativas": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Gabarito: Certo. Conforme o art. 86 da Lei 8.213/91, o auxílio-acidente possui natureza estritamente indenizatória e é devido quando há redução (e não perda total) da capacidade laborativa após a consolidação das lesões."
+    } ,
+    {
+      "concurso": "INSS",
+      "materia": "Direito Previdenciário - Segurados",
+      "enunciado": "Julgue o item: O servidor público ocupante exclusivamente de cargo em comissão, declarado em lei de livre nomeação e exoneração, é filiado obrigatório ao Regime Próprio de Previdência Social (RPPS) do respectivo ente federativo.",
+      "alternativas": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Gabarito: Errado. De acordo com a Constituição Federal e a Lei 8.212/91, o servidor ocupante *exclusivamente* de cargo em comissão (sem vínculo efetivo) é considerado segurado obrigatório do Regime Geral de Previdência Social (RGPS - INSS)."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Previdenciário - Aposentadoria",
+      "enunciado": "Julgue o item: Com as alterações promovidas pela EC 103/2019, a regra geral de aposentadoria voluntária para a mulher vinculada ao RGPS passou a exigir a idade mínima de 62 anos, ressalvadas as regras de transição vigentes.",
+      "alternativas": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Gabarito: Certo. A reforma fixou a idade mínima genérica de aposentadoria para 62 anos (mulheres) e 65 anos (homens), acompanhada do respectivo tempo mínimo de contribuição exigido por lei."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Previdenciário - Salário-Maternidade",
+      "enunciado": "Julgue o item: O salário-maternidade para a segurada empregada consiste em uma renda mensal igual à sua remuneração integral, sendo este benefício pago diretamente pelo INSS desde o primeiro dia de afastamento.",
+      "alternativas": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Gabarito: Errado. Embora o valor seja a remuneração integral, para a *segurada empregada*, quem realiza o pagamento efetivo do salário-maternidade é a própria empresa (empregador), que posteriormente compensa esse valor nos recolhimentos devidos ao INSS. (Exceção: o INSS paga diretamente para empregada doméstica, trabalhadora avulsa, contribuinte individual, facultativa e segurada especial)."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Previdenciário - Auxílio-Reclusão",
+      "enunciado": "Julgue o item: Após a EC 103/2019, o auxílio-reclusão passou a ser devido exclusivamente aos dependentes do segurado de baixa renda que for recolhido à prisão em regime fechado, não sendo mais admitido o pagamento em caso de cumprimento de pena em regime semiaberto.",
+      "alternativas": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Gabarito: Certo. A Reforma da Previdência limitou o pagamento do auxílio-reclusão aos dependentes de segurados de baixa renda recolhidos estritamente em regime fechado."
+    }
+]
