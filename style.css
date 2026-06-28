@@ -3,6 +3,10 @@
     margin: 0;
     padding: 0;
 }
+@media (max-width: 600px) {
+    body {
+        padding: 10px; /* Reduz o padding do corpo para aproveitar mais a tela */
+    }
 
 body {
     background-color: #f4f6f8;
@@ -19,7 +23,7 @@ body {
     background: #fff;
     width: 100%;
     max-width: 650px;
-    padding: 20px;
+    padding: 15px;
     border-radius: 8px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
     margin-bottom: 15px;
@@ -97,7 +101,7 @@ body {
     width: 100%;
     max-width: 650px;
     min-height: 400px;
-    padding: 40px 40px 40px 55px;
+    padding: 30px 20px 30px 40px;
     border-left: 5px solid #d9534f;
     border-radius: 4px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.06);
@@ -134,9 +138,9 @@ body {
 }
 
 .enunciado {
-    font-size: 17px;
+    font-size: 16px;
     font-weight: 600;
-    margin-bottom: 25px;
+    margin-bottom: 20px;
     line-height: 28px;
     background-color: #fdfbf7;
 }
@@ -145,7 +149,7 @@ body {
 .opcoes {
     display: flex;
     flex-direction: column;
-    gap: 18px;
+    gap: 12px;
     margin-bottom: 25px;
     line-height: normal;
 }
