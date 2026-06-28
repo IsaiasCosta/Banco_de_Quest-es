@@ -264,7 +264,19 @@
     #btn-anterior:hover {
         background-color: #5a6268;
     }
-    @media (max-width: 600px) {
-    body { padding: 10px; }
-    .caderno { padding: 30px 20px 30px 40px; }
+  /* --- BLOCO DE AJUSTE PARA CELULARES --- */
+/* Certifique-se de que não haja nenhuma chave '}' antes de @media */
+
+@media (max-width: 600px) {
+    body { 
+        padding: 10px !important; 
+    }
+    
+    .caderno { 
+        padding: 30px 20px 30px 40px !important; 
+    }
+
+    .painel-filtros, .dashboard, .caderno {
+        max-width: 100% !important; /* Força a ocupar a tela toda */
+    }
 }
