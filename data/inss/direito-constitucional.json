@@ -1,31 +1,481 @@
 [
+  {
+    "concurso": "INSS",
+    "materia": "Direito Constitucional",
+    "enunciado": "Julgue o item a seguir: Recentemente, o transporte foi incluído no rol de direitos sociais previstos na CF, que já contemplavam, entre outros, o direito à saúde, ao trabalho, à moradia e à previdência social, bem como a assistência aos desamparados.",
+    "alternativas": [
+      "A) Certo",
+      "B) Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Gabarito: Certo. A Emenda Constitucional nº 90/2015 inseriu expressamente o transporte no rol dos direitos sociais do Artigo 6º da Constituição Federal."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Direito Constitucional",
+    "enunciado": "Julgue o item: Considerando-se a CF, é correto afirmar que, no cálculo do benefício previdenciário de um servidor do INSS que esteja licenciado do cargo para exercer mandato de deputado federal, os valores serão determinados como se ele estivesse no exercício do cargo na referida autarquia.",
+    "alternativas": [
+      "A) Certo",
+      "B) Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Gabarito: Certo. Conforme a Constituição Federal, o servidor público investido em mandato eletivo federal, estadual ou distrital ficará afastado de seu cargo, mas seu tempo de serviço será contado para todos os efeitos legais, e os valores de seus benefícios previdenciários serão determinados como se no exercício estivesse."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Direito Constitucional",
+    "enunciado": "Segundo a Constituição Federal de 1988, são direitos sociais expressos no artigo 6º, EXCETO:",
+    "alternativas": [
+      "A) Educação, saúde e alimentação.",
+      "B) Trabalho, moradia e transporte.",
+      "C) Previdência social e proteção à maternidade e à infância.",
+      "D) Propriedade privada e livre iniciativa."
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Propriedade privada e livre iniciativa não são direitos sociais (art. 6º), mas sim princípios da ordem econômica e direitos fundamentais."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "direito-constitucional",
+    "enunciado": "A legislatura do Congresso Nacional, nos termos da Constituição Federal, tem a duração de[cite: 1]",
+    "alternativas": [
+      "A) 4 anos;[cite: 1]",
+      "B) 8 anos;[cite: 1]",
+      "C) 6 anos;[cite: 1]",
+      "D) 1 ano;[cite: 1]",
+      "E) 2 anos.[cite: 1]"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A resposta correta é a letra A, conforme estabelecido pelo gabarito oficial da prova.[cite: 2]"
+  },
+  [
     {
       "concurso": "INSS",
-      "materia": "Direito Constitucional",
-      "enunciado": "Julgue o item a seguir: Recentemente, o transporte foi incluído no rol de direitos sociais previstos na CF, que já contemplavam, entre outros, o direito à saúde, ao trabalho, à moradia e à previdência social, bem como a assistência aos desamparados.",
-      "alternativas": ["A) Certo", "B) Errado"],
-      "respostaCorreta": 0,
-      "explicacao": "Gabarito: Certo. A Emenda Constitucional nº 90/2015 inseriu expressamente o transporte no rol dos direitos sociais do Artigo 6º da Constituição Federal."
-    },
-    {
-      "concurso": "INSS",
-      "materia": "Direito Constitucional",
-      "enunciado": "Julgue o item: Considerando-se a CF, é correto afirmar que, no cálculo do benefício previdenciário de um servidor do INSS que esteja licenciado do cargo para exercer mandato de deputado federal, os valores serão determinados como se ele estivesse no exercício do cargo na referida autarquia.",
-      "alternativas": ["A) Certo", "B) Errado"],
-      "respostaCorreta": 0,
-      "explicacao": "Gabarito: Certo. Conforme a Constituição Federal, o servidor público investido em mandato eletivo federal, estadual ou distrital ficará afastado de seu cargo, mas seu tempo de serviço será contado para todos os efeitos legais, e os valores de seus benefícios previdenciários serão determinados como se no exercício estivesse."
-    },
-    {
-      "concurso": "INSS",
-      "materia": "Direito Constitucional",
-      "enunciado": "Segundo a Constituição Federal de 1988, são direitos sociais expressos no artigo 6º, EXCETO:",
+      "materia": "direito-constitucional",
+      "enunciado": "Observe as cinco afirmações seguintes, as quais se referem aos direitos e garantias individuais. I. Nenhum brasileiro será extraditado, salvo o naturalizado, em caso de crime comum, praticado antes da naturalização, ou de comprovado envolvimento em tráfico ilícito de entorpecentes e drogas afins, na forma da lei; II. Será concedida extradição de estrangeiro por crime político ou de opinião, desde que resultado de condenação transitada em julgado; III. Ninguém será processado nem sentenciado senão pela autoridade competente, exceto em caso de guerra e terrorismo; IV. Ninguém será privado da liberdade ou de seus bens sem o devido processo legal ou administrativo; V. Aos litigantes, em processo judicial ou administrativo, e aos acusados em geral são assegurados o contraditório e ampla defesa, com os meios e recursos a ela inerentes. Quantas dessas afirmações estão corretas?[cite: 1]",
       "alternativas": [
-        "A) Educação, saúde e alimentação.",
-        "B) Trabalho, moradia e transporte.",
-        "C) Previdência social e proteção à maternidade e à infância.",
-        "D) Propriedade privada e livre iniciativa."
+        "A) Apenas a segunda e a quarta.[cite: 1]",
+        "B) Apenas as duas primeiras.[cite: 1]",
+        "C) Apenas as duas últimas.[cite: 1]",
+        "D) Apenas a terceira e a última.[cite: 1]",
+        "E) Todas estão corretas.[cite: 1]"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "A resposta correta é a letra B, conforme estabelecido pelo gabarito oficial da prova.[cite: 2]"
+    },
+    {
+      "concurso": "INSS",
+      "materia": "direito-constitucional",
+      "enunciado": "A legislatura do Congresso Nacional, nos termos da Constituição Federal, tem a duração de[cite: 1]",
+      "alternativas": [
+        "A) 4 anos;[cite: 1]",
+        "B) 8 anos;[cite: 1]",
+        "C) 6 anos;[cite: 1]",
+        "D) 1 ano;[cite: 1]",
+        "E) 2 anos.[cite: 1]"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "A resposta correta é a letra A, conforme estabelecido pelo gabarito oficial da prova.[cite: 2]"
+    },
+    {
+      "concurso": "INSS",
+      "materia": "direito-constitucional",
+      "enunciado": "A Corte competente para o julgamento de crime de responsabilidade de Ministro de Estado é[cite: 1]",
+      "alternativas": [
+        "A) o Superior Tribunal de Justiça.[cite: 1]",
+        "B) a Câmara dos Deputados.[cite: 1]",
+        "C) o Senado Federal.[cite: 1]",
+        "D) o Supremo Tribunal Federal.[cite: 1]",
+        "E) o Tribunal de Contas da União.[cite: 1]"
       ],
       "respostaCorreta": 3,
-      "explicacao": "Propriedade privada e livre iniciativa não são direitos sociais (art. 6º), mas sim princípios da ordem econômica e direitos fundamentais."
+      "explicacao": "A resposta correta é a letra D, conforme estabelecido pelo gabarito oficial da prova.[cite: 2]"
+    },
+    {
+      "concurso": "INSS",
+      "materia": "direito-constitucional",
+      "enunciado": "A competência para homologação de sentenças estrangeiras e concessão de exequatur às cartas rogatórias, nos termos da Constituição Federal, é do[cite: 1]",
+      "alternativas": [
+        "A) Supremo Tribunal Federal.[cite: 1]",
+        "B) Conselho Nacional de Justiça.[cite: 1]",
+        "C) Superior Tribunal de Justiça.[cite: 1]",
+        "D) Senado Federal.[cite: 1]",
+        "E) Conselho Nacional da República.[cite: 1]"
+      ],
+      "respostaCorreta": 2,
+      "explicacao": "A resposta correta é a letra C, conforme estabelecido pelo gabarito oficial da prova.[cite: 2]"
+    },
+    {
+      "concurso": "INSS",
+      "materia": "direito-constitucional",
+      "enunciado": "Observe as cinco indicações seguintes, que se referem aos direitos sociais, nos termos da Constituição Federal. I. Irredutibilidade do salário, salvo o disposto em convenção ou acordo coletivo; II. Redução dos riscos inerentes ao trabalho, por meio de normas de saúde, higiene e segurança; III. Adicional de remuneração para as atividades penosas, insalubres ou perigosas, na forma da lei; IV. Proibição de trabalho noturno, perigoso ou insalubre aos menores de dezoito e de qualquer trabalho a menores de quatorze anos, salvo na condição de aprendiz; V. Assistência gratuita aos filhos e dependentes desde o nascimento até seis anos de idade em creches e pré-escolas. Quantas dessas indicações estão corretas?[cite: 1]",
+      "alternativas": [
+        "A) Apenas as três primeiras.[cite: 1]",
+        "B) Apenas as três intermediárias.[cite: 1]",
+        "C) Apenas as três últimas.[cite: 1]",
+        "D) Apenas as três ímpares.[cite: 1]",
+        "E) Todas estão corretas.[cite: 1]"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "A resposta correta é a letra A, conforme estabelecido pelo gabarito oficial da prova.[cite: 2]"
+    },
+    {
+      "concurso": "INSS",
+      "materia": "direito-constitucional",
+      "enunciado": "A competência para processar os crimes de responsabilidade do Juiz do Trabalho, nos termos da Constituição Federal, é do[cite: 1]",
+      "alternativas": [
+        "A) Tribunal Regional do Trabalho.[cite: 1]",
+        "B) Conselho Nacional do Ministério Público.[cite: 1]",
+        "C) Senado Federal.[cite: 1]",
+        "D) Tribunal de Contas da União.[cite: 1]",
+        "E) Tribunal Regional Federal.[cite: 1]"
+      ],
+      "respostaCorreta": 4,
+      "explicacao": "A resposta correta é a letra E, conforme estabelecido pelo gabarito oficial da prova.[cite: 2]"
+    },
+    {
+      "concurso": "INSS",
+      "materia": "direito-constitucional",
+      "enunciado": "Com relação a pena de morte, nos termos da Constituição Federal, é correto afirmar que[cite: 1]",
+      "alternativas": [
+        "A) não haverá pena de morte.[cite: 1]",
+        "B) não haverá pena de morte, salvo em caso de guerra declarada.[cite: 1]",
+        "C) a questão da pena de morte deverá ser regulamentada por lei complementar.[cite: 1]",
+        "D) a Constituição não trata da pena de morte.[cite: 1]",
+        "E) a aplicação da pena de morte depende de Decreto Legislativo específico.[cite: 1]"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "A resposta correta é a letra B, conforme estabelecido pelo gabarito oficial da prova.[cite: 2]"
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Constitucional",
+      "enunciado": "A Constituição Federal de 1988 garante a inviolabilidade do domicílio, determinando que a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. O enunciado reproduz fielmente o artigo 5º, inciso XI, da Constituição Federal. A determinação judicial é a única exceção que exige estritamente o período do dia para cumprimento."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Constitucional",
+      "enunciado": "O mandado de segurança coletivo pode ser impetrado por qualquer cidadão em pleno gozo de seus direitos políticos, desde que vise defender o patrimônio público ou a moralidade administrativa.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. O remédio constitucional que pode ser proposto por qualquer cidadão para defender o patrimônio público ou a moralidade administrativa é a Ação Popular (Art. 5º, LXXIII). O mandado de segurança coletivo possui legitimados específicos definidos no Art. 5º, LXX, como partido político com representação no Congresso Nacional, organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos um ano."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Constitucional",
+      "enunciado": "Qualquer pessoa física é parte legítima para impetrar habeas data com a finalidade de obter informações relativas a terceiros constantes de registros ou bancos de dados de entidades governamentais.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. O habeas data possui caráter estritamente personalíssimo. Ele serve exclusivamente para assegurar o conhecimento de informações relativas à pessoa do próprio impetrante, e não para acessar dados de terceiros."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Constitucional",
+      "enunciado": "É plena a liberdade de associação para fins lícitos, inclusive a de caráter paramilitar, desde que autorizada pelo órgão de segurança pública competente.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. Conforme o artigo 5º, inciso XVII, da CF, é plena a liberdade de associação para fins lícitos, sendo expressamente vedada a de caráter paramilitar sob qualquer hipótese ou autorização."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Constitucional",
+      "enunciado": "Os direitos sociais previstos expressamente na Constituição Federal de 1988 incluem a educação, a saúde, a alimentação, o trabalho, a moradia, o transporte, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, e a assistência aos desamparados.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. Trata-se do rol completo e atualizado dos direitos sociais previstos no artigo 6º da Constituição Federal."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Constitucional",
+      "enunciado": "As associações só poderão ser compulsoriamente dissolvidas ou ter suas atividades suspensas por decisão judicial, exigindo-se, em ambos os casos, o trânsito em julgado da sentença.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. De acordo com o artigo 5º, inciso XIX, da CF, a dissolução compulsória exige o trânsito em julgado da decisão judicial. No entanto, para a mera suspensão de atividades, basta uma decisão judicial simples (liminar, por exemplo), dispensando-se o trânsito em julgado."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Constitucional",
+      "enunciado": "Nenhum brasileiro será extraditado, salvo o naturalizado, em caso de crime comum, praticado antes da naturalização, ou de comprovado envolvimento em tráfico ilícito de entorpecentes e drogas afins, na forma da lei.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. É a redação exata do artigo 5º, inciso LI, da Constituição. O brasileiro nato nunca será extraditado; o naturalizado pode ser nessas duas hipóteses expressas."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Constitucional",
+      "enunciado": "A lei penal não retroagirá, salvo para beneficiar o réu.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. Trata-se do princípio constitucional da irretroatividade da lei penal, previsto no artigo 5º, inciso XL, cuja única exceção permitida é o benefício do réu (retroatividade in mellius)."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Constitucional",
+      "enunciado": "A criação de associações e, na forma da lei, a de cooperativas independem de autorização do Poder Público, sendo vedada a interferência estatal em seu funcionamento.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. Conforme o artigo 5º, inciso XVIII, da CF, a criação desses entes é livre de autorização administrativa e goza de proteção contra intervenção ou tutela do Estado em sua dinâmica de funcionamento interno."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Constitucional",
+      "enunciado": "Conforme a Constituição Federal, os tratados e convenções internacionais sobre direitos humanos que forem aprovados, em cada Casa do Congresso Nacional, em dois turnos, por três quintos dos votos dos respectivos membros, serão equivalentes às emendas constitucionais.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. Essa regra está expressa no artigo 5º, § 3º, da CF/88, estabelecendo o rito especial que confere status de emenda constitucional aos tratados de direitos humanos aprovados."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Constitucional",
+      "enunciado": "A prática do racismo constitui crime inafiançável e imprescritível, sujeito à pena de reclusão, nos termos da lei.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. De acordo com o artigo 5º, inciso XLII, da CF, o racismo recebe o tratamento constitucional rigoroso de ser crime inafiançável e imprescritível."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Constitucional",
+      "enunciado": "O mandado de injunção será concedido sempre que a falta de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. Esta é a definição precisa da finalidade do mandado de injunção, prevista no artigo 5º, inciso LXXI, da CF."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Constitucional",
+      "enunciado": "Os cargos, empregos e funções públicas são acessíveis aos brasileiros que preencham os requisitos estabelecidos em lei, assim como aos estrangeiros, na forma da lei.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. Conforme o artigo 37, inciso I, da CF, a acessibilidade aos cargos públicos é garantida aos brasileiros (condição autoexecutável dependente de requisitos legais) e estendida aos estrangeiros (cujo regramento depende de lei específica)."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Constitucional",
+      "enunciado": "A investidura em cargo ou emprego público depende de aprovação prévia em concurso público de provas ou de provas e títulos, ressalvadas as nomeações para cargo em comissão declarado em lei de livre nomeação e exoneração.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. Trata-se da regra geral do concurso público estampada no artigo 37, inciso II, da Constituição Federal."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Constitucional",
+      "enunciado": "O prazo de validade do concurso público será de até dois anos, prorrogável uma vez, por igual período.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. Conforme dispõe o artigo 37, inciso III, da Constituição, o prazo máximo é de dois anos, permitindo-se uma única prorrogação por período idêntico ao fixado originalmente."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Constitucional",
+      "enunciado": "As funções de confiança, exercidas exclusivamente por servidores ocupantes de cargo efetivo, e os cargos em comissão, a serem preenchidos por servidores de carreira nos casos, condições e percentuais mínimos previstos em lei, destinam-se apenas às atribuições de direção, chefia e assessoramento.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. Trata-se da reprodução exata do artigo 37, inciso V, da Constituição Federal. Funções de confiança exigem cargo efetivo; cargos em comissão admitem pessoas sem vínculo anterior, respeitados os limites legais."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Constitucional",
+      "enunciado": "É garantido ao servidor público civil o direito à livre associação sindical, bem como o direito de greve, que será exercido nos termos e nos limites definidos em lei específica.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. Os direitos sindicais e de greve do servidor civil estão assegurados no artigo 37, incisos VI e VII, da Constituição Federal."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Constitucional",
+      "enunciado": "A lei reservará percentual dos cargos e empregos públicos para as pessoas portadoras de deficiência e definirá os critérios de sua admissão.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. É a redação exata do artigo 37, inciso VIII, da Constituição Federal, que serve de fundamento para as cotas de PcD em concursos."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Constitucional",
+      "enunciado": "É vedada a acumulação remunerada de cargos públicos, exceto, quando houver compatibilidade de horários, a de dois cargos de professor, a de um cargo de professor com outro técnico ou científico, e a de dois cargos ou empregos privativos de profissionais de saúde, com profissões regulamentadas.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. O enunciado traz as três exceções constitucionais taxativas que autorizam a acumulação remunerada de cargos públicos se houver compatibilidade de horários (Art. 37, XVI)."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Constitucional",
+      "enunciado": "Somente por lei específica poderá ser criada autarquia e autorizada a instituição de empresa pública, de sociedade de economia mista e de fundação, cabendo à lei complementar, neste último caso, definir as áreas de sua atuação.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. Dispositivo do artigo 37, inciso XIX, da CF. A autarquia é criada diretamente pela lei, enquanto as demais entidades privadas da administração indireta têm apenas sua criação autorizada."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Constitucional",
+      "enunciado": "A proibição de acumular cargos públicos remunerados restringe-se estritamente à administração direta, não abrangendo autarquias, fundações, empresas públicas ou sociedades de economia mista.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. De acordo com o artigo 37, inciso XVII, da CF, a proibição de acumular estende-se a empregos e funções e abrange autarquias, fundações, empresas públicas, sociedades de economia mista, suas subsidiárias, e sociedades controladas, direta ou indiretamente, pelo poder público."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Constitucional",
+      "enunciado": "São estáveis após três anos de efetivo exercício os servidores nomeados para cargo de provimento efetivo em virtude de concurso público.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. Conforme o artigo 41, caput, da CF (com redação dada pela Emenda Constitucional nº 19/1998), o prazo necessário para a aquisição da estabilidade no serviço público é de três anos."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Constitucional",
+      "enunciado": "O servidor público estável só perderá o cargo em virtude de sentença judicial transitada em julgado ou mediante processo administrativo disciplinar no qual lhe seja assegurada ampla defesa, inexistindo outras hipóteses constitucionais para perda do cargo.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. O servidor estável também pode perder o cargo mediante procedimento de avaliação periódica de desempenho (Art. 41, § 1º, III) ou por excesso de despesas com pessoal, conforme os limites fixados na Lei de Responsabilidade Fiscal (Art. 169, § 4º)."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Constitucional",
+      "enunciado": "Extinto o cargo ou declarada a sua desnecessidade, o servidor estável ficará em disponibilidade, com remuneração proporcional ao tempo de serviço, até seu adequado aproveitamento em outro cargo.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. Essa é a regra constitucional exata prevista no artigo 41, § 3º, da Constituição Federal, que garante a manutenção do vínculo do servidor por meio da disponibilidade remunerada proporcional."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Constitucional",
+      "enunciado": "Invalidada por sentença judicial a demissão do servidor estável, será ele reintegrado, e o eventual ocupante da vaga, se estável, reconduzido ao cargo de origem, sem direito a indenização, aproveitado em outro cargo ou posto em disponibilidade com remuneração proporcional ao tempo de serviço.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. Trata-se da reprodução integral do artigo 41, § 2º, da CF/88, detalhando as consequências lógicas do instituto da reintegração judicial."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Constitucional",
+      "enunciado": "Como condição para a aquisição da estabilidade, é obrigatória a avaliação especial de desempenho por comissão instituída para essa finalidade.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. De acordo com o artigo 41, § 4º, da Constituição, o decurso do prazo de três anos isoladamente não concede a estabilidade; exige-se também a aprovação nessa avaliação especial de desempenho."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Constitucional",
+      "enunciado": "Os direitos e garantias expressos na Constituição Federal de 1988 excluem outros decorrentes do regime e dos princípios por ela adotados, ou dos tratados internacionais em que a República Federativa do Brasil seja parte.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. Conforme o artigo 5º, § 2º, da CF, os direitos e garantias expressos na Constituição NÃO EXCLUEM outros decorrentes do regime, dos princípios adotados ou de tratados internacionais. O rol de direitos fundamentais é meramente exemplificativo (cláusula de abertura)."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Constitucional",
+      "enunciado": "A publicidade dos atos administrativos constitui regra geral no ordenamento jurídico brasileiro, contudo, a lei poderá restringir a publicidade dos atos processuais quando a defesa da intimidade ou o interesse social o exigirem.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. O artigo 5º, inciso LX, combinado com as diretrizes do artigo 37, confere base para a imposição legal de sigilo visando tutelar a intimidade ou o interesse público e social majoritário."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Constitucional",
+      "enunciado": "Conforme preceito constitucional, conceder-se-á mandado de segurança para proteger direito líquido e certo, não amparado por habeas corpus ou habeas data, quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. Esta é a perfeita definição do caráter residual e protetivo do mandado de segurança, insculpida no artigo 5º, inciso LXIX, da Constituição Federal."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Constitucional",
+      "enunciado": "A todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. Trata-se do princípio da celeridade processual ou razoável duração do processo, inserido no artigo 5º, inciso LXXVIII, por meio da Emenda Constitucional nº 45/2004."
     }
+  ]
 ]

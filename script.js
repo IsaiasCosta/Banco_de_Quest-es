@@ -92,10 +92,16 @@ async function iniciarEstudos() {
     renderizarQuestao();
 
 }
+function atualizarInterface() {
+    renderizarQuestao();    // Atualiza a visualização da questão
+    atualizarDashboard();   // Garante que o placar reflete o estado atual
+}
 
 function renderizarQuestao() {
     respondeu = false;
     const q = questoesFiltradas[questaoAtual];
+
+    console.log("Conteúdo da questão carregada:", q);
 
     if (!q) {
         alert("Nenhuma questão encontrada.");
@@ -166,13 +172,13 @@ function proximaQuestao() {
 
     questaoAtual++;
 
-    questaoAtual++;
-
     if (questaoAtual >= questoesFiltradas.length) {
         alert("Fim das questões para este filtro! Vamos recomeçar a rodada.");
         questaoAtual = 0;
     }
     renderizarQuestao();
+    atualizarInterface();
+
 }
 
 function questaoAnterior() {

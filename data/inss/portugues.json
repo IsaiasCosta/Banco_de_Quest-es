@@ -1,128 +1,653 @@
 [
-{
-      "concurso": "INSS",
-      "materia": "Língua Portuguesa - Compreensão e Reescritura",
-      "enunciado": "Sobre o texto que afirma que o autor 'destacou-se de fato pelas suas comédias', julgue o item: A substituição de 'destacou-se' por 'foi destacado' prejudicaria o sentido original do período.",
-      "alternativas": ["A) Certo", "B) Errado"],
-      "respostaCorreta": 0,
-      "explicacao": "Gabarito: Certo. O verbo 'destacar-se' (no sentido de sobressair-se, ganhar evidência por mérito próprio) perderia esse sentido se substituído por 'foi destacado' (que traz a ideia de voz passiva, indicando que alguém o selecionou ou separou para uma tarefa)."
-    },
-    {
-      "concurso": "INSS",
-      "materia": "Língua Portuguesa - Sintaxe",
-      "enunciado": "No trecho '...ao ponto de pedir a comédia para ler segunda vez...', julgue o item: O termo introduzido pela preposição 'para' exerce a função de complemento do verbo 'pedir'.",
-      "alternativas": ["A) Certo", "B) Errado"],
-      "respostaCorreta": 1,
-      "explicacao": "Gabarito: Errado. A expressão 'para ler segunda vez' indica finalidade (o propósito do pedido), funcionando sintaticamente como adjunto adverbial de finalidade, e não como complemento verbal (objeto) do verbo pedir."
-    },
-    {
-      "concurso": "INSS",
-      "materia": "Redação Oficial",
-      "enunciado": "Julgue o item: Os trechos a seguir apresentados estão adequados para compor um ofício a ser enviado pelo INSS a um particular. 'Ao Digníssimo Senhor Pedro Albuquerque... Respeitosamente, Maria da Silva'.",
-      "alternativas": ["A) Certo", "B) Errado"],
-      "respostaCorreta": 1,
-      "explicacao": "Gabarito: Errado. O uso do pronome de tratamento 'Digníssimo' foi abolido pelo Manual de Redação da Presidência da República. Além disso, o fecho 'Respeitosamente' é usado para autoridades de hierarquia superior; para particulares, o padrão correto é 'Atenciosamente'."
-    },
-    {
-      "concurso": "INSS",
-      "materia": "Redação Oficial",
-      "enunciado": "Julgue o item: O trecho 'Em resposta ao Mem. 001, informamos que a última reunião de alinhamento ocorreu no auditório...' apresenta concisão, clareza, objetividade e formalidade, sendo adequado para constituir parte de um memorando a ser enviado a autoridade com hierarquia igual ou inferior à do signatário.",
-      "alternativas": ["A) Certo", "B) Errado"],
-      "respostaCorreta": 0,
-      "explicacao": "Gabarito: Certo. O texto atende aos princípios da Redação Oficial. Vale lembrar que, na época do edital (2016), o Memorando ainda existia como modalidade específica de comunicação interna entre unidades de um mesmo órgão (atualmente unificado sob o nome 'Padrão Ofício')."
-    },
-    {
-      "concurso": "INSS",
-      "materia": "Língua Portuguesa - Interpretação",
-      "enunciado": "O texto lido afirmava: 'Era um artigo a pedido com o título de Uma Obra-Prima'. Julgue o item: Dada a assinatura 'O amigo das letras', é correto concluir que o trecho publicado no Jornal do Comércio é uma carta.",
-      "alternativas": ["A) Certo", "B) Errado"],
-      "respostaCorreta": 1,
-      "explicacao": "Gabarito: Errado. O texto afirma categoricamente que a publicação era 'um artigo a pedido', e não uma carta enviada ao jornal."
-    },
-    {
-      "concurso": "INSS",
-      "materia": "Língua Portuguesa - Interpretação",
-      "enunciado": "O texto diz que o autor da comédia 'vai enfim entrar nos mares da publicidade'. Julgue o item: Depreende-se do texto que Antônio Carlos de Oliveira vai iniciar uma atividade profissional ligada à propaganda, para a qual tem muito talento.",
-      "alternativas": ["A) Certo", "B) Errado"],
-      "respostaCorreta": 1,
-      "explicacao": "Gabarito: Errado. A expressão 'entrar nos mares da publicidade' no contexto do século XIX significava tornar sua obra pública/conhecida (publicar a sua comédia), e não trabalhar no ramo profissional de publicidade e propaganda publicitária."
-    },
-    {
-      "concurso": "INSS",
-      "materia": "Língua Portuguesa - Reescritura",
-      "enunciado": "Julgue o item: Seria alterado o sentido original do texto, embora sua correção gramatical fosse mantida, caso o trecho 'Temos o prazer de anunciar ao país o próximo aparecimento de uma excelente comédia, estreia de um jovem literato' fosse reescrito da seguinte forma: É um prazer informar o país do lançamento da primeira comédia de qualidade do jovem Antônio Carlos.",
-      "alternativas": ["A) Certo", "B) Errado"],
-      "respostaCorreta": 0,
-      "explicacao": "Gabarito: Certo. A reescrita muda o sentido. Dizer 'estreia de um jovem com uma excelente comédia' é diferente de dizer 'primeira comédia de qualidade'. O original não indica que ele escreveu outras de má qualidade antes."
-    },
-    {
-      "concurso": "INSS",
-      "materia": "Língua Portuguesa - Morfossintaxe",
-      "enunciado": "No trecho 'Consta-nos que o autor...', julgue o item: O vocábulo 'que' classifica-se como conjunção e introduz o sujeito da oração 'Consta-nos'.",
-      "alternativas": ["A) Certo", "B) Errado"],
-      "respostaCorreta": 0,
-      "explicacao": "Gabarito: Certo. A palavra 'que' é uma conjunção integrante e introduz uma Oração Subordinada Substantiva Subjetiva. O que nos consta? Consta-nos ISSO. 'ISSO' (que o autor...) é o sujeito do verbo constar."
-    },
-    {
-      "concurso": "INSS",
-      "materia": "Língua Portuguesa - Sintaxe",
-      "enunciado": "O texto afirma: 'Estamos ansiosos por ler a peça do Sr. Oliveira'. Julgue o item: Na oração introduzida pela preposição 'por' remete a uma ação anterior ao estado descrito na oração 'Estamos ansiosos'.",
-      "alternativas": ["A) Certo", "B) Errado"],
-      "respostaCorreta": 1,
-      "explicacao": "Gabarito: Errado. A preposição 'por' introduz a oração 'por ler', que indica uma expectativa, um desejo de algo que ainda vai acontecer (ação futura), e não uma ação anterior."
-    },
-    {
-      "concurso": "INSS",
-      "materia": "Língua Portuguesa - Pontuação",
-      "enunciado": "No trecho 'leu há dias a comédia em casa do Sr. Dr. Estêvão Soares', julgue o item: A correção gramatical e o sentido do texto seriam mantidos caso o termo 'em casa' fosse isolado por vírgulas.",
-      "alternativas": ["A) Certo", "B) Errado"],
-      "respostaCorreta": 1,
-      "explicacao": "Gabarito: Errado. Se isolarmos 'em casa' por vírgulas ('...a comédia, em casa, do Sr. Dr...'), a estrutura perde o sentido de posse 'casa do Sr. Dr.', alterando a semântica original da frase."
-    },
-    {
-      "concurso": "INSS",
-      "materia": "Língua Portuguesa - Interpretação",
-      "enunciado": "Julgue o item sobre o texto a respeito do dramaturgo Martins Pena: Verifica-se uma contradição na argumentação do autor, uma vez que o sentido do trecho 'criar uma nova comédia com traços muito pessoais' é incompatível com o sentido do trecho 'retratou a cultura e os costumes da sociedade do seu tempo'.",
-      "alternativas": ["A) Certo", "B) Errado"],
-      "respostaCorreta": 1,
-      "explicacao": "Gabarito: Errado. Não existe contradição. Um autor pode perfeitamente ter um estilo inovador e próprio ('traços muito pessoais') enquanto aborda e retrata os costumes da sociedade da sua época."
-    },
-    {
-      "concurso": "INSS",
-      "materia": "Língua Portuguesa - Interpretação Textual",
-      "enunciado": "De acordo com o texto sobre Martins Pena, julgue o item: Depreende-se do texto que Martins Pena começou a fazer sucesso imediatamente após começar a escrever para o Jornal do Comércio.",
-      "alternativas": ["A) Certo", "B) Errado"],
-      "respostaCorreta": 1,
-      "explicacao": "Gabarito: Errado. O texto afirma que ele ganhou evidência como comediógrafo a partir da encenação da sua peça 'O Juiz de Paz na Roça' em 1838, ou seja, muito antes de escrever para o Jornal do Comércio (o que ocorreu apenas entre 1846 e 1847)."
-    },
-    {
-      "concurso": "INSS",
-      "materia": "Língua Portuguesa - Interpretação",
-      "enunciado": "O texto narra que o personagem viu seu nome no jornal e referia-se à sua obra como 'Uma Obra-Prima'. Julgue o item: Do texto não é possível concluir se 'o pobre namorado' é Antônio Carlos de Oliveira ou o Sr. Dr. Estêvão Soares.",
-      "alternativas": ["A) Certo", "B) Errado"],
-      "respostaCorreta": 1,
-      "explicacao": "Gabarito: Errado. Pelo contexto narrativo é perfeitamente possível concluir a identidade. O artigo parabeniza o literato Antônio Carlos de Oliveira pela autoria da 'Obra-Prima'. Logo, ele é o 'pobre namorado' que leu o próprio nome no jornal naquela manhã."
-    },
-    {
-      "concurso": "INSS",
-      "materia": "Língua Portuguesa - Semântica",
-      "enunciado": "O autor do texto no jornal escreve que a peça 'fará a fortuna de qualquer teatro'. Julgue o item: No texto, a palavra 'fortuna' pode ser interpretada tanto como sucesso quanto como riqueza.",
-      "alternativas": ["A) Certo", "B) Errado"],
-      "respostaCorreta": 1,
-      "explicacao": "Gabarito: Errado. O gabarito oficial considerou o item incorreto porque o termo 'fortuna', no rigor da expressão 'fará a fortuna', está estritamente associado a gerar lucro e ganho material/financeiro para os teatros que a exibirem, não sendo apenas um mero sinônimo de sucesso genérico."
-    },
-    {
-      "concurso": "INSS",
-      "materia": "Língua Portuguesa",
-      "enunciado": "Assinale a alternativa em que a concordância verbal está INCORRETA:",
-      "alternativas": [
-        "A) Deve haver muitas vagas no 'concurso' do INSS.",
-        "B) Fazem cinco anos que comecei a estudar Direito Previdenciário.",
-        "C) Alugam-se apartamentos nesta rua.",
-        "D) Precisa-se de técnicos do seguro social."
-      ],
-      "respostaCorreta": 1,
-      "explicacao": "O verbo 'Fazer' indicando tempo decorrido é impessoal e deve permanecer no singular. O correto é: 'Faz cinco anos que...'."
-    }
-
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa - Compreensão e Reescritura",
+    "enunciado": "Sobre o texto que afirma que o autor 'destacou-se de fato pelas suas comédias', julgue o item: A substituição de 'destacou-se' por 'foi destacado' prejudicaria o sentido original do período.",
+    "alternativas": [
+      "A) Certo",
+      "B) Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Gabarito: Certo. O verbo 'destacar-se' (no sentido de sobressair-se, ganhar evidência por mérito próprio) perderia esse sentido se substituído por 'foi destacado' (que traz a ideia de voz passiva, indicando que alguém o selecionou ou separou para uma tarefa)."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa - Sintaxe",
+    "enunciado": "No trecho '...ao ponto de pedir a comédia para ler segunda vez...', julgue o item: O termo introduzido pela preposição 'para' exerce a função de complemento do verbo 'pedir'.",
+    "alternativas": [
+      "A) Certo",
+      "B) Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Gabarito: Errado. A expressão 'para ler segunda vez' indica finalidade (o propósito do pedido), funcionando sintaticamente como adjunto adverbial de finalidade, e não como complemento verbal (objeto) do verbo pedir."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Redação Oficial",
+    "enunciado": "Julgue o item: Os trechos a seguir apresentados estão adequados para compor um ofício a ser enviado pelo INSS a um particular. 'Ao Digníssimo Senhor Pedro Albuquerque... Respeitosamente, Maria da Silva'.",
+    "alternativas": [
+      "A) Certo",
+      "B) Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Gabarito: Errado. O uso do pronome de tratamento 'Digníssimo' foi abolido pelo Manual de Redação da Presidência da República. Além disso, o fecho 'Respeitosamente' é usado para autoridades de hierarquia superior; para particulares, o padrão correto é 'Atenciosamente'."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Redação Oficial",
+    "enunciado": "Julgue o item: O trecho 'Em resposta ao Mem. 001, informamos que a última reunião de alinhamento ocorreu no auditório...' apresenta concisão, clareza, objetividade e formalidade, sendo adequado para constituir parte de um memorando a ser enviado a autoridade com hierarquia igual ou inferior à do signatário.",
+    "alternativas": [
+      "A) Certo",
+      "B) Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Gabarito: Certo. O texto atende aos princípios da Redação Oficial. Vale lembrar que, na época do edital (2016), o Memorando ainda existia como modalidade específica de comunicação interna entre unidades de um mesmo órgão (atualmente unificado sob o nome 'Padrão Ofício')."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa - Interpretação",
+    "enunciado": "O texto lido afirmava: 'Era um artigo a pedido com o título de Uma Obra-Prima'. Julgue o item: Dada a assinatura 'O amigo das letras', é correto concluir que o trecho publicado no Jornal do Comércio é uma carta.",
+    "alternativas": [
+      "A) Certo",
+      "B) Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Gabarito: Errado. O texto afirma categoricamente que a publicação era 'um artigo a pedido', e não uma carta enviada ao jornal."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa - Interpretação",
+    "enunciado": "O texto diz que o autor da comédia 'vai enfim entrar nos mares da publicidade'. Julgue o item: Depreende-se do texto que Antônio Carlos de Oliveira vai iniciar uma atividade profissional ligada à propaganda, para a qual tem muito talento.",
+    "alternativas": [
+      "A) Certo",
+      "B) Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Gabarito: Errado. A expressão 'entrar nos mares da publicidade' no contexto do século XIX significava tornar sua obra pública/conhecida (publicar a sua comédia), e não trabalhar no ramo profissional de publicidade e propaganda publicitária."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa - Reescritura",
+    "enunciado": "Julgue o item: Seria alterado o sentido original do texto, embora sua correção gramatical fosse mantida, caso o trecho 'Temos o prazer de anunciar ao país o próximo aparecimento de uma excelente comédia, estreia de um jovem literato' fosse reescrito da seguinte forma: É um prazer informar o país do lançamento da primeira comédia de qualidade do jovem Antônio Carlos.",
+    "alternativas": [
+      "A) Certo",
+      "B) Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Gabarito: Certo. A reescrita muda o sentido. Dizer 'estreia de um jovem com uma excelente comédia' é diferente de dizer 'primeira comédia de qualidade'. O original não indica que ele escreveu outras de má qualidade antes."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa - Morfossintaxe",
+    "enunciado": "No trecho 'Consta-nos que o autor...', julgue o item: O vocábulo 'que' classifica-se como conjunção e introduz o sujeito da oração 'Consta-nos'.",
+    "alternativas": [
+      "A) Certo",
+      "B) Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Gabarito: Certo. A palavra 'que' é uma conjunção integrante e introduz uma Oração Subordinada Substantiva Subjetiva. O que nos consta? Consta-nos ISSO. 'ISSO' (que o autor...) é o sujeito do verbo constar."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa - Sintaxe",
+    "enunciado": "O texto afirma: 'Estamos ansiosos por ler a peça do Sr. Oliveira'. Julgue o item: Na oração introduzida pela preposição 'por' remete a uma ação anterior ao estado descrito na oração 'Estamos ansiosos'.",
+    "alternativas": [
+      "A) Certo",
+      "B) Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Gabarito: Errado. A preposição 'por' introduz a oração 'por ler', que indica uma expectativa, um desejo de algo que ainda vai acontecer (ação futura), e não uma ação anterior."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa - Pontuação",
+    "enunciado": "No trecho 'leu há dias a comédia em casa do Sr. Dr. Estêvão Soares', julgue o item: A correção gramatical e o sentido do texto seriam mantidos caso o termo 'em casa' fosse isolado por vírgulas.",
+    "alternativas": [
+      "A) Certo",
+      "B) Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Gabarito: Errado. Se isolarmos 'em casa' por vírgulas ('...a comédia, em casa, do Sr. Dr...'), a estrutura perde o sentido de posse 'casa do Sr. Dr.', alterando a semântica original da frase."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa - Interpretação",
+    "enunciado": "Julgue o item sobre o texto a respeito do dramaturgo Martins Pena: Verifica-se uma contradição na argumentação do autor, uma vez que o sentido do trecho 'criar uma nova comédia com traços muito pessoais' é incompatível com o sentido do trecho 'retratou a cultura e os costumes da sociedade do seu tempo'.",
+    "alternativas": [
+      "A) Certo",
+      "B) Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Gabarito: Errado. Não existe contradição. Um autor pode perfeitamente ter um estilo inovador e próprio ('traços muito pessoais') enquanto aborda e retrata os costumes da sociedade da sua época."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa - Interpretação Textual",
+    "enunciado": "De acordo com o texto sobre Martins Pena, julgue o item: Depreende-se do texto que Martins Pena começou a fazer sucesso imediatamente após começar a escrever para o Jornal do Comércio.",
+    "alternativas": [
+      "A) Certo",
+      "B) Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Gabarito: Errado. O texto afirma que ele ganhou evidência como comediógrafo a partir da encenação da sua peça 'O Juiz de Paz na Roça' em 1838, ou seja, muito antes de escrever para o Jornal do Comércio (o que ocorreu apenas entre 1846 e 1847)."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa - Interpretação",
+    "enunciado": "O texto narra que o personagem viu seu nome no jornal e referia-se à sua obra como 'Uma Obra-Prima'. Julgue o item: Do texto não é possível concluir se 'o pobre namorado' é Antônio Carlos de Oliveira ou o Sr. Dr. Estêvão Soares.",
+    "alternativas": [
+      "A) Certo",
+      "B) Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Gabarito: Errado. Pelo contexto narrativo é perfeitamente possível concluir a identidade. O artigo parabeniza o literato Antônio Carlos de Oliveira pela autoria da 'Obra-Prima'. Logo, ele é o 'pobre namorado' que leu o próprio nome no jornal naquela manhã."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa - Semântica",
+    "enunciado": "O autor do texto no jornal escreve que a peça 'fará a fortuna de qualquer teatro'. Julgue o item: No texto, a palavra 'fortuna' pode ser interpretada tanto como sucesso quanto como riqueza.",
+    "alternativas": [
+      "A) Certo",
+      "B) Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Gabarito: Errado. O gabarito oficial considerou o item incorreto porque o termo 'fortuna', no rigor da expressão 'fará a fortuna', está estritamente associado a gerar lucro e ganho material/financeiro para os teatros que a exibirem, não sendo apenas um mero sinônimo de sucesso genérico."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa",
+    "enunciado": "Assinale a alternativa em que a concordância verbal está INCORRETA:",
+    "alternativas": [
+      "A) Deve haver muitas vagas no 'concurso' do INSS.",
+      "B) Fazem cinco anos que comecei a estudar Direito Previdenciário.",
+      "C) Alugam-se apartamentos nesta rua.",
+      "D) Precisa-se de técnicos do seguro social."
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O verbo 'Fazer' indicando tempo decorrido é impessoal e deve permanecer no singular. O correto é: 'Faz cinco anos que...'."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "portugues",
+    "enunciado": "Ao mencionar os \"imigrantes digitais\" e os \"nativos digitais\", o texto os identifica, respectivamente, como[cite: 1]",
+    "alternativas": [
+      "A) quem vê o computador como uma invenção recente e quem vê o computador como um recurso bastante conhecido.[cite: 1]",
+      "B) quem vê o computador como uma inovação e quem vê o computador como algo que sempre fez parte de sua vida.[cite: 1]",
+      "C) quem vê no computador um aliado assustador e quem vê no computador uma ferramenta de auxílio.[cite: 1]",
+      "D) quem vê no computador uma novidade intimidativa e quem vê no computador um companheiro inseparável.[cite: 1]",
+      "E) quem vê um computador pela primeira vez e quem vê um computador todos os dias.[cite: 1]"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A resposta correta é a letra B, conforme estabelecido pelo gabarito oficial da prova.[cite: 2]"
+  },
+  {
+    "concurso": "INSS",
+    "materia": "portugues",
+    "enunciado": "Ao mencionar os \"imigrantes digitais\" e os \"nativos digitais\", o texto os identifica, respectivamente, como [cite: 50]",
+    "alternativas": [
+      "A) quem vê o computador como uma invenção recente e quem vê o computador como um recurso bastante conhecido. [cite: 51]",
+      "B) quem vê o computador como uma inovação e quem vê o computador como algo que sempre fez parte de sua vida. [cite: 52]",
+      "C) quem vê no computador um aliado assustador e quem vê no computador uma ferramenta de auxílio. [cite: 53]",
+      "D) quem vê no computador uma novidade intimidativa e quem vê no computador um companheiro inseparável. [cite: 54]",
+      "E) quem vê um computador pela primeira vez e quem vê um computador todos os dias. [cite: 55]"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A alternativa correta é a letra B, de acordo com o gabarito oficial da disciplina de Administração[cite: 851]."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "portugues",
+    "enunciado": "Uma fonte citada no texto denomina os jovens de nossos tempos como \"geração homo zappiens, que cresceu usando múltiplos recursos tecnológicos desde a infância\". O neologismo \"homo zappiens\" combina as formas \"homo sapiens\" e \"zap\", com o intuito de [cite: 57, 58]",
+    "alternativas": [
+      "A) fazer uma associação entre o hábito de se usar frequentemente o controle remoto e estar em contato com variados recursos eletrônicos. [cite: 59]",
+      "B) ironizar o excesso de utilização dos recursos tecnológicos por parte da juventude, que por isso mesmo pode deixar os estudos em segundo plano. [cite: 60]",
+      "C) mostrar que o homem, desde os tempos mais remotos, sempre avançou em busca de conhecimento, o que justifica a metáfora com a palavra inglesa. [cite: 61]",
+      "D) conectar criativamente a língua latina e a língua inglesa na formação de uma palavra que teria vida breve na língua portuguesa. [cite: 62]",
+      "E) expressar uma crítica velada aos jovens que passam mais tempo diante dos computadores do que envolvidos nas tarefas propostas pela escola. [cite: 63]"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A alternativa correta é a letra A, de acordo com o gabarito oficial da disciplina de Administração[cite: 851]."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "portugues",
+    "enunciado": "Os autores citados no texto dizem que a geração homo zappiens é digital e que a escola é analógica. Isso contrasta, respectivamente, as atitudes de [cite: 70, 71]",
+    "alternativas": [
+      "A) sentir inquietação & sentir quietude. [cite: 72]",
+      "B) ter voluntarismo & ter sedentarismo. [cite: 73]",
+      "C) adquirir universalidade e produzir resistência. [cite: 74]",
+      "D) mostrar modernidade e estar superado. [cite: 75]",
+      "E) preferir acomodação e semear precariedade. [cite: 76]"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A alternativa correta é a letra D, de acordo com o gabarito oficial da disciplina de Administração[cite: 851]."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "portugues",
+    "enunciado": "A autora do texto defende que todas as escolas dos dias de hoje precisam I. fomentar a cultura tecnológica no corpo discente; II. fomentar a cultura tecnológica no corpo docente; III. incluir a educação à distância; IV. oferecer disciplinas semipresenciais; V. preparar professores para lidar com a tecnologia. VI. utilizar tecnologia digital; Quantas dessas indicações estão coerentes com o que o texto diz explicitamente? [cite: 78, 79, 80, 81, 82, 83, 84, 85]",
+    "alternativas": [
+      "A) Todas as seis. [cite: 86]",
+      "B) Apenas as quatro primeiras. [cite: 87]",
+      "C) Apenas as quatro últimas. [cite: 88]",
+      "D) Cinco delas. [cite: 89]",
+      "E) Nenhuma delas. [cite: 90]"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A alternativa correta é a letra D, de acordo com o gabarito oficial da disciplina de Administração[cite: 851]."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "portugues",
+    "enunciado": "No último parágrafo, a autora diz que \"esta situação, vivenciada na sociedade contemporânea, tem implicações tanto nas escolas de educação básica quanto nas universidades, já que este é o novo perfil dos estudantes e dos acadêmicos\". Assinale a alternativa que reescreve o trecho acima sem comprometer o significado original. [cite: 92, 93]",
+    "alternativas": [
+      "A) Como o novo perfil dos estudantes e dos acadêmicos é este, o que se vivencia na sociedade atual é uma situação que tem implicações sobretudo nas escolas de educação básica e nas universidades. [cite: 94]",
+      "B) Esta situação, que a sociedade contemporânea vivencia, tem implicações não só nas escolas de educação básica como nas universidades, tendo em vista que este é o novo perfil tanto dos estudantes quanto dos acadêmicos. [cite: 95]",
+      "C) A sociedade contemporânea tem vivenciado esta situação, cujas implicações se dão não apenas nas escolas de educação básica, mas inclusive nas universidades, porquanto este perfil é muito novo entre estudantes e acadêmicos. [cite: 96]",
+      "D) A vivência da sociedade contemporânea em relação a este novo perfil de estudantes e acadêmicos é uma situação que implica escolas de educação básica e universidades. [cite: 97]",
+      "E) Já que a sociedade contemporânea vivencia uma situação que implica tanto as universidades quanto as escolas de educação básica, esse é o novo perfil dos estudantes e dos acadêmicos. [cite: 98]"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A alternativa correta é a letra B, de acordo com o gabarito oficial da disciplina de Administração[cite: 851]."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "portugues",
+    "enunciado": "A Organização Mundial de Saúde diz que o número de superdotados em nosso planeta fica entre 1% e 3% da população. Pelas informações contidas no texto, sabe-se que a OMS considera superdotadas as crianças que se destacam nas seguintes áreas ou competências: [cite: 121, 122]",
+    "alternativas": [
+      "A) criatividade e psicomotricidade. [cite: 123]",
+      "B) liderança e estatística. [cite: 124]",
+      "C) intelectual e acadêmica. [cite: 125]",
+      "D) sensibilidade artística e musical. [cite: 126]",
+      "E) talento e memória. [cite: 127]"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A alternativa correta é a letra C, de acordo com o gabarito oficial da disciplina de Administração[cite: 851]."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "portugues",
+    "enunciado": "Que razão o texto apresenta para que alunos se tornem entediados e retraídos diante da rotina escolar? [cite: 129]",
+    "alternativas": [
+      "A) A falta de estímulo intelectual. [cite: 130]",
+      "B) A inexistência de equipamentos eletrônicos. [cite: 131]",
+      "C) A violência no ambiente familiar. [cite: 132]",
+      "D) O despreparo dos professores. [cite: 133]",
+      "E) A pouca atratividade dos assuntos. [cite: 134]"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A alternativa correta é a letra A, de acordo com o gabarito oficial da disciplina de Administração[cite: 851]."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "portugues",
+    "enunciado": "Os procedimentos para identificar as crianças portadoras de altas habilidades incluem os seguintes pontos: I. aplicação de testes de QI; II. levantamento do histórico familiar; III. avaliação do histórico escolar; IV. confronto entre interesses e preferências; V. prescrição do comportamento social. Quantas dessas indicações estão coerentes com o que o texto diz explicitamente? [cite: 141, 142, 143, 144, 145, 146, 147]",
+    "alternativas": [
+      "A) Todas as cinco. [cite: 148]",
+      "B) Apenas as três primeiras. [cite: 149]",
+      "C) Apenas as três últimas. [cite: 150]",
+      "D) Quatro delas. [cite: 151]",
+      "E) Nenhuma delas. [cite: 152]"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A alternativa correta é a letra B, de acordo com o gabarito oficial da disciplina de Administração[cite: 851]."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "portugues",
+    "enunciado": "Diz o texto que \"o processo de identificação deve caracterizar um trabalho interdisciplinar e transdisciplinar, ressaltando um compromisso socioeducacional mais amplo.\" Entende-se um trabalho interdisciplinar e transdisciplinar como aquele que [cite: 154, 155]",
+    "alternativas": [
+      "A) envolve mais de uma disciplina. [cite: 156]",
+      "B) ultrapassa o conteúdo da grade curricular. [cite: 157]",
+      "C) ajuda a controlar a disciplina na escola [cite: 158]",
+      "D) ressalta um compromisso socioeducacional amplo. [cite: 159]",
+      "E) é realizado antes dos conteúdos de cada disciplina. [cite: 160]"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A alternativa correta é a letra A, de acordo com o gabarito oficial da disciplina de Administração[cite: 851]."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "portugues",
+    "enunciado": "O texto defende o seguinte ponto de vista: [cite: 162]",
+    "alternativas": [
+      "A) Os pássaros dependem das duas asas para levantar voo porque não mostram capacidade de integração. [cite: 163]",
+      "B) O meio cultural é fator decisivo para permitir a integração familiar como um ambiente social acolhedor. [cite: 164]",
+      "C) A inteligência apresenta predisposição propulsora para o aperfeiçoamento das habilidades. [cite: 165]",
+      "D) A predisposição genética não é o único fator que causa o desenvolvimento da inteligência. [cite: 166]",
+      "E) As crianças superdotadas são acolhedoras e aperfeiçoam suas habilidades em ambientes culturais. [cite: 167]"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A alternativa correta é a letra D, de acordo com o gabarito oficial da disciplina de Administração[cite: 851]."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa",
+    "enunciado": "Na oração 'É necessário que o cidadão compareça à agência do INSS', a substituição do termo 'à agência' por 'na agência' mantém a correção gramatical e atende às regras de regência da norma-padrão.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. O verbo 'comparecer' rege a preposição 'a' (quem comparece, comparece 'a' algum lugar). A junção da preposição 'a' com o artigo feminino 'a' exige o sinal indicativo de crase ('à'). O uso de 'na' (em + a) é coloquial e desvia-se da regência culta exigida pela banca."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa",
+    "enunciado": "Na frase 'Constatou-se irregularidades na concessão do benefício', a concordância verbal está correta, visto que o pronome 'se' funciona como índice de indeterminação do sujeito, mantendo o verbo na terceira pessoa do singular.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. O termo 'se' atua como partícula apassivadora em uma frase com verbo transitivo direto ('constatar algo'). Portanto, 'irregularidades' é o sujeito paciente. O correto seria flexionar o verbo no plural: 'Constataram-se irregularidades'."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa",
+    "enunciado": "A frase 'O servidor cujo o relatório foi aprovado recebeu elogios' apresenta desvio gramatical devido à presença do artigo 'o' logo após o pronome relativo 'cujo'.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. O pronome relativo 'cujo' (e suas flexões) já carrega uma ideia de posse e adjunção. É uma regra gramatical rígida da norma culta a proibição do uso de artigo (o, a, os, as) imediatamente após esse pronome."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa",
+    "enunciado": "Em 'Os segurados assistidos pelo programa social demonstraram satisfação', a expressão 'pelo programa social' exerce a função sintática de agente da passiva.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. A oração está estruturada na voz passiva analítica por meio do particípio 'assistidos'. O termo introduzido pela preposição 'por' ('pelo') indica quem pratica a ação sofrida pelo sujeito ('Os segurados'), classificando-se como agente da passiva."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa",
+    "enunciado": "Os vocábulos 'INSS', 'benefício' e 'trabalhador' são acentuados graficamente com base na mesma regra de acentuação da Língua Portuguesa.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. 'INSS' é uma sigla e não recebe acento. 'Benefício' é acentuada por ser uma palavra paroxítona terminada em ditongo crescente. 'Trabalhador' é uma palavra oxítona terminada em 'r' e não é acentuada graficamente."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa",
+    "enunciado": "Na frase 'O chefe determinou que todos fizessem o curso, haja visto a necessidade de atualização', a expressão 'haja visto' está grafada em conformidade com as regras gramaticais.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. A locução correta segundo a norma culta é 'haja vista', que permanece invariável independentemente do gênero ou número do substantivo que venha a seguir."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa",
+    "enunciado": "No trecho 'O atendimento à população foi ágil, porquanto os servidores estavam preparados', a conjunção 'porquanto' estabelece uma relação de causa/explicação, podendo ser substituída por 'visto que' sem alteração de sentido.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. A conjunção 'porquanto' possui valor causal ou explicativo. Sua substituição por 'visto que', 'já que' ou 'porque' preserva perfeitamente o nexo lógico e a correção gramatical do período."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa",
+    "enunciado": "A substituição de 'porquanto' por 'conquanto' no trecho anterior manteria o sentido original do texto, dado o valor semanticamente equivalente dessas duas conjunções.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. Elas possuem valores opostos. 'Porquanto' indica causa ou explicação. 'Conquanto' é uma conjunção concessiva (equivale a 'embora' ou 'ainda que'). A troca alteraria radicalmente o sentido da frase."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa",
+    "enunciado": "Na frase 'Não se deve criar expectativas falsas', o pronome 'se' está corretamente posicionado antes do verbo auxiliar devido à presença da palavra de sentido negativo 'Não', que atua como fator de próclise.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Palavras de sentido negativo ('não', 'nunca', 'jamais') exercem atração sobre o pronome oblíquo átono, tornando a próclise obrigatória em relação ao verbo auxiliar nas locuções verbais."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa",
+    "enunciado": "Em 'O processo foi arquivado ontem, cujo teor era sigiloso', o emprego do pronome relativo 'cujo' está gramaticalmente correto, pois faz referência ao termo 'processo' e concorda em gênero com 'teor'.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. O pronome 'cujo' está empregado corretamente porque indica uma relação de posse entre dois substantivos ('o teor do processo'), ligando o termo consequente ('teor') ao antecedente ('processo') e concordando com o termo que possui."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa",
+    "enunciado": "Na frase 'Fazem dez anos que trabalho nesta repartição pública', a concordância do verbo 'fazer' está correta, pois concorda em número com a expressão temporal 'dez anos'.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. O verbo 'fazer', quando indica tempo decorrido, é impessoal (não possui sujeito). Por essa razão, deve permanecer obrigatoriamente na terceira pessoa do singular. O correto é: 'Faz dez anos'."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa",
+    "enunciado": "No segmento 'Desejo que todos venham a reunião amanhã', o emprego do sinal indicativo de crase antes do termo 'reunião' é obrigatório, visto que o verbo exige a preposição 'a' e o substantivo admite o artigo feminino.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Quem vai ou vem, vem 'a' algum lugar (exigência da preposição pelo verbo). O substantivo feminino determinado 'reunião' aceita o artigo 'a'. A fusão resulta no uso obrigatório da crase: 'à reunião'."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa",
+    "enunciado": "Na expressão 'atendimento a domicílio', o uso do sinal indicativo de crase é facultativo.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. A crase é proibida nessa expressão. Primeiramente, 'domicílio' é um substantivo masculino. Além disso, a regência nominal consagrada não exige a preposição 'a' combinada com artigo nessa estrutura (o correto gramaticalmente é 'atendimento em domicílio' ou apenas 'a domicílio' sem crase)."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa",
+    "enunciado": "Em 'A maioria dos servidores públicos aprovaram a nova portaria', a concordância verbal está correta, caracterizando um caso de concordância facultativa (partitiva).",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Quando o sujeito é composto por uma expressão partitiva ('a maioria de', 'a maior parte de') seguida de substantivo no plural, o verbo pode concordar com o núcleo da expressão (singular: 'aprovou') ou com o especificador (plural: 'aprovaram')."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa",
+    "enunciado": "Na oração 'Enviei os documentos para ela assinar', o uso do pronome oblíquo 'ela' como sujeito do verbo no infinitivo infringe a norma culta da Língua Portuguesa.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. O pronome pessoal do caso reto 'ela' pode exercer a função sintática de sujeito de um verbo no infinitivo ('para ela assinar'). O erro seria utilizar um pronome oblíquo tônico como 'mim' ('para mim assinar'), que não pode ser sujeito."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa",
+    "enunciado": "Os vocábulos 'público', 'médico' e 'previdenciário' são classificados, quanto à posição da sílaba tônica, na mesma categoria de palavras proparoxítonas.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. 'Público' e 'médico' são proparoxítonas (antepenínsula tônica). Já 'previdenciário' é classificada como paroxítona terminada em ditongo crescente (penúltima sílaba tônica), embora alguns gramáticos a vejam como proparoxítona aparente, a classificação padrão da banca diverge."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa",
+    "enunciado": "Em 'O cidadão informou ao atendente que faltavam documentos', o termo 'ao atendente' funciona sintaticamente como objeto indireto do verbo 'informar'.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. O verbo 'informar' é transitivo direto e indireto (informar algo a alguém). O termo 'ao atendente' é o objeto indireto (preposicionado), enquanto a oração integrante 'que faltavam documentos' exerce o papel de objeto direto."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa",
+    "enunciado": "No enunciado 'Mal começou o expediente, os sistemas saíram do ar', a palavra 'Mal' funciona como uma conjunção subordinativa temporal, equivalendo semanticamente a 'Assim que'.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Nesse contexto, 'mal' deixa de ser advérbio de modo e assume o papel de conjunção subordinativa temporal, conectando o momento em que a primeira ação ocorre com o início da ação principal."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa",
+    "enunciado": "Na frase 'Todos os cidadãos têm direito à previdência social', o acento circunflexo no verbo 'têm' é obrigatório para indicar a concordância com o sujeito plural 'Todos os cidadãos'.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Trata-se do acento diferencial de número. Os verbos 'ter' e 'vir' (e seus derivados) recebem acento circunflexo na terceira pessoa do plural do presente do indicativo para se diferenciarem da forma do singular ('ele tem' vs 'eles têm')."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa",
+    "enunciado": "A oração 'O edital, que gerou polêmica, foi retificado ontem' contém uma oração subordinada adjetiva restritiva, delimitando o sentido do termo 'edital'.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. A oração 'que gerou polêmica' está isolada por vírgulas, o que a classifica sintaticamente como uma oração subordinada adjetiva explicativa. As orações restritivas não são separadas por pausas ou pontuação."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa",
+    "enunciado": "A retirada das vírgulas no trecho 'O edital, que gerou polêmica, foi retificado' alteraria o sentido do período, mas manteria a correção gramatical da frase.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Sem as vírgulas, a oração passaria de explicativa para restritiva, alterando o sentido (indicando que apenas o edital específico que gerou polêmica foi retificado, dentre outros possíveis). A frase continuaria plenamente correta sob a ótica gramatical."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa",
+    "enunciado": "Na frase 'Comprei o livro para mim ler durante a viagem', o uso do pronome pessoal oblíquo 'mim' está em total consonância com as normas de regência e concordância da língua culta.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. O pronome oblíquo tônico 'mim' não possui capacidade sintática para exercer a função de sujeito de verbos. Antes de verbos no infinitivo que indicam ação do próprio sujeito, deve-se usar o pronome reto: 'para eu ler'."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa",
+    "enunciado": "Em 'A aprovação no concurso exige dedicação, foco e disciplina', o termo 'no concurso' classifica-se sintaticamente como complemento nominal da palavra 'aprovação'.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. 'Aprovação' é um substantivo abstrato derivado de uma ação verbal ('aprovar'). O termo 'no concurso' possui valor paciente (o concurso foi aprovado/alvo da aprovação) e é preposicionado, preenchendo os requisitos de complemento nominal."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa",
+    "enunciado": "Na frase 'Aluga-se salas para reuniões administrativas', a concordância atende aos preceitos gramaticais, visto que a partícula 'se' indica que o sujeito é indeterminado.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. O verbo 'alugar' é transitivo direto. A partícula 'se' funciona como pronome apassivador, tornando 'salas' o sujeito paciente da oração. Logo, o verbo deve concordar obrigatoriamente no plural: 'Alugam-se salas'."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa",
+    "enunciado": "Em 'Trata-se de novos procedimentos operacionais', o verbo está corretamente fixado na terceira pessoa do singular porque o 'se' funciona como índice de indeterminação do sujeito.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. O verbo 'tratar-se' é transitivo indireto (exige a preposição 'de'). Diante de verbos transitivos indiretos, o 'se' atua como índice de indeterminação do sujeito, tornando o sujeito indeterminado e forçando o verbo a ficar fixo no singular."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa",
+    "enunciado": "As palavras 'auto-observação', 'infraestrutura' e 'antirracismo' estão grafadas corretamente de acordo com o Novo Acordo Ortográfico vigente.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. No caso de 'auto-observação', o hífen é obrigatório porque o prefixo termina com a mesma vogal que inicia o segundo termo. Em 'infraestrutura', as vogais são diferentes, unindo-se sem hífen. Em 'antirracismo', o prefixo termina em vogal e a palavra seguinte começa com 'r', duplicando-se a consoante ('rr')."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa",
+    "enunciado": "No trecho 'O servidor agiu conforme as orientações recebidas', a palavra 'conforme' classifica-se como uma conjunção subordinativa conformativa.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. Apesar de possuir valor conformativo, a palavra 'conforme' está funcionando como uma preposição acidental nesse contexto específico, pois liga diretamente um substantivo ('orientações') sem introduzir uma oração (não há verbo na estrutura dependente)."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa",
+    "enunciado": "Na construção 'Fiquei sabendo que você foi promovido através de um memorando', o uso da locução 'através de' está adequado para indicar o meio ou instrumento pelo qual a informação foi transmitida.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. Na norma culta tradicional, 'através de' significa atravessar fisicamente de um lado a outro (ex: olhar através da janela). Para indicar meio, canal ou instrumento, deve-se preferir as locuções 'por meio de', 'mediante' ou 'por intermédio de'."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa",
+    "enunciado": "O termo 'onde' está empregado corretamente na frase: 'A reunião do conselho, onde definiram as metas de atendimento, foi bastante produtiva'.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. O pronome relativo 'onde' deve ser empregado unicamente para fazer referência a lugares físicos do espaço real. No contexto dado, 'reunião' é um evento/situação abstrata, devendo ser substituído por 'na qual', 'em que' ou 'durante a qual'."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Língua Portuguesa",
+    "enunciado": "No trecho 'É preciso combater privilégios, sob pena de comprometer o orçamento', a expressão 'sob pena de' possui valor semântico de consequência ou punição condicional, estando corretamente empregada.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. A locução 'sob pena de' indica uma consequência negativa ou punição que ocorrerá caso a ação principal não seja observada ou cumprida, mantendo-se plenamente válida na redação oficial."
+  }
 ]

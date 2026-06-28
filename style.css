@@ -31,7 +31,7 @@ body { background-color: #f4f6f8; font-family: 'Segoe UI', Tahoma, Geneva, Verda
 .opcoes { display: flex; flex-direction: column; gap: 12px; margin-bottom: 25px; line-height: normal; }
 .opcoes button { padding: 12px 15px; text-align: left; border: 1px solid #ced4da; border-radius: 6px; background-color: #fff; cursor: pointer; font-size: 15px; transition: all 0.2s ease; }
 .opcoes button:hover:not(:disabled) { background-color: #f8f9fa; border-color: #adb5bd; }
-.opcoes button:disabled { cursor: not-allowed; }
+.opcoes button:disabled { cursor: not-allowed;opacity: 0.8; }
 .opcoes button.correta { background-color: #d4edda !important; border-color: #28a745 !important; color: #155724 !important; font-weight: 600; }
 .opcoes button.errada { background-color: #f8d7da !important; border-color: #dc3545 !important; color: #721c24 !important; font-weight: 600; }
 

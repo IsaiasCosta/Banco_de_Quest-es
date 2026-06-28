@@ -1,31 +1,591 @@
 [
+  {
+    "concurso": "INSS",
+    "materia": "Direito Administrativo",
+    "enunciado": "Julgue o item acerca da administração direta e indireta: O INSS integra a administração direta do governo federal, uma vez que esse instituto é uma autarquia federal vinculada ao MPS.",
+    "alternativas": [
+      "A) Certo",
+      "B) Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Gabarito: Errado. A Administração Pública Direta é formada pelos órgãos (Ministérios, Presidência, etc.). As autarquias, como o INSS, compõem a Administração Pública INDIRETA (criadas por descentralização administrativa)."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Direito Administrativo",
+    "enunciado": "Julgue o item: Os institutos da desconcentração e da descentralização, essenciais à organização e repartição de competências da administração pública, podem ser exemplificados, respectivamente, pela relação entre o MPS e a União e pela vinculação entre o INSS e o MPS.",
+    "alternativas": [
+      "A) Certo",
+      "B) Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Gabarito: Errado. A descentralização cria novas entidades (como a criação do INSS, que é uma autarquia). A desconcentração cria órgãos dentro da mesma entidade (como os Ministérios dentro da União). O erro do item está na formulação da relação 'entre o MPS e a União' como exemplo direto de desconcentração na ordem apresentada, o que tornou o item incorreto segundo a banca."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Direito Administrativo",
+    "enunciado": "A Administração Pública direta e indireta de qualquer dos Poderes obedece aos princípios constitucionais conhecidos pelo mnemônico LIMPE. Quais são eles?",
+    "alternativas": [
+      "A) Legalidade, Igualdade, Moralidade, Proporcionalidade e Eficiência.",
+      "B) Legalidade, Impessoalidade, Moralidade, Publicidade e Eficiência.",
+      "C) Legitimidade, Impessoalidade, Moralidade, Probidade e Eficiência.",
+      "D) Legalidade, Impessoalidade, Motivação, Publicidade e Efetividade."
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O art. 37 da CF traz os princípios constitucionais expressos: Legalidade, Impessoalidade, Moralidade, Publicidade e Eficiência (LIMPE)."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "direito-administrativo",
+    "enunciado": "É ato de improbidade administrativa que causa lesão ao erário qualquer ação ou omissão, dolosa ou culposa, que enseje perda patrimonial, desvio, apropriação, malbaratamento ou dilapidação dos bens ou haveres das entidades mencionadas pela Lei n. 8429/92. Assinale a alternativa que se relaciona coerentemente com o texto acima.[cite: 1]",
+    "alternativas": [
+      "A) retardar ou deixar de praticar, indevidamente, ato de ofício;[cite: 1]",
+      "B) revelar fato ou circunstância de que tem ciência em razão das atribuições e que deva permanecer em segredo;[cite: 1]",
+      "C) agir negligentemente na arrecadação de tributo ou renda, bem como no que diz respeito à conservação do patrimônio público;[cite: 1]",
+      "D) revelar ou permitir que chegue ao conhecimento de terceiro, antes da respectiva divulgação oficial, teor de medida política ou econômica capaz de afetar o preço de mercadoria, bem ou serviço;[cite: 1]",
+      "E) frustrar a licitude de concurso público.[cite: 1]"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A resposta correta é a letra C, conforme estabelecido pelo gabarito oficial da prova.[cite: 2]"
+  },
+  [
     {
       "concurso": "INSS",
-      "materia": "Direito Administrativo",
-      "enunciado": "Julgue o item acerca da administração direta e indireta: O INSS integra a administração direta do governo federal, uma vez que esse instituto é uma autarquia federal vinculada ao MPS.",
-      "alternativas": ["A) Certo", "B) Errado"],
-      "respostaCorreta": 1,
-      "explicacao": "Gabarito: Errado. A Administração Pública Direta é formada pelos órgãos (Ministérios, Presidência, etc.). As autarquias, como o INSS, compõem a Administração Pública INDIRETA (criadas por descentralização administrativa)."
-    },
-    {
-      "concurso": "INSS",
-      "materia": "Direito Administrativo",
-      "enunciado": "Julgue o item: Os institutos da desconcentração e da descentralização, essenciais à organização e repartição de competências da administração pública, podem ser exemplificados, respectivamente, pela relação entre o MPS e a União e pela vinculação entre o INSS e o MPS.",
-      "alternativas": ["A) Certo", "B) Errado"],
-      "respostaCorreta": 1,
-      "explicacao": "Gabarito: Errado. A descentralização cria novas entidades (como a criação do INSS, que é uma autarquia). A desconcentração cria órgãos dentro da mesma entidade (como os Ministérios dentro da União). O erro do item está na formulação da relação 'entre o MPS e a União' como exemplo direto de desconcentração na ordem apresentada, o que tornou o item incorreto segundo a banca."
-    },
-    {
-      "concurso": "INSS",
-      "materia": "Direito Administrativo",
-      "enunciado": "A Administração Pública direta e indireta de qualquer dos Poderes obedece aos princípios constitucionais conhecidos pelo mnemônico LIMPE. Quais são eles?",
+      "materia": "direito-administrativo",
+      "enunciado": "É ato de improbidade administrativa que causa lesão ao erário qualquer ação ou omissão, dolosa ou culposa, que enseje perda patrimonial, desvio, apropriação, malbaratamento ou dilapidação dos bens ou haveres das entidades mencionadas pela Lei n. 8429/92. Assinale a alternativa que se relaciona coerentemente com o texto acima.[cite: 1]",
       "alternativas": [
-        "A) Legalidade, Igualdade, Moralidade, Proporcionalidade e Eficiência.",
-        "B) Legalidade, Impessoalidade, Moralidade, Publicidade e Eficiência.",
-        "C) Legitimidade, Impessoalidade, Moralidade, Probidade e Eficiência.",
-        "D) Legalidade, Impessoalidade, Motivação, Publicidade e Efetividade."
+        "A) retardar ou deixar de praticar, indevidamente, ato de ofício;[cite: 1]",
+        "B) revelar fato ou circunstância de que tem ciência em razão das atribuições e que deva permanecer em segredo;[cite: 1]",
+        "C) agir negligentemente na arrecadação de tributo ou renda, bem como no que diz respeito à conservação do patrimônio público;[cite: 1]",
+        "D) revelar ou permitir que chegue ao conhecimento de terceiro, antes da respectiva divulgação oficial, teor de medida política ou econômica capaz de afetar o preço de mercadoria, bem ou serviço;[cite: 1]",
+        "E) frustrar a licitude de concurso público.[cite: 1]"
+      ],
+      "respostaCorreta": 2,
+      "explicacao": "A resposta correta é a letra C, conforme estabelecido pelo gabarito oficial da prova.[cite: 2]"
+    },
+    {
+      "concurso": "INSS",
+      "materia": "direito-administrativo",
+      "enunciado": "Instaurado processo administrativo disciplinar para a prática de atos de improbidade administrativa, conforme determina a Lei n. 8429/92 deve a Comissão Processante dar conhecimento[cite: 1]",
+      "alternativas": [
+        "A) à Autoridade Policial e ao Tribunal ou Conselho de Contas da existência de procedimento administrativo para apurar a prática de ato de improbidade.[cite: 1]",
+        "B) ao Ministério Público e ao Tribunal ou Conselho de Contas da existência de procedimento administrativo para apurar a prática de ato de improbidade.[cite: 1]",
+        "C) ao Ministério Público e à Autoridade Policial da existência de procedimento administrativo para apurar a prática de ato de improbidade.[cite: 1]",
+        "D) ao Ministério Público e ao Tribunal ou Conselho de Contas da existência de procedimento administrativo, que concluiu pelo indiciamento de servidores para a prática de ato de improbidade.[cite: 1]",
+        "E) à Autoridade Policial e ao Tribunal ou Conselho de Contas da existência de procedimento administrativo, que concluiu pelo indiciamento de servidores para a prática de ato de improbidade.[cite: 1]"
       ],
       "respostaCorreta": 1,
-      "explicacao": "O art. 37 da CF traz os princípios constitucionais expressos: Legalidade, Impessoalidade, Moralidade, Publicidade e Eficiência (LIMPE)."
+      "explicacao": "A resposta correta é a letra B, conforme estabelecido pelo gabarito oficial da prova.[cite: 2]"
+    },
+    {
+      "concurso": "INSS",
+      "materia": "direito-administrativo",
+      "enunciado": "Com relação à inexigibilidade de licitação, é correto afirmar, na forma da Lei n. 8666/93:[cite: 1]",
+      "alternativas": [
+        "A) Na contratação de serviços, o objeto deve ter natureza singular, ser técnico especializado e o futuro contratado possuir especialização.[cite: 1]",
+        "B) Na contratação de serviços, o objeto deve ter natureza singular, ser técnico independentemente da especialização e o futuro contratado possuir notória especialização.[cite: 1]",
+        "C) Caracteriza inexigibilidade de licitação o fato de haver poucas pessoas que atendam às necessidades da Administração.[cite: 1]",
+        "D) Nos casos de licitação inexigível, embora possível haver a competição, não é obrigatória a utilização de qualquer das modalidades licitatórias previstas nos comandos legais.[cite: 1]",
+        "E) Na contratação de serviços, o objeto deve ter natureza singular, ser técnico especializado e o futuro contratado possuir notória especialização.[cite: 1]"
+      ],
+      "respostaCorreta": 4,
+      "explicacao": "A resposta correta é a letra E, conforme estabelecido pelo gabarito oficial da prova.[cite: 2]"
+    },
+    {
+      "concurso": "INSS",
+      "materia": "direito-administrativo",
+      "enunciado": "Quantos dos requisitos da licitação deserta, na forma da Lei n. 8666/93, são necessários? I. licitação anteriormente realizada; II. ausência de interessados; III. risco de prejuízos para Administração, se o processo licitatório vier a ser repetido; IV. manutenção das condições ofertadas no ato convocatório anterior.[cite: 1]",
+      "alternativas": [
+        "A) os quatro.[cite: 1]",
+        "B) apenas os dois primeiros.[cite: 1]",
+        "C) apenas o segundo e o quarto.[cite: 1]",
+        "D) nenhum dos quatro.[cite: 1]",
+        "E) apenas os dois últimos.[cite: 1]"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "A resposta correta é a letra A, conforme estabelecido pelo gabarito oficial da prova.[cite: 2]"
+    },
+    {
+      "concurso": "INSS",
+      "materia": "direito-administrativo",
+      "enunciado": "Quais os critérios que devem ser utilizados para o julgamento das propostas, em processo de licitação, nos termos determinados pela Lei n. 8666/93?[cite: 1]",
+      "alternativas": [
+        "A) O julgamento das propostas está vinculado a critérios técnicos de conhecimento da Comissão e fatores estabelecidos no ato convocatório.[cite: 1]",
+        "B) O julgamento das propostas deve ser realizado pela Comissão utilizando-se da maior liberdade possível, visando à melhor contratação.[cite: 1]",
+        "C) O julgamento das propostas está vinculado a critérios e fatores estabelecidos no ato convocatório, cuja interpretação não é estrita.[cite: 1]",
+        "D) O julgamento das propostas está estritamente vinculado a critérios e fatores estabelecidos no ato convocatório.[cite: 1]",
+        "E) O julgamento das propostas é ato discricionário vinculado a critérios e fatores de conveniência e oportunidade para a Administração.[cite: 1]"
+      ],
+      "respostaCorreta": 3,
+      "explicacao": "A resposta correta é a letra D, conforme estabelecido pelo gabarito oficial da prova.[cite: 2]"
+    },
+    {
+      "concurso": "INSS",
+      "materia": "direito-administrativo",
+      "enunciado": "Com relação ao denominado princípio \"da verdade real\" em processo administrativo disciplinar, está correta a seguinte afirmação:[cite: 1]",
+      "alternativas": [
+        "A) O efeito da revelia no processo administrativo disciplinar é o da nomeação de defensor dativo, reputando-se como verdadeiros os fatos imputados ao acusado.[cite: 1]",
+        "B) Desse princípio decorre que a Administração tem o poder-dever de tomar emprestado e de produzir provas a qualquer tempo, atuando de ofício ou mediante provocação, de modo a formar sua convicção sobre a realidade fática em apuração.[cite: 1]",
+        "C) Também chamado de princípio da verdade material, admite a \"verdade sabida\" no processo administrativo disciplinar.[cite: 1]",
+        "D) A Comissão Disciplinar deve buscar, na medida do possível, o que realmente teria acontecido, limitando-se ao que foi levado ao processo pelos envolvidos.[cite: 1]",
+        "E) O princípio da \"verdade real\" não é aplicável ao processo administrativo disciplinar.[cite: 1]"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "A resposta correta é a letra B, conforme estabelecido pelo gabarito oficial da prova.[cite: 2]"
+    },
+    {
+      "concurso": "INSS",
+      "materia": "direito-administrativo",
+      "enunciado": "Jorge Jerônimo, temeroso de responder a processo administrativo disciplinar, por atos ilícitos praticados, requer sua aposentadoria, sendo que esta vem a ser concedida, uma vez que foram preenchidos os requisitos legais. Posteriormente, vem a ser instaurado processo disciplinar, que conclui pela prática de improbidade administrativa e corrupção. Nesse caso, qual a pena a ser aplicada?[cite: 1]",
+      "alternativas": [
+        "A) Demissão, com perda do objeto por aposentadoria concedida.[cite: 1]",
+        "B) Arquivamento, em face da concessão de aposentadoria.[cite: 1]",
+        "C) Cassação de aposentadoria.[cite: 1]",
+        "D) O processo administrativo disciplinar não pode ser concluído, em face da aposentadoria.[cite: 1]",
+        "E) Torna-se impossível a instauração do processo administrativo disciplinar, em face da aposentadoria anterior.[cite: 1]"
+      ],
+      "respostaCorreta": 2,
+      "explicacao": "A resposta correta é a letra C, conforme estabelecido pelo gabarito oficial da prova.[cite: 2]"
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "O princípio da legalidade estrita determina que a Administração Pública só pode praticar atos que estejam expressamente autorizados ou determinados em lei, diferentemente dos particulares, que podem fazer tudo o que a lei não proíbe.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. Trata-se do princípio da legalidade administrativa ou estrita. Enquanto o particular rege-se pela autonomia da vontade (pode fazer tudo que a lei não proíbe), o administrador público está vinculado aos mandamentos da lei (só faz o que a lei autoriza ou determina)."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "O princípio da impessoalidade veda a promoção pessoal de agentes públicos em publicidades de atos, programas, obras e serviços dos órgãos públicos, devendo tais divulgações possuir caráter exclusivamente educativo, informativo ou de orientação social.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. Essa é a reprodução exata do artigo 37, § 1º, da Constituição Federal. O princípio da impessoalidade proíbe o uso de nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores em canais e comunicações oficiais."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "Os atos administrativos que apresentarem vício de competência em razão da matéria são passíveis de convalidação pela própria autoridade superior, desde que não acarretem lesão ao interesse público nem prejuízo a terceiros.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. O vício de competência em razão da matéria (competência em razão do conteúdo ou da função exclusiva) gera um vício insanável, o que impede a convalidação do ato. Apenas o vício de competência quanto ao sujeito (desde que a competência não seja exclusiva) e o vício de forma (desde que a forma não seja essencial) admitem convalidação."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "O motivo do ato administrativo confunde-se com a motivação, sendo ambos termos sinônimos que representam a justificativa por escrito e os fundamentos jurídicos apresentados pelo agente público no momento da edição do ato.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. Motivo e motivação são institutos diferentes. O motivo é o pressuposto de fato e de direito que serve de fundamento para a prática do ato administrativo (a situação real). A motivação é a exteriorização formal desse motivo, ou seja, a exposição escrita e detalhada dos motivos que levaram à prática do ato."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "De acordo com a teoria dos motivos determinantes, a validade do ato administrativo está vinculada aos motivos explicitados para a sua prática, de modo que, se a Administração demonstrar motivos falsos ou inexistentes, o ato será nulo.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. A teoria dos motivos determinantes sustenta que a validade do ato administrativo depende da veracidade e da existência dos motivos alegados para sua realização. Se o motivo invocado for falso ou inexistente, o ato é considerado nulo, mesmo que a motivação fosse facultativa."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "O poder disciplinar confere à Administração Pública a prerrogativa de apurar infrações e aplicar penalidades tanto aos seus servidores públicos quanto aos particulares em geral que cometam atos ilícitos nas vias públicas.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. O poder disciplinar serve para punir internamente infrações de servidores ou de particulares que possuam um vínculo jurídico específico com a Administração (como uma empresa contratada através de licitação). A punição a particulares em geral, sem vínculo específico (como multas de trânsito nas vias públicas), decorre do Poder de Polícia."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "A autoexecutoriedade é um atributo do poder de polícia que permite à Administração aplicar e executar diretamente suas medidas coercitivas, como a interdição de um estabelecimento comercial irregular, sem a necessidade de prévia autorização do Poder Judiciário.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. A autoexecutoriedade confere à Administração a capacidade de executar suas próprias decisões administrativas e atos materiais de polícia de forma direta e imediata, utilizando seus próprios meios de coerção, dispensando intervenção ou aval prévio do Judiciário."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "O desvio de finalidade constitui uma espécie de abuso de poder que se configura quando o agente público atua fora dos limites de sua competência legal, embora busque atingir o interesse público.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. O enunciado inverteu os conceitos. O vício que ocorre quando o agente atua fora dos limites de sua competência legal é o 'excesso de poder'. O 'desvio de finalidade' ocorre quando o agente é formalmente competente, mas pratica o ato buscando uma finalidade alheia ao interesse público ou diversa da prevista em lei para aquele ato específico."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "A autotutela é o princípio que confere à Administração Pública o poder-dever de controlar os seus próprios atos, permitindo-lhe anular os atos ilegais e revogar os atos inconvenientes ou inoportunos, independentemente de provocação judicial.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. Conforme consolidado na Súmula 473 do STF, o princípio da autotutela garante o controle interno da legalidade e do mérito. A Administração anula atos quando eivados de vícios de ilegalidade e revoga atos por razões de conveniência e oportunidade."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "Os atos administrativos discricionários são aqueles em que a lei confere ao administrador público uma margem de liberdade para escolha do conteúdo, oportunidade e conveniência do ato, estando tais escolhas imunes ao controle de legalidade por parte do Poder Judiciário.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. Embora o administrador possua margem de liberdade quanto ao mérito administrativo (conveniência e oportunidade), o ato discricionário não está imune ao controle do Poder Judiciário. O Judiciário pode e deve fiscalizar a legalidade e a legitimidade do ato, os limites da discricionariedade e a observância aos princípios da razoabilidade e proporcionalidade."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "A avocação de competência é a transferência temporária de funções de um órgão inferior para um órgão superior hierárquico, possuindo caráter excepcional e fundamentado, sendo vedada a sua ocorrência de forma generalizada.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. Conforme a Lei nº 9.784/1999, a avocação é medida excepcional, temporária e motivada por relevantes razões justificadas, ocorrendo apenas de um órgão superior em relação a um subordinado."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "O ato de delegação de competência administrativa pode ser revogado a qualquer tempo pela autoridade delegante, sendo permitido delegar a edição de atos de caráter normativo desde que haja autorização expressa do conselho superior.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. Segundo o artigo 11 da Lei nº 9.784/1999, a edição de atos de caráter normativo, a decisão de recursos administrativos e as matérias de competência exclusiva são indelegáveis sob qualquer hipótese."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "Os atos administrativos de império são aqueles praticados pela Administração em situação de igualdade com o particular, regidos predominantemente pelo direito privado, como ocorre na celebração de contratos de locação de imóveis.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. Os atos em que a Administração atua sob prerrogativas de supremacia sobre o particular são os atos de império. Quando atua em igualdade com o particular e sob o direito privado, os atos são denominados de gestão."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "A presunção de legitimidade dos atos administrativos inverte o ônus da prova, cabendo ao particular comprovar que o ato praticado pela Administração Pública possui vício de ilegalidade.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. A presunção de legitimidade faz com que os atos da Administração sejam considerados válidos e legais até que se prove o contrário. Logo, o ônus de desconstituir o ato recai sobre o administrado."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "A imperatividade é um atributo presente em todos os atos administrativos, inclusive naqueles que concedem licenças, autorizações ou que atestam certidões solicitadas pelo cidadão.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. A imperatividade, que é o poder de impor obrigações unilaterais ao particular, não está presente em todos os atos. Atos enunciativos (certidões) e atos negociais (licenças, autorizações) carecem desse atributo."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "Conforme a Lei nº 8.112/1990, a reintegração é o retorno do servidor estável ao cargo anteriormente ocupado em decorrência da invalidação de sua demissão por decisão administrativa ou judicial, com ressarcimento de todas as vantagens.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. Trata-se da exata definição de reintegração contida no artigo 28 da Lei nº 8.112/1990, a qual pressupõe a ilegalidade da demissão anterior e garante indenização integral ao servidor."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "A recondução é o retorno do servidor estável ao cargo anteriormente ocupado e decorre exclusivamente da reprovação em estágio probatório relativo a outro cargo público.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. A recondução pode decorrer da reprovação em estágio probatório de outro cargo, mas também decorre da reintegração do anterior ocupante do cargo, conforme o artigo 29 da Lei nº 8.112/1990."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "A redistribuição consiste no deslocamento de servidor, a pedido ou de ofício, no âmbito do mesmo quadro de pessoal, com ou sem mudança de sede.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. O enunciado traz o conceito de 'remoção' (art. 36 da Lei nº 8.112/1990). A redistribuição (art. 37) é o deslocamento de cargos (e não do servidor de forma isolada) para o âmbito de outro órgão ou entidade do mesmo Poder."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "O servidor público federal investido em mandato de vereador, havendo compatibilidade de horários, perceberá as vantagens de seu cargo, emprego ou função, sem prejuízo da remuneração do cargo eletivo.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. Conforme o artigo 38, III, da Constituição Federal, o mandato de vereador é o único que permite o acúmulo de remunerações e funções, desde que comprovada a compatibilidade de horários."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "As autarquias federais, como o INSS, possuem personalidade jurídica de direito público e são criadas diretamente por meio de lei específica, gozando de autonomia administrativa e financeira.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. De acordo com o artigo 37, XIX, da CF, as autarquias são criadas diretamente por lei específica (diferente das fundações e empresas públicas, que têm sua criação apenas autorizada) e possuem natureza jurídica pública."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "As empresas públicas e as sociedades de economia mista integram a Administração Pública Indireta e, por possuírem personalidade jurídica de direito privado, seus servidores são regidos obrigatoriamente pelo regime estatutário da Lei nº 8.112/1990.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. Os empregados de empresas públicas e sociedades de economia mista (estatais) são submetidos ao regime trabalhista comum da Consolidação das Leis do Trabalho (CLT), e não à Lei Estatutária nº 8.112/1990."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "O poder hierárquico confere ao superior a prerrogativa de dar ordens, fiscalizar a atuação de subordinados, rever atos administrativos, bem como aplicar sanções diretamente a empresas que participam de processos licitatórios.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. O poder hierárquico manifesta-se estritamente na relação de subordinação interna da Administração. A aplicação de sanções a licitantes decorre do Poder Disciplinar (vínculo contratual/editalício), e não do poder hierárquico."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "A responsabilidade civil do Estado por atos comissivos de seus agentes é de natureza objetiva, baseada na teoria do risco administrativo, o que dispensa a comprovação de dolo ou culpa por parte do lesado.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. Conforme o artigo 37, § 6º da CF, a responsabilidade estatal por condutas comissivas (ações) independe da comprovação de culpa ou dolo do agente, exigindo apenas a conduta, o dano e o nexo de causalidade."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "A teoria do risco integral é a regra geral adotada no Brasil para a responsabilidade civil do Estado, o que impede a Administração de invocar causas excludentes de responsabilidade, como a culpa exclusiva da vítima.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. A regra geral no ordenamento brasileiro é a teoria do risco administrativo, que admite excludentes (caso fortuito, força maior e culpa exclusiva da vítima). O risco integral é excepcionalíssimo (danos nucleares, ambientais e atos terroristas em aeronaves)."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "O direito de regresso do Estado contra o agente público causador do dano depende obrigatoriamente da comprovação de que este agiu com dolo ou culpa.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. Enquanto a responsabilidade do Estado perante o terceiro prejudicado é objetiva, a responsabilidade do agente público em ação regressiva é subjetiva, exigindo a demonstração cabal de dolo ou culpa (negligência, imprudência ou imperícia)."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "Dentre as penalidades disciplinares previstas na Lei nº 8.112/1990, a advertência deverá ser aplicada por escrito nos casos de violação de proibição constante do art. 117, incisos I a VIII e XIX, e de inobservância de dever funcional previsto em lei.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. Conforme estabelece o artigo 129 da Lei nº 8.112/1990, a advertência é a penalidade aplicada formalmente por escrito em infrações leves e descumprimento de deveres funcionais."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "A demissão de servidor público federal gera a cassação automática de sua aposentadoria, mesmo que as faltas cometidas tenham ocorrido inteiramente durante o período em que ele já se encontrava na inatividade.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. A cassação de aposentadoria é uma penalidade autônoma aplicada ao inativo que cometeu, na atividade, falta punível com demissão. Se a falta foi praticada integralmente após a aposentadoria, não enseja demissão e nem cassação com base em atos da atividade."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "O processo administrativo disciplinar (PAD) poderá ser revisto, a qualquer tempo, a pedido ou de ofício, quando se aduzirem fatos novos ou circunstâncias suscetíveis de justificar a inocência do punido ou a inadequação da penalidade aplicada.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. Trata-se do teor do artigo 174 da Lei nº 8.112/1990. A revisão do PAD pode ocorrer a qualquer tempo, vedando-se, contudo, o agravamento da penalidade original decorrente do recurso ou revisão."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "No âmbito do processo administrativo, a falta de defesa técnica por advogado constitui ofensa à Constituição Federal, gerando a nulidade absoluta do procedimento disciplinar.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. De acordo com a Súmula Vinculante nº 5 do STF, a falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a Constituição Federal."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "A encampação é a retomada do serviço pelo poder concedente durante o prazo da concessão, por motivo de interesse público, mediante lei autorizativa específica e após o pagamento prévio de indenização.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. Conforme a Lei nº 8.987/1995, a encampação é a retomada unilateral motivada pelo interesse público, exigindo autorização legislativa e indenização prévia dos investimentos não amortizados."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "A caducidade da concessão de serviços públicos é a extinção contratual decretada pela Administração devido ao inadimplemento ou descumprimento de obrigações contratuais por parte da concessionária.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. A caducidade é a espécie de extinção sancionatória do contrato de concessão aplicada quando a empresa concessionária falha gravemente na prestação do serviço ou descumpre as cláusulas avençadas."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "O ato de delegação de poder de polícia a pessoas jurídicas de direito privado com fins lucrativos é integralmente legítimo no direito brasileiro, abrangendo as fases de fiscalização, consentimento e aplicação de sanções monetárias.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. O STF pacificou que é constitucional a delegação de etapas do poder de polícia (consentimento e fiscalização) apenas a pessoas jurídicas de direito privado integrantes da Administração Indireta (estatais de capital público), sendo vedada a delegação de sanção ou normatização a entes privados puros ou lucrativos."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "A improbidade administrativa possui natureza civil-política, de modo que as sanções previstas na Lei nº 8.429/1992 não se confundem com penas criminais nem com sanções puramente administrativas.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. A ação de improbidade administrativa possui natureza civil-política e corre na esfera cível, não gerando efeitos de condenação criminal privativa de liberdade direta."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "Com as alterações promovidas pela Lei nº 14.230/2021, passou a ser admitida a configuração de ato de improbidade administrativa na modalidade culposa, bastando restar demonstrada a negligência grave do gestor público.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. A reforma da Lei de Improbidade Administrativa eliminou totalmente a modalidade culposa. Atualmente, exige-se expressamente o dolo específico para a configuração de qualquer ato de improbidade."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "O enriquecimento ilícito decorrente de ato de improbidade administrativa exige a demonstração de dano efetivo ao erário público para viabilizar a aplicação da sanção de perda dos bens acrescidos ao patrimônio.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. O enriquecimento ilícito (art. 9º da Lei nº 8.429/92) configura-se pela obtenção de vantagem patrimonial indevida pelo agente, sendo independente da ocorrência de prejuízo financeiro efetivo aos cofres públicos."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "Os atos de improbidade administrativa que atentam contra os princípios da administração pública estão sujeitos à sanção de suspensão dos direitos políticos por até 14 anos.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. Após a Lei nº 14.230/2021, os atos que atentam contra os princípios (art. 11) não possuem mais a previsão de suspensão de direitos políticos. A suspensão por até 14 anos se aplica aos atos que geram enriquecimento ilícito."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "O nepotismo viola diretamente os princípios constitucionais da moralidade e da impessoalidade, ensejando a nulidade do ato de nomeação de cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau, inclusive, da autoridade nomeante.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. Trata-se do teor consolidado na Súmula Vinculante nº 13 do STF, que proíbe a nomeação de parentes até o terceiro grau para cargos em comissão e funções gratificadas."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "O prazo prescricional para a imposição da ação de improbidade administrativa é de 8 anos, contados a partir da data de ocorrência do fato ou, no caso de infrações permanentes, do dia em que cessou a permanência.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. Com a nova redação dada pela Lei nº 14.230/2021 ao art. 23, a ação para a aplicação das sanções prescreve em 8 anos, contados a partir da ocorrência do fato."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "O princípio da publicidade administrativa veda em absoluto o sigilo de qualquer documento de posse do Estado, prevalecendo sempre o direito à informação e transparência governamental irrestrita.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. A publicidade é a regra geral, mas não é absoluta. O sigilo é expressamente admitido pela Constituição quando imprescindível à segurança da sociedade e do Estado ou para a preservação da intimidade."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Administrativo",
+      "enunciado": "O desfazimento de ato administrativo ilegal por meio da anulação opera efeitos ex tunc, retroagindo às origens do ato para desconstituir as consequências jurídicas por ele geradas, resguardados os terceiros de boa-fé.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. A anulação de ato eivado de ilegalidade possui efeitos retroativos (ex tunc), eliminando o ato desde o seu nascimento, respeitando-se os efeitos já consolidados perante terceiros de boa-fé."
     }
+  ]
 ]

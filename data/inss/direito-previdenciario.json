@@ -1,68 +1,526 @@
 [
-   {
-      "concurso": "INSS",
-      "materia": "Direito Previdenciário - Pensão por Morte",
-      "enunciado": "Julgue o item: De acordo com a Emenda Constitucional nº 103/2019 (Reforma da Previdência), a cota familiar da pensão por morte é equivalente a uma cota familiar de 50% do valor da aposentadoria recebida pelo segurado ou daquela a que teria direito se fosse aposentado por incapacidade permanente na data do óbito, acrescida de cotas de 10% por dependente, até o máximo de 100%.",
-      "alternativas": [
-        "A) Certo",
-        "B) Errado"
-      ],
-      "respostaCorreta": 0,
-      "explicacao": "Gabarito: Certo. A Reforma da Previdência (EC 103/2019) alterou significativamente o cálculo da pensão por morte, estabelecendo a regra da cota familiar de 50% acrescida de 10% por dependente, até o limite de 100%."
-    },
+  {
+    "concurso": "INSS",
+    "materia": "Direito Previdenciário - Pensão por Morte",
+    "enunciado": "Julgue o item: De acordo com a Emenda Constitucional nº 103/2019 (Reforma da Previdência), a cota familiar da pensão por morte é equivalente a uma cota familiar de 50% do valor da aposentadoria recebida pelo segurado ou daquela a que teria direito se fosse aposentado por incapacidade permanente na data do óbito, acrescida de cotas de 10% por dependente, até o máximo de 100%.",
+    "alternativas": [
+      "A) Certo",
+      "B) Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Gabarito: Certo. A Reforma da Previdência (EC 103/2019) alterou significativamente o cálculo da pensão por morte, estabelecendo a regra da cota familiar de 50% acrescida de 10% por dependente, até o limite de 100%."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Direito Previdenciário - Auxílio-Acidente",
+    "enunciado": "Julgue o item: O auxílio-acidente será concedido, como indenização, ao segurado quando, após consolidação das lesões decorrentes de acidente de qualquer natureza, resultarem sequelas que impliquem redução da capacidade para o trabalho que habitualmente exercia.",
+    "alternativas": [
+      "A) Certo",
+      "B) Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Gabarito: Certo. Conforme o art. 86 da Lei 8.213/91, o auxílio-acidente possui natureza estritamente indenizatória e é devido quando há redução (e não perda total) da capacidade laborativa após a consolidação das lesões."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Direito Previdenciário - Segurados",
+    "enunciado": "Julgue o item: O servidor público ocupante exclusivamente de cargo em comissão, declarado em lei de livre nomeação e exoneração, é filiado obrigatório ao Regime Próprio de Previdência Social (RPPS) do respectivo ente federativo.",
+    "alternativas": [
+      "A) Certo",
+      "B) Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Gabarito: Errado. De acordo com a Constituição Federal e a Lei 8.212/91, o servidor ocupante *exclusivamente* de cargo em comissão (sem vínculo efetivo) é considerado segurado obrigatório do Regime Geral de Previdência Social (RGPS - INSS)."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Direito Previdenciário - Aposentadoria",
+    "enunciado": "Julgue o item: Com as alterações promovidas pela EC 103/2019, a regra geral de aposentadoria voluntária para a mulher vinculada ao RGPS passou a exigir a idade mínima de 62 anos, ressalvadas as regras de transição vigentes.",
+    "alternativas": [
+      "A) Certo",
+      "B) Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Gabarito: Certo. A reforma fixou a idade mínima genérica de aposentadoria para 62 anos (mulheres) e 65 anos (homens), acompanhada do respectivo tempo mínimo de contribuição exigido por lei."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Direito Previdenciário - Salário-Maternidade",
+    "enunciado": "Julgue o item: O salário-maternidade para a segurada empregada consiste em uma renda mensal igual à sua remuneração integral, sendo este benefício pago diretamente pelo INSS desde o primeiro dia de afastamento.",
+    "alternativas": [
+      "A) Certo",
+      "B) Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Gabarito: Errado. Embora o valor seja a remuneração integral, para a *segurada empregada*, quem realiza o pagamento efetivo do salário-maternidade é a própria empresa (empregador), que posteriormente compensa esse valor nos recolhimentos devidos ao INSS. (Exceção: o INSS paga diretamente para empregada doméstica, trabalhadora avulsa, contribuinte individual, facultativa e segurada especial)."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Direito Previdenciário - Auxílio-Reclusão",
+    "enunciado": "Julgue o item: Após a EC 103/2019, o auxílio-reclusão passou a ser devido exclusivamente aos dependentes do segurado de baixa renda que for recolhido à prisão em regime fechado, não sendo mais admitido o pagamento em caso de cumprimento de pena em regime semiaberto.",
+    "alternativas": [
+      "A) Certo",
+      "B) Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Gabarito: Certo. A Reforma da Previdência limitou o pagamento do auxílio-reclusão aos dependentes de segurados de baixa renda recolhidos estritamente em regime fechado."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "direito-previdenciario",
+    "enunciado": "São condições para a aposentadoria no regime geral de previdência social, nos termos da Constituição Federal:[cite: 1]",
+    "alternativas": [
+      "A) Trinta anos de contribuição, se homem, e vinte anos de contribuição, se mulher[cite: 1]",
+      "B) Sessenta e cinco anos de idade, se homem, e sessenta anos de idade, se mulher, reduzido em dez anos o limite para os trabalhadores rurais de ambos os sexos e para os que exerçam suas atividades em regime de economia familiar, nestes incluídos o produtor rural, o garimpeiro e o pescador artesanal.[cite: 1]",
+      "C) Sessenta e cinco anos de idade, se homem, e sessenta anos de idade, se mulher, reduzido em cinco anos o limite para os trabalhadores rurais de ambos os sexos e para os que exerçam suas atividades em regime de economia familiar, nestes incluídos o produtor rural, o garimpeiro e o pescador artesanal.[cite: 1]",
+      "D) Trinta e cinco anos de contribuição, se homem, e vinte anos de contribuição, se mulher[cite: 1]",
+      "E) Trinta e cinco anos, para ambos os sexos, reduzidos em dez anos, para o professor que comprove tempo de efetivo e exclusivo exercício das funções de magistério na educação infantil e no ensino fundamental e médio.[cite: 1]"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A resposta correta é a letra C, conforme estabelecido pelo gabarito oficial da prova.[cite: 2]"
+  },
+  {
+    "concurso": "INSS",
+    "materia": "direito-previdenciario",
+    "enunciado": "São condições para a aposentadoria no regime geral de previdência social, nos termos da Constituição Federal:[cite: 1]",
+    "alternativas": [
+      "A) Trinta anos de contribuição, se homem, e vinte anos de contribuição, se mulher[cite: 1]",
+      "B) Sessenta e cinco anos de idade, se homem, e sessenta anos de idade, se mulher, reduzido em dez anos o limite para os trabalhadores rurais de ambos os sexos e para os que exerçam suas atividades em regime de economia familiar, nestes incluídos o produtor rural, o garimpeiro e o pescador artesanal.[cite: 1]",
+      "C) Sessenta e cinco anos de idade, se homem, e sessenta anos de idade, se mulher, reduzido em cinco anos o limite para os trabalhadores rurais de ambos os sexos e para os que exerçam suas atividades em regime de economia familiar, nestes incluídos o produtor rural, o garimpeiro e o pescador artesanal.[cite: 1]",
+      "D) Trinta e cinco anos de contribuição, se homem, e vinte anos de contribuição, se mulher[cite: 1]",
+      "E) Trinta e cinco anos, para ambos os sexos, reduzidos em dez anos, para o professor que comprove tempo de efetivo e exclusivo exercício das funções de magistério na educação infantil e no ensino fundamental e médio.[cite: 1]"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A resposta correta é a letra C, conforme estabelecido pelo gabarito oficial da prova.[cite: 2]"
+  },
+  {
+    "concurso": "INSS",
+    "materia": "direito-previdenciario",
+    "enunciado": "A contribuição previdenciária da União, na forma da Lei n. 8212/91,[cite: 1]",
+    "alternativas": [
+      "A) constituída de recursos adicionais do Orçamento Fiscal, fixados obrigatoriamente no plano plurianual orçamentário.[cite: 1]",
+      "B) constituída de recursos adicionais do Orçamento Fiscal, fixados obrigatoriamente na lei orçamentária anual.[cite: 1]",
+      "C) responsabilidade da União na cobertura de eventuais insuficiências financeiras da Seguridade Social, quando decorrentes do pagamento de benefícios de prestação continuada da Previdência Social, na forma da Lei Orçamentária Anual.[cite: 1]",
+      "D) fruto do repasse semestral dos recursos referentes às contribuições destinados à execução do Orçamento da Seguridade Social.[cite: 1]",
+      "E) constituída de recursos fiscais constantes de Lei Complementar específica, aprovada anualmente pelo Congresso Nacional.[cite: 1]"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A resposta correta é a letra B, conforme estabelecido pelo gabarito oficial da prova.[cite: 2]"
+  },
+  {
+    "concurso": "INSS",
+    "materia": "direito-previdenciario",
+    "enunciado": "Considera-se segurado obrigatório da Previdência Social, nos termos da Lei 8213/91,[cite: 1]",
+    "alternativas": [
+      "A) o ministro de confissão religiosa e o membro de instituto de vida consagrada, de congregação ou de ordem religiosa.[cite: 1]",
+      "B) o brasileiro civil que trabalha no exterior para organismo oficial internacional do qual o Brasil não é membro efetivo, ainda que lá domiciliado e contratado, salvo quando coberto por regime próprio de previdência social.[cite: 1]",
+      "C) quem presta serviço de natureza urbana ou rural, em caráter eventual, a uma ou mais empresas, com relação de emprego.[cite: 1]",
+      "D) o exercente de mandato eletivo federal, estadual ou municipal, desde mesmo que vinculado a regime próprio de previdência social.[cite: 1]",
+      "E) aquele que presta serviço de natureza urbana ou rural à empresa, em caráter eventual, sem subordinação e mediante remuneração, exceto como diretor empregado.[cite: 1]"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A resposta correta é a letra A, conforme estabelecido pelo gabarito oficial da prova.[cite: 2]"
+  },
+  {
+    "concurso": "INSS",
+    "materia": "direito-previdenciario",
+    "enunciado": "Analise as seguintes informações sobre o tema da reabilitação profissional, considerando os termos da Lei nº 8213/91: I. Haverá fornecimento de aparelho de prótese, órtese e instrumentos de auxílio para locomoção quando a perda ou redução da capacidade funcional puder ser atenuada por seu uso e dos equipamentos necessários à habilitação e reabilitação social e profissional; II. Haverá reparação ou substituição dos aparelhos mencionados na Lei, desgastados pelo uso normal ou por ocorrência estranha à vontade do beneficiário; III. Será efetuado o transporte do acidentado do trabalho, quando necessário; IV. Não será concedido, no caso de habilitação e reabilitação profissional, auxílio para tratamento ou exame fora do domicílio do beneficiário, conforme dispuser o Regulamento; V. Concluído o processo de habilitação ou reabilitação social e profissional, a Previdência Social emitirá certificado individual, indicando as atividades que poderão ser exercidas pelo beneficiário, impedindo-se que este exerça outra atividade para a qual se capacitar. Quantas dessas informações são procedentes nesse quesito?[cite: 1]",
+    "alternativas": [
+      "A) Apenas a segunda e a quarta.[cite: 1]",
+      "B) Apenas a segunda e a quinta.[cite: 1]",
+      "C) Apenas a terceira e a quinta.[cite: 1]",
+      "D) Apenas a primeira e a terceira.[cite: 1]",
+      "E) Apenas a primeira e a quarta.[cite: 1]"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A resposta correta é a letra D, conforme estabelecido pelo gabarito oficial da prova.[cite: 2]"
+  },
+  {
+    "concurso": "INSS",
+    "materia": "direito-previdenciario",
+    "enunciado": "A quem compete, nos termos da Lei n. 8213/91, gerar estatísticas sobre o total de empregados e sobre as vagas preenchidas por reabilitados e deficientes habilitados, fornecendo-as, quando solicitadas, aos sindicatos ou entidades representativas dos empregados?[cite: 1]",
+    "alternativas": [
+      "A) Ministério da Saúde;[cite: 1]",
+      "B) Ministério da Previdência Social;[cite: 1]",
+      "C) Serviço Nacional da Indústria;[cite: 1]",
+      "D) Confederação Nacional da Indústria;[cite: 1]",
+      "E) Ministério do Trabalho e Emprego.[cite: 1]"
+    ],
+    "respostaCorreta": 4,
+    "explicacao": "A resposta correta é a letra E, conforme estabelecido pelo gabarito oficial da prova.[cite: 2]"
+  },
+  {
+    "concurso": "INSS",
+    "materia": "direito-previdenciario",
+    "enunciado": "No tocante à contribuição das empresas, na forma da Lei n. 8212/91, é correto afirmar que representa[cite: 1]",
+    "alternativas": [
+      "A) vinte por cento sobre o total das remunerações pagas, devidas ou creditadas a qualquer título, durante o mês, aos segurados empregados e trabalhadores avulsos que lhe prestem serviços, destinadas a retribuir o trabalho, qualquer que seja a sua forma, inclusive as gorjetas, os ganhos habituais sob a forma de utilidades e os adiantamentos decorrentes de reajuste salarial, quer pelos serviços efetivamente prestados, quer pelo tempo à disposição do empregador ou tomador de serviços, nos termos da lei ou do contrato ou, ainda, de convenção ou acordo coletivo de trabalho ou sentença normativa.[cite: 1]",
+      "B) vinte por cento sobre o total das remunerações pagas, devidas ou creditadas a qualquer título, durante o mês, aos segurados empregados que lhe prestem serviços, destinados a retribuir o trabalho, qualquer que seja a sua forma, inclusive as gorjetas, os ganhos habituais sob a forma de utilidades e os adiantamentos decorrentes de reajuste salarial, quer pelos serviços efetivamente prestados, quer pelo tempo à disposição do empregador ou tomador de serviços, nos termos da lei ou do contrato ou, ainda, de convenção ou acordo coletivo de trabalho ou sentença normativa.[cite: 1]",
+      "C) quinze por cento sobre o total das remunerações pagas, devidas ou creditadas a qualquer título, durante o mês, aos segurados empregados e trabalhadores avulsos que lhe prestem serviços, destinadas a retribuir o trabalho, qualquer que seja a sua forma, inclusive as gorjetas, os ganhos habituais sob a forma de utilidades e os adiantamentos decorrentes de reajuste salarial, quer pelos serviços efetivamente prestados, quer pelo tempo à disposição do empregador ou tomador de serviços, nos termos da lei ou do contrato ou, ainda, de convenção ou acordo coletivo de trabalho ou sentença normativa.[cite: 1]",
+      "D) quinze por cento sobre o total das remunerações pagas, devidas ou creditadas a qualquer título, durante o mês, aos segurados empregados e trabalhadores avulsos que lhe prestem serviços, destinadas a retribuir o trabalho, qualquer que seja a sua forma, excluídas as gorjetas, os ganhos habituais sob a forma de utilidades e os adiantamentos decorrentes de reajuste salarial, quer pelos serviços efetivamente prestados, quer pelo tempo à disposição do empregador ou tomador de serviços, nos termos da lei ou do contrato ou, ainda, de convenção ou acordo coletivo de trabalho ou sentença normativa.[cite: 1]",
+      "E) vinte por cento sobre o total das remunerações pagas, devidas ou creditadas a qualquer título, durante o mês, aos segurados empregados e trabalhadores avulsos que lhe prestem serviços, destinadas a retribuir o trabalho, qualquer que seja a sua forma, excluídas as gorjetas, os ganhos habituais sob a forma de utilidades e os adiantamentos decorrentes de reajuste salarial, quer pelos serviços efetivamente prestados, quer pelo tempo à disposição do empregador ou tomador de serviços, nos termos da lei ou do contrato ou, ainda, de convenção ou acordo coletivo de trabalho ou sentença normativa.[cite: 1]"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A resposta correta é a letra A, conforme estabelecido pelo gabarito oficial da prova.[cite: 2]"
+  },
+  {
+    "concurso": "INSS",
+    "materia": "direito-previdenciario",
+    "enunciado": "O Regime Geral de Previdência Social, nos termos da Lei n. 8212/91, reconhece como segurado facultativo[cite: 1]",
+    "alternativas": [
+      "A) o maior de 16 (dezesseis) anos de idade que se filiar ao Regime Geral de Previdência Social, mediante contribuição.[cite: 1]",
+      "B) o maior de 18 (dezoito) anos de idade que se filiar ao Regime Geral de Previdência Social, mediante contribuição.[cite: 1]",
+      "C) o maior de 14 (quatorze) anos de idade que se filiar ao Regime Geral de Previdência Social, mediante contribuição.[cite: 1]",
+      "D) aquele que, independentemente da idade, se filiar ao Regime Geral de Previdência Social, mediante contribuição.[cite: 1]",
+      "E) o maior de 12 (doze) anos de idade que se filiar ao Regime Geral de Previdência Social, mediante contribuição.[cite: 1]"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A resposta correta é a letra C, conforme estabelecido pelo gabarito oficial da prova.[cite: 2]"
+  },
+  {
+    "concurso": "INSS",
+    "materia": "direito-previdenciario",
+    "enunciado": "Assinale a alternativa que contém informação correta sobre o auxílio-doença, nos termos da Lei nº 8213/91.[cite: 1]",
+    "alternativas": [
+      "A) O auxílio-doença será devido ao segurado empregado a contar do décimo quinto dia do afastamento da atividade, e, no caso dos demais segurados, a contar da data do início da incapacidade e enquanto ele permanecer incapaz.[cite: 1]",
+      "B) O auxílio-doença será devido ao segurado empregado a contar do décimo sexto dia do afastamento da atividade, e, no caso dos demais segurados, a contar da data do início da incapacidade e enquanto ele permanecer incapaz.[cite: 1]",
+      "C) Durante os primeiros quinze dias úteis consecutivos ao do afastamento da atividade por motivo de doença, incumbirá à empresa pagar ao segurado empregado o seu salário integral.[cite: 1]",
+      "D) O auxílio-doença, inclusive o decorrente de acidente do trabalho, consistirá numa renda mensal correspondente a 100% (cem por cento) do salário de benefício.[cite: 1]",
+      "E) A empresa que dispuser de serviço médico, próprio ou em convênio, terá a seu cargo o exame médico e o abono das faltas correspondentes ao período referido em Lei, somente devendo encaminhar o segurado à perícia médica da Previdência Social quando a incapacidade ultrapassar 15 (quinze) dias úteis.[cite: 1]"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A resposta correta é a letra B, conforme estabelecido pelo gabarito oficial da prova.[cite: 2]"
+  },
+  [
     {
       "concurso": "INSS",
-      "materia": "Direito Previdenciário - Auxílio-Acidente",
-      "enunciado": "Julgue o item: O auxílio-acidente será concedido, como indenização, ao segurado quando, após consolidação das lesões decorrentes de acidente de qualquer natureza, resultarem sequelas que impliquem redução da capacidade para o trabalho que habitualmente exercia.",
+      "materia": "Direito Previdenciário",
+      "enunciado": "A segurança social compreende um conjunto integrado de ações de iniciativa exclusiva dos Poderes Públicos, destinadas a assegurar os direitos relativos à saúde, à previdência e à assistência social.",
       "alternativas": [
-        "A) Certo",
-        "B) Errado"
-      ],
-      "respostaCorreta": 0,
-      "explicacao": "Gabarito: Certo. Conforme o art. 86 da Lei 8.213/91, o auxílio-acidente possui natureza estritamente indenizatória e é devido quando há redução (e não perda total) da capacidade laborativa após a consolidação das lesões."
-    } ,
-    {
-      "concurso": "INSS",
-      "materia": "Direito Previdenciário - Segurados",
-      "enunciado": "Julgue o item: O servidor público ocupante exclusivamente de cargo em comissão, declarado em lei de livre nomeação e exoneração, é filiado obrigatório ao Regime Próprio de Previdência Social (RPPS) do respectivo ente federativo.",
-      "alternativas": [
-        "A) Certo",
-        "B) Errado"
+        "Certo",
+        "Errado"
       ],
       "respostaCorreta": 1,
-      "explicacao": "Gabarito: Errado. De acordo com a Constituição Federal e a Lei 8.212/91, o servidor ocupante *exclusivamente* de cargo em comissão (sem vínculo efetivo) é considerado segurado obrigatório do Regime Geral de Previdência Social (RGPS - INSS)."
+      "explicacao": "Errado. Conforme o artigo 194 da Constituição Federal, as ações da Seguridade Social são de iniciativa integrada dos Poderes Públicos e de toda a sociedade, e não de iniciativa exclusiva do Estado."
     },
     {
       "concurso": "INSS",
-      "materia": "Direito Previdenciário - Aposentadoria",
-      "enunciado": "Julgue o item: Com as alterações promovidas pela EC 103/2019, a regra geral de aposentadoria voluntária para a mulher vinculada ao RGPS passou a exigir a idade mínima de 62 anos, ressalvadas as regras de transição vigentes.",
+      "materia": "Direito Previdenciário",
+      "enunciado": "O princípio da universalidade da cobertura e do atendimento da seguridade social assegura que todas as pessoas residentes no país tenham direito indistinto a todos os benefícios previdenciários, independentemente de contribuição.",
       "alternativas": [
-        "A) Certo",
-        "B) Errado"
-      ],
-      "respostaCorreta": 0,
-      "explicacao": "Gabarito: Certo. A reforma fixou a idade mínima genérica de aposentadoria para 62 anos (mulheres) e 65 anos (homens), acompanhada do respectivo tempo mínimo de contribuição exigido por lei."
-    },
-    {
-      "concurso": "INSS",
-      "materia": "Direito Previdenciário - Salário-Maternidade",
-      "enunciado": "Julgue o item: O salário-maternidade para a segurada empregada consiste em uma renda mensal igual à sua remuneração integral, sendo este benefício pago diretamente pelo INSS desde o primeiro dia de afastamento.",
-      "alternativas": [
-        "A) Certo",
-        "B) Errado"
+        "Certo",
+        "Errado"
       ],
       "respostaCorreta": 1,
-      "explicacao": "Gabarito: Errado. Embora o valor seja a remuneração integral, para a *segurada empregada*, quem realiza o pagamento efetivo do salário-maternidade é a própria empresa (empregador), que posteriormente compensa esse valor nos recolhimentos devidos ao INSS. (Exceção: o INSS paga diretamente para empregada doméstica, trabalhadora avulsa, contribuinte individual, facultativa e segurada especial)."
+      "explicacao": "Errado. A universalidade da cobertura e do atendimento significa que a Seguridade buscará cobrir todos os riscos sociais e proteger todos os indivíduos, mas a Previdência Social mantém seu caráter essencialmente contributivo e filiação obrigatória."
     },
     {
       "concurso": "INSS",
-      "materia": "Direito Previdenciário - Auxílio-Reclusão",
-      "enunciado": "Julgue o item: Após a EC 103/2019, o auxílio-reclusão passou a ser devido exclusivamente aos dependentes do segurado de baixa renda que for recolhido à prisão em regime fechado, não sendo mais admitido o pagamento em caso de cumprimento de pena em regime semiaberto.",
+      "materia": "Direito Previdenciário",
+      "enunciado": "A estudante de dezenove anos de idade que não exerça atividade remunerada poderá filiar-se ao Regime Geral de Previdência Social na condição de segurada facultativa.",
       "alternativas": [
-        "A) Certo",
-        "B) Errado"
+        "Certo",
+        "Errado"
       ],
       "respostaCorreta": 0,
-      "explicacao": "Gabarito: Certo. A Reforma da Previdência limitou o pagamento do auxílio-reclusão aos dependentes de segurados de baixa renda recolhidos estritamente em regime fechado."
-    }
+      "explicacao": "Certo. A idade mínima para inscrição como segurado facultativo no RGPS é de 16 anos. Como ela tem 19 anos e não exerce atividade remunerada que a vincule obrigatoriamente, cumpre todos os requisitos de filiação facultativa."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Previdenciário",
+      "enunciado": "O pescador artesanal que exerça suas atividades individualmente ou em regime de economia familiar, ainda que com o auxílio eventual de terceiros, é enquadrado no RGPS como segurado especial.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. O artigo 11, VII, da Lei nº 8.213/1991 define expressamente o pescador artesanal que trabalha individualmente ou em regime de economia familiar como segurado especial."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Previdenciário",
+      "enunciado": "De acordo com a legislação previdenciária vigente, a dependência econômica do cônjuge e do filho não emancipado, menor de vinte e um anos, é presumida, enquanto a dos pais deve ser comprovada.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. Conforme o artigo 16 da Lei nº 8.213/1991, o cônjuge e os filhos menores de 21 anos pertencem à primeira classe de dependentes, cuja dependência econômica é presumida. Os pais estão na segunda classe e necessitam de comprovação formal."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Previdenciário",
+      "enunciado": "A existência de dependentes da classe dos pais exclui do direito às prestações previdenciárias os dependentes da classe dos irmãos.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. No regime de classes dos dependentes do RGPS, a existência de dependentes de qualquer uma das classes superiores (os pais pertencem à 2ª classe) exclui definitivamente o direito dos dependentes das classes subsequentes (os irmãos pertencem à 3ª classe)."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Previdenciário",
+      "enunciado": "O auxílio por incapacidade temporária exige, em regra geral, o cumprimento de carência mínima de doze contribuições mensais.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. O artigo 25, I, da Lei nº 8.213/1991 estabelece que o período de carência para a concessão do auxílio por incapacidade temporária (antigo auxílio-doença) é de 12 contribuições mensais, ressalvadas as hipóteses legais de isenção."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Previdenciário",
+      "enunciado": "Caso o segurado empregado sofra um acidente de trabalho, os primeiros quinze dias de afastamento da atividade serão pagos diretamente pela empresa, e a cobertura do INSS terá início a partir do décimo sexto dia.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. De acordo com o artigo 60, § 3º, da Lei nº 8.213/1991, durante os primeiros quinze dias consecutivos ao do afastamento da atividade por motivo de doença ou incapacidade, incumbe à empresa pagar ao segurado empregado o seu salário integral."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Previdenciário",
+      "enunciado": "As pessoas jurídicas de direito privado em geral que realizam a contratação de trabalhadores autônomos não possuem obrigações de custeio junto à Seguridade Social, recaindo o ônus contributivo exclusivamente sobre os trabalhadores.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. As empresas possuem obrigações de custeio cruciais, devendo recolher a contribuição previdenciária patronal de 20% incidente sobre o valor pago aos contribuintes individuais (autônomos) prestadores de serviço."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Direito Previdenciário",
+      "enunciado": "A concessão do benefício de pensão por morte exige, de forma estrita e sem exceções, o cumprimento de uma carência de dezoito contribuições mensais pelo segurado instituidor.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. O benefício de pensão por morte independe de carência, conforme dispõe expressamente o artigo 26, I, da Lei nº 8.213/1991. O prazo de 18 contribuições impacta apenas a duração total do benefício para o cônjuge, mas não a concessão inicial."
+    },
+    {
+    "concurso": "INSS",
+    "materia": "Direito Previdenciário",
+    "enunciado": "O princípio da seletividade e distributividade na prestação dos benefícios e serviços orienta o legislador a delimitar quais contingências sociais serão amparadas e quais populações serão prioritariamente atendidas, tendo em vista a escassez de recursos públicos.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. A seletividade indica a escolha dos riscos sociais mais urgentes a serem cobertos, enquanto a distributividade busca reduzir as desigualdades sociais, direcionando os recursos para as parcelas da população que mais necessitam."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Direito Previdenciário",
+    "enunciado": "De acordo com o princípio da irredutibilidade do valor dos benefícios, o valor nominal das prestações da seguridade social não pode ser reduzido, contudo, o poder aquisitivo real desses benefícios não possui garantia de preservação contra a inflação no âmbito da assistência social.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. O princípio constitucional assegura a irredutibilidade do valor nominal para toda a Seguridade Social. Todavia, a garantia expressa de preservação do valor real (correção contra a inflação) aplica-se especificamente aos benefícios da Previdência Social, conforme o art. 201, § 4º da CF."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Direito Previdenciário",
+    "enunciado": "A gestão administrativa da seguridade social é organizada sob a forma de colegiado quadripartite, contando com a participação dos trabalhadores, dos empregadores, dos aposentados e do governo federal nos órgãos colegiados.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. O artigo 194, parágrafo único, VII da Constituição Federal define o caráter democrático e descentralizado da administração mediante gestão quadripartite, envolvendo os quatro segmentos mencionados."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Direito Previdenciário",
+    "enunciado": "O servidor público civil ocupante exclusivamente de cargo em comissão, declarado em lei de livre nomeação e exoneração, está amparado pelo Regime Próprio de Previdência Social (RPPS) do ente federativo que o nomeou.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. O ocupante de cargo exclusivamente em comissão, assim como o de outro cargo temporário ou de emprego público, é segurado obrigatório do Regime Geral de Previdência Social (RGPS), conforme o art. 40, § 13 da CF."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Direito Previdenciário",
+    "enunciado": "O síndico de condomínio que receba remuneração ou seja dispensado do pagamento da taxa condominial em virtude do exercício do cargo é considerado segurado obrigatório do RGPS, enquadrado na categoria de contribuinte individual.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Caso receba pro labore ou usufrua de isenção total ou parcial da taxa de condomínio, o síndico exerce atividade remunerada e enquadra-se como segurado obrigatório na condição de contribuinte individual."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Direito Previdenciário",
+    "enunciado": "Considera-se segurado especial o membro de grupo familiar que reside em perímetro urbano, desde que comprove que sua subsistência provém exclusivamente da exploração de atividade agropecuária em imóvel rural de até quatro módulos fiscais.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. A legislação previdenciária e a jurisprudência consolidada admitem que o segurado especial resida em aglomerado urbano próximo ao imóvel rural onde desenvolve a atividade, contanto que atenda aos limites de dimensão da terra e ao regime de economia familiar."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Direito Previdenciário",
+    "enunciado": "A perda da qualidade de segurado importa em extinção dos direitos decorrentes dessa condição, impossibilitando a concessão de aposentadoria por idade mesmo que o indivíduo já tenha preenchido todos os requisitos de idade e carência antes da interrupção das contribuições.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. A perda da qualidade de segurado não impede a concessão de aposentadoria se o segurado já houver preenchido todos os requisitos para a obtenção do benefício antes da perda, conforme o direito adquirido e o art. 102, § 1º da Lei nº 8.213/1991."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Direito Previdenciário",
+    "enunciado": "O período de graça consiste no intervalo de tempo em que o cidadão mantém a qualidade de segurado perante o INSS, conservando o direito aos benefícios previdenciários, mesmo sem efetuar recolhimentos mensais.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. O período de graça é uma proteção legal na qual o indivíduo mantém todos os seus direitos previdenciários resguardados por determinado tempo, independentemente de contribuições, conforme o art. 15 da Lei nº 8.213/1991."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Direito Previdenciário",
+    "enunciado": "O segurado obrigatório que deixar de exercer atividade remunerada abrangida pelo RGPS poderá prorrogar o seu período de graça por mais doze meses se comprovar o recebimento do seguro-desemprego ou o registro em órgão próprio do Ministério do Trabalho.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. O prazo regulamentar de 12 meses do período de graça pode ser acrescido de mais 12 meses caso o trabalhador comprove a situação de desemprego involuntário por meio de registros ou recebimento de amparo correspondente."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Direito Previdenciário",
+    "enunciado": "O dependente que cometer crime doloso de que resulte a morte do segurado perde o direito à pensão por morte, desde que haja o trânsito em julgado da sentença penal condenatória.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. O art. 74, § 1º da Lei nº 8.213/1991 exclui formalmente do direito à pensão por morte o dependente condenado criminalmente por homicídio doloso consumado ou tentado contra o segurado instituidor, após o trânsito em julgado."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Direito Previdenciário",
+    "enunciado": "A carência de um benefício previdenciário corresponde ao tempo mínimo de serviço efetivo exigido do trabalhador, independentemente do número de recolhimentos mensais realizados pelo contribuinte.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. De acordo com o artigo 24 da Lei nº 8.213/1991, o período de carência é definido expressamente como o número mínimo de contribuições mensais indispensáveis para que o segurado faça jus ao benefício, e não apenas o mero tempo de serviço."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Direito Previdenciário",
+    "enunciado": "O salário-maternidade é devido à segurada da Previdência Social, durante cento e vinte dias, com início no período entre vinte e oito dias antes do parto e a data de ocorrência deste, observadas as situações e exceções previstas em lei.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Conforme estabelece o artigo 71 da Lei nº 8.213/1991, o salário-maternidade tem a duração regulamentar de 120 dias e pode ser requerido e iniciado a partir de 28 dias antes do parto ou no dia do nascimento da criança."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Direito Previdenciário",
+    "enunciado": "A concessão do salário-maternidade para as seguradas empregada, empregada doméstica e trabalhadora avulsa independe do cumprimento de carência previdenciária.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Conforme o artigo 26, VI, da Lei nº 8.213/1991, o salário-maternidade é isento de carência para as categorias de segurada empregada, trabalhadora avulsa e empregada doméstica. A carência de 10 contribuições é exigida para as seguradas contribuinte individual, facultativa e especial."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Direito Previdenciário",
+    "enunciado": "O auxílio-acidente possui natureza eminentemente indenizatória e é pago ao segurado quando, após a consolidação das lesões decorrentes de acidente de qualquer natureza, resultarem sequelas que impliquem redução da capacidade para o trabalho que habitualmente exercia.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. O auxílio-acidente está previsto no artigo 86 da Lei nº 8.213/1991. Ele possui cunho indenizatório, não substitui o salário (pois o segurado pode continuar trabalhando) e é concedido em virtude de sequelas permanentes que reduzem a capacidade laboral habitual."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Direito Previdenciário",
+    "enunciado": "O segurado facultativo e o segurado empregado doméstico fazem jus ao recebimento do benefício de auxílio-acidente, desde que comprovem o nexo de causalidade e a redução da capacidade laboral.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. O segurado facultativo e o contribuinte individual não têm direito ao auxílio-acidente. Por outro lado, o segurado empregado doméstico passou a ter direito ao benefício após a edição da Lei Complementar nº 150/2015."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Direito Previdenciário",
+    "enunciado": "O auxílio-reclusão é devido, nas mesmas condições da pensão por morte, aos dependentes do segurado de qualquer renda que for recolhido à prisão em regime fechado.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. O auxílio-reclusão é um benefício destinado exclusivamente aos dependentes do segurado de baixa renda, conforme o artigo 201, IV, da Constituição Federal. O segurado com renda superior ao teto legal fixado não gera direito ao benefício para seus dependentes."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Direito Previdenciário",
+    "enunciado": "No âmbito do Regime Geral de Previdência Social, o valor mensal de nenhum benefício que substitua o salário de contribuição ou o rendimento do trabalho do segurado poderá ser inferior ao salário mínimo.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Este é um mandamento constitucional previsto no artigo 201, § 2º, da CF/88. Nenhum benefício que substitua o salário de contribuição ou o rendimento do trabalho poderá ter valor mensal inferior ao salário mínimo vigente."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Direito Previdenciário",
+    "enunciado": "O benefício de auxílio-acidente pode ser acumulado livremente com qualquer modalidade de aposentadoria paga pelo Regime Geral de Previdência Social.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. O artigo 86, § 2º, da Lei nº 8.213/1991 veda expressamente a acumulação do auxílio-acidente com qualquer aposentadoria. O recebimento do auxílio-acidente cessa obrigatoriamente na data do início de qualquer aposentadoria ou na data do óbito do segurado."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Direito Previdenciário",
+    "enunciado": "A reabilitação profissional é um serviço de caráter obrigatório da Previdência Social que visa reeducar e readaptar o segurado incapacitado parcial ou totalmente para o trabalho, de forma a reinseri-lo no mercado de trabalho.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. A reabilitação profissional é classificada legalmente como um serviço (e não um benefício em dinheiro) prestado pelo INSS, conforme o artigo 89 da Lei nº 8.213/1991, voltado à reintegração do segurado incapacitado."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Direito Previdenciário",
+    "enunciado": "A contribuição do segurado facultativo que optar pela exclusão do direito ao benefício de aposentadoria por tempo de contribuição poderá ser calculada mediante a aplicação da alíquota reduzida de cinco por cento sobre o limite mínimo mensal do salário de contribuição, desde que pertença a família de baixa renda e esteja inscrito no CadÚnico.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Conforme o artigo 21, § 2º, inciso II, alínea 'b' da Lei nº 8.212/1991, a alíquota de 5% é aplicada ao segurado facultativo sem renda própria que se dedique exclusivamente ao trabalho doméstico no âmbito de sua residência, desde que integrada a família de baixa renda inscrita no Cadastro Único (CadÚnico)."
+  }
+  ]
 ]

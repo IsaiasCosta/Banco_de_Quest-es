@@ -1,55 +1,513 @@
 [
   {
-      "concurso": "INSS",
-      "materia": "Informática",
-      "enunciado": "Julgue a assertiva: Para melhorar o desempenho de um computador lento com muitos aplicativos abertos, o usuário deve utilizar um aplicativo de antivírus instalado localmente, para eliminar os aplicativos que estiverem consumindo recursos além do normal.",
-      "alternativas": ["A) Certo", "B) Errado"],
-      "respostaCorreta": 1,
-      "explicacao": "Gabarito: Errado. Um antivírus atua identificando e mitigando ameaças (malwares, cavalos de troia). Para gerenciar recursos e forçar o encerramento de aplicações comuns que consomem muita memória, utiliza-se o Gerenciador de Tarefas do Windows."
-    },
+    "concurso": "INSS",
+    "materia": "Informática",
+    "enunciado": "Julgue a assertiva: Para melhorar o desempenho de um computador lento com muitos aplicativos abertos, o usuário deve utilizar um aplicativo de antivírus instalado localmente, para eliminar os aplicativos que estiverem consumindo recursos além do normal.",
+    "alternativas": [
+      "A) Certo",
+      "B) Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Gabarito: Errado. Um antivírus atua identificando e mitigando ameaças (malwares, cavalos de troia). Para gerenciar recursos e forçar o encerramento de aplicações comuns que consomem muita memória, utiliza-se o Gerenciador de Tarefas do Windows."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Informática",
+    "enunciado": "Julgue o item: Não haverá similaridade entre os sistemas de consulta disponibilizados na Internet e na Intranet, porque sistemas voltados para intranet, diferentemente dos voltados para Internet, não são compatíveis com o ambiente web.",
+    "alternativas": [
+      "A) Certo",
+      "B) Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Gabarito: Errado. A essência de uma Intranet é justamente utilizar a exata mesma base tecnológica da Internet (protocolos TCP/IP, padrões web como HTML, navegadores) de forma restrita (fechada para a organização). Logo, há total compatibilidade."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Informática",
+    "enunciado": "Situação: Elisa compartilhou um arquivo de texto para que todos do setor o editassem a partir de suas estações. Todos realizaram a edição por meio do LibreOffice Writer com a função Gravar alterações ativada. Assertiva: Quando da revisão final do texto, Elisa terá acesso a diversas informações, tais como: tipo de alteração, data e hora da alteração e autor da alteração.",
+    "alternativas": [
+      "A) Certo",
+      "B) Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Gabarito: Errado. O erro da assertiva reside na descrição do fluxo. O LibreOffice Writer (processador de texto tradicional desktop) não suporta coautoria simultânea do mesmo arquivo local na rede de forma que permita essa consolidação direta e em tempo real, diferentemente de ferramentas nativas na nuvem (como o Google Docs)."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Informática",
+    "enunciado": "Julgue o item: Para que fosse calculada a média dos cinco últimos rendimentos, inseriu-se os dados no LibreOffice Calc (células A1 até A5). Por meio da fórmula =MED(A1:A5:5), inserida na célula A6, poderá determinar-se corretamente a média desejada.",
+    "alternativas": [
+      "A) Certo",
+      "B) Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Gabarito: Errado. A fórmula =MED() não calcula a média, mas sim a MEDIANA de um conjunto de valores. Para média aritmética no software em português, utiliza-se a função =MÉDIA(). Além disso, a sintaxe (A1:A5:5) é incorreta."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Informática",
+    "enunciado": "Julgue o item: No explorador de arquivos do Windows 10, é possível fixar as pastas favoritas na funcionalidade acesso rápido, que lista, além das pastas fixadas, as usadas com frequência e também os arquivos usados recentemente.",
+    "alternativas": [
+      "A) Certo",
+      "B) Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Gabarito: Certo. A funcionalidade 'Acesso Rápido' (Quick Access) do Windows 10 tem exatamente essa premissa: agrupar itens fixados pelo usuário junto com pastas frequentes e arquivos recentes."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Informática",
+    "enunciado": "Qual atalho de teclado é utilizado no Windows 10 para abrir o Explorador de Arquivos (File Explorer)?",
+    "alternativas": [
+      "A) Windows + E",
+      "B) Windows + D",
+      "C) Windows + L",
+      "D) Ctrl + Shift + Esc"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A tecla Windows + E (de Explorer) abre imediatamente o Explorador de Arquivos."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "informatica",
+    "enunciado": "Todos os recursos presentes na Internet são localizados por meio de um endereço único conhecido como[cite: 1]",
+    "alternativas": [
+      "A) DNS.[cite: 1]",
+      "B) FTP.[cite: 1]",
+      "C) HTML.[cite: 1]",
+      "D) HTTP.[cite: 1]",
+      "E) URL.[cite: 1]"
+    ],
+    "respostaCorreta": 4,
+    "explicacao": "A resposta correta é a letra E, conforme estabelecido pelo gabarito oficial da prova.[cite: 2]"
+  },
+  [
     {
       "concurso": "INSS",
-      "materia": "Informática",
-      "enunciado": "Julgue o item: Não haverá similaridade entre os sistemas de consulta disponibilizados na Internet e na Intranet, porque sistemas voltados para intranet, diferentemente dos voltados para Internet, não são compatíveis com o ambiente web.",
-      "alternativas": ["A) Certo", "B) Errado"],
-      "respostaCorreta": 1,
-      "explicacao": "Gabarito: Errado. A essência de uma Intranet é justamente utilizar a exata mesma base tecnológica da Internet (protocolos TCP/IP, padrões web como HTML, navegadores) de forma restrita (fechada para a organização). Logo, há total compatibilidade."
-    },
-    {
-      "concurso": "INSS",
-      "materia": "Informática",
-      "enunciado": "Situação: Elisa compartilhou um arquivo de texto para que todos do setor o editassem a partir de suas estações. Todos realizaram a edição por meio do LibreOffice Writer com a função Gravar alterações ativada. Assertiva: Quando da revisão final do texto, Elisa terá acesso a diversas informações, tais como: tipo de alteração, data e hora da alteração e autor da alteração.",
-      "alternativas": ["A) Certo", "B) Errado"],
-      "respostaCorreta": 1,
-      "explicacao": "Gabarito: Errado. O erro da assertiva reside na descrição do fluxo. O LibreOffice Writer (processador de texto tradicional desktop) não suporta coautoria simultânea do mesmo arquivo local na rede de forma que permita essa consolidação direta e em tempo real, diferentemente de ferramentas nativas na nuvem (como o Google Docs)."
-    },
-    {
-      "concurso": "INSS",
-      "materia": "Informática",
-      "enunciado": "Julgue o item: Para que fosse calculada a média dos cinco últimos rendimentos, inseriu-se os dados no LibreOffice Calc (células A1 até A5). Por meio da fórmula =MED(A1:A5:5), inserida na célula A6, poderá determinar-se corretamente a média desejada.",
-      "alternativas": ["A) Certo", "B) Errado"],
-      "respostaCorreta": 1,
-      "explicacao": "Gabarito: Errado. A fórmula =MED() não calcula a média, mas sim a MEDIANA de um conjunto de valores. Para média aritmética no software em português, utiliza-se a função =MÉDIA(). Além disso, a sintaxe (A1:A5:5) é incorreta."
-    },
-    {
-      "concurso": "INSS",
-      "materia": "Informática",
-      "enunciado": "Julgue o item: No explorador de arquivos do Windows 10, é possível fixar as pastas favoritas na funcionalidade acesso rápido, que lista, além das pastas fixadas, as usadas com frequência e também os arquivos usados recentemente.",
-      "alternativas": ["A) Certo", "B) Errado"],
-      "respostaCorreta": 0,
-      "explicacao": "Gabarito: Certo. A funcionalidade 'Acesso Rápido' (Quick Access) do Windows 10 tem exatamente essa premissa: agrupar itens fixados pelo usuário junto com pastas frequentes e arquivos recentes."
-    },
-    {
-      "concurso": "INSS",
-      "materia": "Informática",
-      "enunciado": "Qual atalho de teclado é utilizado no Windows 10 para abrir o Explorador de Arquivos (File Explorer)?",
+      "materia": "informatica",
+      "enunciado": "Todos os recursos presentes na Internet são localizados por meio de um endereço único conhecido como[cite: 1]",
       "alternativas": [
-        "A) Windows + E",
-        "B) Windows + D",
-        "C) Windows + L",
-        "D) Ctrl + Shift + Esc"
+        "A) DNS.[cite: 1]",
+        "B) FTP.[cite: 1]",
+        "C) HTML.[cite: 1]",
+        "D) HTTP.[cite: 1]",
+        "E) URL.[cite: 1]"
+      ],
+      "respostaCorreta": 4,
+      "explicacao": "A resposta correta é a letra E, conforme estabelecido pelo gabarito oficial da prova.[cite: 2]"
+    },
+    {
+      "concurso": "INSS",
+      "materia": "informatica",
+      "enunciado": "Num aplicativo de navegação da Internet, como o Microsoft Internet Explorer ou o Mozilla Firefox, a listagem que registra todos os acessos realizados a páginas em um determinado intervalo de tempo é chamada de[cite: 1]",
+      "alternativas": [
+        "A) Cache.[cite: 1]",
+        "B) Extensões.[cite: 1]",
+        "C) Favoritos.[cite: 1]",
+        "D) Histórico.[cite: 1]",
+        "E) Navegação.[cite: 1]"
+      ],
+      "respostaCorreta": 3,
+      "explicacao": "A resposta correta é a letra D, conforme estabelecido pelo gabarito oficial da prova.[cite: 2]"
+    },
+    {
+      "concurso": "INSS",
+      "materia": "informatica",
+      "enunciado": "Google é uma empresa multinacional de serviços online e software dos Estados Unidos, que hospeda e desenvolve uma série de serviços e produtos baseados na Internet. Muito conhecido pela sua ferramenta de pesquisa na Web, o Google possui um navegador de Internet denominado[cite: 1]",
+      "alternativas": [
+        "A) Android.[cite: 1]",
+        "B) Browser.[cite: 1]",
+        "C) Chrome.[cite: 1]",
+        "D) Google+.[cite: 1]",
+        "E) Safari.[cite: 1]"
+      ],
+      "respostaCorreta": 2,
+      "explicacao": "A resposta correta é a letra C, conforme estabelecido pelo gabarito oficial da prova.[cite: 2]"
+    },
+    {
+      "concurso": "INSS",
+      "materia": "informatica",
+      "enunciado": "Analise as seguintes afirmações sobre os campos de destinatários de mensagens de um aplicativo de correio eletrônico: I. Para: é um campo obrigatório com um único endereço de e-mail do destinatário principal da mensagem. II. Cc: é um campo opcional com uma lista de endereços de e-mail de destinatários para quem a mensagem será enviada como uma cópia. III. Cco: é um campo opcional com uma lista de endereços de e-mail de destinatários que ficarão ocultos para os demais destinatários. Quantas dessas afirmações estão corretas?[cite: 1]",
+      "alternativas": [
+        "A) Nenhuma delas está correta.[cite: 1]",
+        "B) Somente as duas primeiras estão corretas.[cite: 1]",
+        "C) Somente a primeira e a terceira estão corretas.[cite: 1]",
+        "D) Somente as duas últimas estão corretas.[cite: 1]",
+        "E) Todas estão corretas.[cite: 1]"
+      ],
+      "respostaCorreta": 4,
+      "explicacao": "A resposta correta é a letra E, conforme estabelecido pelo gabarito oficial da prova.[cite: 2]"
+    },
+    {
+      "concurso": "INSS",
+      "materia": "informatica",
+      "enunciado": "Num aplicativo de edição de textos como o Microsoft Word ou o LibreOffice Writer, existem procedimentos utilizando o mouse para selecionar trechos do texto com que o qual se vai trabalhar para, por exemplo, aplicar certos efeitos a ele. Considerando o mouse com a configuração padrão, analise as afirmações abaixo sobre formas de selecionar trechos de um texto: I. Para selecionar um trecho qualquer, pode-se clicar com o botão esquerdo do mouse no início do trecho desejado e arrastar o mouse até o final do mesmo. II. Para selecionar apenas uma palavra, o usuário pode aplicar um clique duplo com o botão esquerdo do mouse na palavra desejada. III. Para selecionar apenas um parágrafo, o usuário pode aplicar um clique triplo com o botão esquerdo do mouse em qualquer palavra inserida no parágrafo desejado. Quantas dessas afirmações estão corretas?[cite: 1]",
+      "alternativas": [
+        "A) Nenhuma delas está correta.[cite: 1]",
+        "B) Somente as duas primeiras estão corretas.[cite: 1]",
+        "C) Somente a primeira e a terceira estão corretas.[cite: 1]",
+        "D) Somente as duas últimas estão corretas.[cite: 1]",
+        "E) Todas estão corretas.[cite: 1]"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "A resposta correta é a letra B, conforme estabelecido pelo gabarito oficial da prova.[cite: 2]"
+    },
+    {
+      "concurso": "INSS",
+      "materia": "informatica",
+      "enunciado": "Numa planilha eletrônica como o Microsoft Excel ou o LibreOffice Calc, suponha que a célula C3 armazene a fórmula =A1+B2. Ao selecionar a célula C3, recortar ou cortar (operação equivalente ao atalho Ctrl+X) e colar na célula D4 (operação equivalente ao atalho Ctrl+V), qual será a fórmula armazenada na célula D4?[cite: 1]",
+      "alternativas": [
+        "A) =A1+B2[cite: 1]",
+        "B) =A2+B3[cite: 1]",
+        "C) =A3+B4[cite: 1]",
+        "D) =B1+C2[cite: 1]",
+        "E) =B2+C3[cite: 1]"
       ],
       "respostaCorreta": 0,
-      "explicacao": "A tecla Windows + E (de Explorer) abre imediatamente o Explorador de Arquivos."
+      "explicacao": "A resposta correta é a letra A, conforme estabelecido pelo gabarito oficial da prova.[cite: 2]"
+    },
+    {
+      "concurso": "INSS",
+      "materia": "informatica",
+      "enunciado": "No painel de controle do Windows 7, é possível ajustar várias configurações do sistema, organizadas por categoria. Qual alternativa não é uma configuração da categoria Aparência e Personalização?[cite: 1]",
+      "alternativas": [
+        "A) Cor da janela.[cite: 1]",
+        "B) Economia de energia.[cite: 1]",
+        "C) Efeitos de som.[cite: 1]",
+        "D) Plano de fundo da área de trabalho.[cite: 1]",
+        "E) Proteção de tela.[cite: 1]"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "A resposta correta é a letra B, conforme estabelecido pelo gabarito oficial da prova.[cite: 2]"
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Informática",
+      "enunciado": "A computação em nuvem do tipo SaaS (Software as a Service) caracteriza-se pelo fornecimento de uma infraestrutura de hardware pura, como servidores virtuais e armazenamento bruto, cabendo ao usuário instalar o sistema operacional e as aplicações.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. O fornecimento de infraestrutura pura de hardware (servidores, redes, armazenamento) descreve o modelo IaaS (Infrastructure as a Service). O modelo SaaS entrega o software final pronto para uso pelo navegador ou aplicativo, sem que o usuário se preocupe com sistemas operacionais ou servidores."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Informática",
+      "enunciado": "O Phishing é uma técnica de engenharia social utilizada por cibercriminosos para induzir usuários a revelarem informações confidenciais, como senhas e dados bancários, por meio de mensagens fraudulentas que mimetizam comunicações de instituições legítimas.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. O Phishing baseia-se no envio de e-mails, SMS ou páginas falsas idênticas às reais (bancos, órgãos públicos como o INSS) com o intuito de enganar a vítima para que ela forneça voluntariamente suas credenciais e dados pessoais."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Informática",
+      "enunciado": "No Microsoft Excel, a utilização de referências absolutas, identificadas pelo caractere cifrão ($), serve para travar uma célula ou intervalo específico, impedindo que essas referências se alterem dinamicamente quando a fórmula for copiada ou arrastada para outras células.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. O cifrão ($) fixa a linha, a coluna ou ambas em uma fórmula (ex: $A$1). Isso garante que, ao usar a alça de preenchimento ou copiar a fórmula, o Excel continue apontando exatamente para a mesma célula fixada."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Informática",
+      "enunciado": "O Ransomware é um tipo de código malicioso que se propaga pelas redes de computadores infectando arquivos locais e aplicando criptografia sobre eles, exigindo posteriormente o pagamento de um resgate para o fornecimento da chave de decodificação.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. Essa é a definição clássica de Ransomware: um malware que sequestra os dados do usuário por meio de criptografia forte e cobra um resgate (geralmente em criptomoedas) para reestabelecer o acesso aos arquivos."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Informática",
+      "enunciado": "Diferentemente do protocolo HTTP, o protocolo HTTPS utiliza uma camada adicional de segurança baseada em criptografia (SSL/TLS), o que garante a confidencialidade e a integridade dos dados trafegados entre o navegador do usuário e o servidor web.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. O HTTPS é a versão segura do HTTP. Ele integra os protocolos SSL/TLS para criptografar a comunicação, impedindo que terceiros consigam interceptar e ler as informações digitadas em trânsito (como senhas e formulários)."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Informática",
+      "enunciado": "A rede privada virtual, comumente conhecida como VPN, permite que dados sejam transmitidos de forma segura através de uma infraestrutura de rede pública, como a Internet, por meio do estabelecimento de um túnel criptografado entre as pontas da comunicação.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. A VPN (Virtual Private Network) cria uma conexão segura e privada simulada dentro de uma rede pública. O processo de 'tunelamento' protege o tráfego de dados por criptografia, muito utilizada por servidores públicos em regime de teletrabalho."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Informática",
+      "enunciado": "Os Cookies são pequenos arquivos de texto enviados pelos sites e gravados no computador do usuário que servem unicamente para infectar o sistema operacional com vírus e cavalos de troia de inicialização imediata.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. Cookies não são vírus nem códigos maliciosos executáveis. Eles são arquivos de texto legítimos criados pelos sites para armazenar preferências de navegação, sessões de login e informações de rastreamento do usuário."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Informática",
+      "enunciado": "O Firewall é um dispositivo de segurança de rede que tem como função principal analisar o tráfego de dados que entra e sai de uma rede ou computador, bloqueando pacotes que violem as regras de segurança previamente estabelecidas.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. O Firewall atua como uma barreira de proteção ou filtro de pacotes. Ele monitora o tráfego com base em regras definidas para autorizar ou bloquear conexões, impedindo acessos externos não autorizados à rede interna."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Informática",
+      "enunciado": "No Windows 10 ou 11, o atalho de teclado composto pela combinação das teclas 'Logotipo do Windows + L' permite abrir instantaneamente a pasta local de Downloads do usuário.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. O atalho 'Windows + L' serve para bloquear o computador imediatamente ou alternar de conta de usuário (L vem de 'Lock'). Para abrir o Explorador de Arquivos, utiliza-se 'Windows + E'."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Informática",
+      "enunciado": "A assinatura digital garante a autenticidade e o não-repúdio de um documento eletrônico, o que significa que o emissor não pode negar a autoria do documento, além de assegurar que o arquivo não sofreu alterações após ser assinado.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. A assinatura digital oferece três pilares fundamentais da segurança da informação: Autenticidade (identifica o autor), Integridade (detecta modificações ilegítimas) e Não-repúdio (irretratabilidade da autoria)."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Informática",
+      "enunciado": "No Microsoft Word, a funcionalidade de Controle de Alterações, quando ativada, registra todas as edições, exclusões e inserções de texto feitas no documento, facilitando a revisão colaborativa entre múltiplos usuários.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. O 'Controle de Alterações' (localizado na guia Revisão) monitora de forma visual tudo o que é modificado no texto, permitindo que o autor original aceite ou rejeite cada uma das propostas de alteração feitas por terceiros."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Informática",
+      "enunciado": "O protocolo SMTP é utilizado no âmbito dos serviços de correio eletrônico tanto para o envio (saída) de mensagens da máquina do usuário para o servidor quanto para a sincronização integral de pastas locais com o servidor de destino.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. O SMTP (Simple Mail Transfer Protocol) é exclusivo para o envio/saída de e-mails (Sua Mensagem Tá Partindo). A sincronização de pastas e o gerenciamento de mensagens no servidor são atribuições do protocolo IMAP."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Informática",
+      "enunciado": "O backup incremental copia apenas os arquivos que foram criados ou modificados desde a realização do último backup de qualquer tipo (seja ele completo ou também incremental), tornando o processo de cópia mais rápido e exigindo menor espaço de armazenamento.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. Essa é a mecânica do backup incremental. Ele foca apenas no que mudou a partir do último ponto de backup registrado, otimizando o tempo e o armazenamento da rotina de segurança."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Informática",
+      "enunciado": "Um Spyware do tipo Keylogger tem como propósito capturar e armazenar os cliques do mouse efetuados pelo usuário em telas de teclados virtuais fornecidos por bancos e portais do governo.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. O Keylogger captura os caracteres digitados no teclado físico do computador (pressionamento de teclas). O malware especializado em capturar os cliques do mouse e as posições da tela (comum para burlar teclados virtuais) é o Screenlogger."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Informática",
+      "enunciado": "A computação em nuvem do tipo híbrida consiste em uma infraestrutura que combina elementos de nuvens privadas e nuvens públicas, permitindo que dados e aplicativos sejam compartilhados de forma segura entre elas de acordo com a demanda da organização.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. A nuvem híbrida une o melhor dos dois mundos. Uma agência governamental pode manter dados altamente confidenciais em uma nuvem privada e processar dados públicos ou de menor impacto em uma nuvem pública integrada."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Informática",
+      "enunciado": "No ambiente Linux, o comando 'pwd' (print working directory) é utilizado no terminal de linhas de comando para alterar as permissões de leitura e escrita de um determinado arquivo ou diretório do sistema.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "explicacao": "Errado. O comando 'pwd' exibe na tela o caminho completo do diretório atual de trabalho onde o usuário está posicionado. Para alterar permissões de arquivos e diretórios no Linux, utiliza-se o comando 'chmod'."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Informática",
+      "enunciado": "O protocolo FTP (File Transfer Protocol) opera na camada de aplicação do modelo TCP/IP e destina-se especificamente à transferência de arquivos entre computadores conectados à rede.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. O FTP é o protocolo padrão utilizado para fazer o upload (envio) e o download (recebimento) de arquivos em redes de computadores, situando-se no topo da pilha de protocolos (camada de aplicação)."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Informática",
+      "enunciado": "No Windows Defender, o recurso de proteção em tempo real analisa arquivos e programas continuamente em segundo plano, bloqueando ameaças antes que elas executem ações danosas no computador.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. A proteção em tempo real monitora ativamente as atividades do computador enquanto o usuário trabalha, identificando malwares de forma preventiva no instante em que são baixados ou abertos."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Informática",
+      "enunciado": "No navegador Google Chrome, ao navegar utilizando uma Janela Anônima, o provedor de internet e os sites visitados deixam de ter acesso ao endereço IP real do usuário, ocultando sua localização física por completo.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. A navegação anônima impede apenas que o histórico, os cookies e os dados de formulários sejam gravados localmente no seu próprio computador. Ela não oculta o IP e não torna o usuário invisível para o provedor de internet, empregadores ou para os próprios sites visitados (isso seria função de redes como o Tor ou de VPNs)."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Informática",
+      "enunciado": "Intranet é uma rede de computadores corporativa, privada e restrita aos colaboradores de uma determinada organização, que utiliza os mesmos protocolos e tecnologias da Internet pública, como o conjunto TCP/IP.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. A Intranet funciona exatamente como a Internet (usa os mesmos navegadores, servidores e protocolos), mas o seu acesso é fechado exclusivamente para o público interno autorizado de uma empresa ou órgão público."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Informática",
+      "enunciado": "Ao utilizar o mecanismo de busca do Google, o emprego do operador composto por aspas duplas, como em 'concurso INSS', força o buscador a retornar apenas páginas que contenham a correspondência exata dos termos na mesma ordem digitada.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. O operador de aspas duplas realiza a chamada busca por frase exata. O Google eliminará resultados que tragam os termos separados ou fora da ordem estipulada pelo usuário."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Informática",
+      "enunciado": "No LibreOffice Calc, se uma célula contiver o valor 10 e outra contiver o valor 20, a inserção da fórmula =SOMA(A1;B1) resultará no valor 30, enquanto o uso do caractere de dois-pontos (:) em =SOMA(A1:B1) indicaria um intervalo de células.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. Nas planilhas eletrônicas, o ponto e vírgula (;) serve como separador de argumentos individuais (equivale a 'e'), ao passo que os dois-pontos (:) delimitam um intervalo contínuo (equivale a 'até')."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Informática",
+      "enunciado": "O Adware é um tipo específico de malware cujo objetivo central é interceptar comunicações de rede criptografadas em redes Wi-Fi públicas para roubar pacotes de dados não autorizados.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. O Adware é projetado para exibir anúncios publicitários indesejados e invasivos de forma automática no computador ou navegador do usuário. A interceptação e análise de tráfego em redes é denominada Sniffing."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Informática",
+      "enunciado": "No Microsoft Outlook, ao preencher o campo Cco (Cópia Carbono Oculta) com o e-mail de um destinatário, este receberá uma cópia da mensagem sem que os demais destinatários dos campos 'Para' e 'Cc' saibam da existência desse recebimento.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. O campo Cco (ou Bcc em inglês) oculta a identidade dos destinatários inseridos nele. Quem está no campo principal não consegue visualizar que uma cópia oculta foi encaminhada para as pessoas listadas em Cco."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Informática",
+      "enunciado": "Um endereço IPv4 válido é composto por um conjunto de 64 bits divididos em quatro octetos expressos em numeração hexadecimal, como em FE80::1.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. O endereço IPv4 é composto por 32 bits divididos em 4 blocos de números decimais separados por pontos (variando de 0 a 255, ex: 192.168.0.1). O padrão que utiliza blocos hexadecimais de 128 bits é o IPv6."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Informática",
+      "enunciado": "Em segurança da informação, a criptografia assimétrica utiliza um par de chaves matematicamente correlacionadas: uma chave pública, que serve para codificar o dado e pode ser distribuída abertamente, e uma chave privada, mantida em sigilo absoluto pelo dono para realizar a decodificação.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. Essa é a base da criptografia assimétrica (ou de chave pública). O remetente encripta a mensagem usando a chave pública do destinatário, e somente o destinatário consegue abrir o arquivo usando sua correspondente chave privada exclusiva."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Informática",
+      "enunciado": "Os conceitos de Internet das Coisas (IoT) referem-se à interconexão digital de objetos cotidianos — como eletrodomésticos, lâmpadas e sensores — à internet, viabilizando a coleta e troca automatizada de dados em tempo real.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. A Internet das Coisas (IoT) expande a conectividade à internet além de computadores e smartphones, inserindo capacidade de comunicação e automação em dispositivos físicos do dia a dia."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Informática",
+      "enunciado": "No Microsoft Windows, o sistema de arquivos NTFS, amplamente adotado nas instalações padrões, suporta criptografia de arquivos nativa por meio do EFS (Encrypting File System) e permite a definição de permissões de acesso detalhadas por usuário.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "Certo. O NTFS é o sistema de arquivos moderno e padrão do Windows. Ele se destaca justamente por trazer recursos avançados de segurança de dados, permissões detalhadas em discos e ferramentas internas de criptografia ausentes em padrões antigos como o FAT32."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Informática",
+      "enunciado": "O protocolo DHCP é o encarregado de traduzir nomes de domínios textuais em endereços IP legíveis pelas máquinas, evitando que os usuários tenham de decorar sequências numéricas para acessar portais da web.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. O protocolo responsável por traduzir nomes de domínios (ex: www.inss.gov.br) para endereços IP numéricos é o DNS (Domain Name System). O DHCP serve para atribuir de forma automática e temporária endereços IP e configurações de rede para as máquinas que se conectam a ela."
+    },
+    {
+      "concurso": "INSS",
+      "materia": "Informática",
+      "enunciado": "A Engenharia Social visa explorar falhas técnicas de segurança nos códigos de sistemas operacionais e roteadores para invadir servidores governamentais, ignorando o fator de comportamento humano dos operadores.",
+      "alternativas": [
+        "Certo",
+        "Errado"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "Errado. A Engenharia Social faz exatamente o oposto: ela foca na exploração das fraquezas e comportamentos do ser humano (confiança, ganância, distração) por meio de persuasão ou mentiras para obter dados e acessos, em vez de atacar as barreiras puramente tecnológicas."
     }
+  ]
 ]

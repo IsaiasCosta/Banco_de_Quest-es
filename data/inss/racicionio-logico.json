@@ -1,55 +1,840 @@
 [
-    {
-      "concurso": "INSS",
-      "materia": "Probabilidade",
-      "enunciado": "Situação: O grupo B tem 600 pessoas. A quantidade de fumantes é 20% do total. A quantidade de ex-fumantes é 30% da quantidade de fumantes. Assertiva: Escolhendo-se aleatoriamente um indivíduo, a probabilidade de ele não pertencer ao conjunto de fumantes nem ao de ex-fumantes será inferior a 70%.",
-      "alternativas": ["A) Certo", "B) Errado"],
-      "respostaCorreta": 1,
-      "explicacao": "Gabarito: Errado. Fumantes = 20% de 600 = 120. Ex-fumantes = 30% de 120 = 36. Não fumantes = 600 - (120 + 36) = 444. A probabilidade de escolher um não fumante é 444/600 = 0,74 (74%). Como 74% NÃO é inferior a 70%, o item está incorreto."
-    },
-    {
-      "concurso": "INSS",
-      "materia": "Probabilidade",
-      "enunciado": "Numa população de 1.000 idosos, 400 já sofreram infarto (Grupo A). Cada pessoa do Grupo A é diabética, fumante ou ambos. Se do Grupo A, 280 são fumantes e 195 são diabéticas, julgue o item: 120 pessoas desse grupo são diabéticas e não são fumantes.",
-      "alternativas": ["A) Certo", "B) Errado"],
-      "respostaCorreta": 0,
-      "explicacao": "Gabarito: Certo. O total é 400. Somando Fumantes (280) + Diabéticos (195) = 475. A diferença (475 - 400 = 75) é a intersecção (diabéticos E fumantes). Para saber quem é APENAS diabético (não fuma): 195 - 75 = 120."
-    },
-    {
-      "concurso": "INSS",
-      "materia": "Raciocínio Lógico",
-      "enunciado": "Julgue o item: Considerando-se as proposições simples 'Cláudio pratica esportes' e 'Cláudio tem uma alimentação balanceada', é correto afirmar que a proposição 'Cláudio pratica esportes ou ele não pratica esportes e não tem uma alimentação balanceada' é uma tautologia.",
-      "alternativas": ["A) Certo", "B) Errado"],
-      "respostaCorreta": 1,
-      "explicacao": "Gabarito: Errado. Denominando as proposições como P e Q, a sentença lógica é representada como: P v (~P ^ ~Q). Para que fosse Tautologia, o resultado teria que ser Verdadeiro independentemente dos valores. Se Cláudio não pratica esporte (F) mas tem uma alimentação balanceada (V), o resultado desta equação lógica será Falso."
-    },
-    {
-      "concurso": "INSS",
-      "materia": "Raciocínio Lógico",
-      "enunciado": "Julgue o item: Na lógica proposicional, a oração 'Antônio fuma 10 cigarros por dia, logo a probabilidade de ele sofrer um infarto é três vezes maior que a de Pedro, que é não fumante' representa uma proposição composta.",
-      "alternativas": ["A) Certo", "B) Errado"],
-      "respostaCorreta": 1,
-      "explicacao": "Gabarito: Errado. Esta sentença apresenta uma relação causal descritiva (probabilidade estatística explicada), não contendo proposições fechadas que possam ser puramente valoradas como Verdadeiras ou Falsas separadas por conectivos lógicos rígidos para compor uma proposição composta matemática clássica."
-    },
-    {
-      "concurso": "INSS",
-      "materia": "Raciocínio Lógico",
-      "enunciado": "Supondo-se que p seja a proposição simples 'João é fumante', que q seja a proposição simples 'João não é saudável' e que p -> q, então o valor lógico da proposição 'João não é fumante, logo ele é saudável' será verdadeiro.",
-      "alternativas": ["A) Certo", "B) Errado"],
-      "respostaCorreta": 1,
-      "explicacao": "Gabarito: Errado. O item descreve uma falácia clássica conhecida como 'Negação do Antecedente'. O fato de todo fumante não ser saudável (p -> q) não assegura logicamente que todo não fumante será perfeitamente saudável (~p -> ~q), pois existem diversos outros motivos para alguém não ser saudável."
-    },
-    {
-      "concurso": "INSS",
-      "materia": "Raciocínio Lógico",
-      "enunciado": "A negação lógica da proposição 'Se o candidato estuda, então ele passa no INSS' é:",
-      "alternativas": [
-        "A) Se o candidato não estuda, então ele não passa no INSS.",
-        "B) O candidato não estuda e não passa no INSS.",
-        "C) O candidato estuda e não passa no INSS.",
-        "D) O candidato não estuda ou passa no INSS."
-      ],
-      "respostaCorreta": 2,
-      "explicacao": "A negação de uma condicional (P -> Q) é obtida mantendo a primeira parte E negando a segunda (P e ~Q). Regra do 'MANÉ' (Mantém e Nega)."
-    }
+  {
+    "concurso": "INSS",
+    "materia": "Probabilidade",
+    "enunciado": "Situação: O grupo B tem 600 pessoas. A quantidade de fumantes é 20% do total. A quantidade de ex-fumantes é 30% da quantidade de fumantes. Assertiva: Escolhendo-se aleatoriamente um indivíduo, a probabilidade de ele não pertencer ao conjunto de fumantes nem ao de ex-fumantes será inferior a 70%.",
+    "alternativas": [
+      "A) Certo",
+      "B) Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Gabarito: Errado. Fumantes = 20% de 600 = 120. Ex-fumantes = 30% de 120 = 36. Não fumantes = 600 - (120 + 36) = 444. A probabilidade de escolher um não fumante é 444/600 = 0,74 (74%). Como 74% NÃO é inferior a 70%, o item está incorreto."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Probabilidade",
+    "enunciado": "Numa população de 1.000 idosos, 400 já sofreram infarto (Grupo A). Cada pessoa do Grupo A é diabética, fumante ou ambos. Se do Grupo A, 280 são fumantes e 195 são diabéticas, julgue o item: 120 pessoas desse grupo são diabéticas e não são fumantes.",
+    "alternativas": [
+      "A) Certo",
+      "B) Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Gabarito: Certo. O total é 400. Somando Fumantes (280) + Diabéticos (195) = 475. A diferença (475 - 400 = 75) é a intersecção (diabéticos E fumantes). Para saber quem é APENAS diabético (não fuma): 195 - 75 = 120."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "Julgue o item: Considerando-se as proposições simples 'Cláudio pratica esportes' e 'Cláudio tem uma alimentação balanceada', é correto afirmar que a proposição 'Cláudio pratica esportes ou ele não pratica esportes e não tem uma alimentação balanceada' é uma tautologia.",
+    "alternativas": [
+      "A) Certo",
+      "B) Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Gabarito: Errado. Denominando as proposições como P e Q, a sentença lógica é representada como: P v (~P ^ ~Q). Para que fosse Tautologia, o resultado teria que ser Verdadeiro independentemente dos valores. Se Cláudio não pratica esporte (F) mas tem uma alimentação balanceada (V), o resultado desta equação lógica será Falso."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "Julgue o item: Na lógica proposicional, a oração 'Antônio fuma 10 cigarros por dia, logo a probabilidade de ele sofrer um infarto é três vezes maior que a de Pedro, que é não fumante' representa uma proposição composta.",
+    "alternativas": [
+      "A) Certo",
+      "B) Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Gabarito: Errado. Esta sentença apresenta uma relação causal descritiva (probabilidade estatística explicada), não contendo proposições fechadas que possam ser puramente valoradas como Verdadeiras ou Falsas separadas por conectivos lógicos rígidos para compor uma proposição composta matemática clássica."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "Supondo-se que p seja a proposição simples 'João é fumante', que q seja a proposição simples 'João não é saudável' e que p -> q, então o valor lógico da proposição 'João não é fumante, logo ele é saudável' será verdadeiro.",
+    "alternativas": [
+      "A) Certo",
+      "B) Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Gabarito: Errado. O item descreve uma falácia clássica conhecida como 'Negação do Antecedente'. O fato de todo fumante não ser saudável (p -> q) não assegura logicamente que todo não fumante será perfeitamente saudável (~p -> ~q), pois existem diversos outros motivos para alguém não ser saudável."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "A negação lógica da proposição 'Se o candidato estuda, então ele passa no INSS' é:",
+    "alternativas": [
+      "A) Se o candidato não estuda, então ele não passa no INSS.",
+      "B) O candidato não estuda e não passa no INSS.",
+      "C) O candidato estuda e não passa no INSS.",
+      "D) O candidato não estuda ou passa no INSS."
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A negação de uma condicional (P -> Q) é obtida mantendo a primeira parte E negando a segunda (P e ~Q). Regra do 'MANÉ' (Mantém e Nega)."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "A frase 'O INSS é uma autarquia federal responsável pelo pagamento de aposentadorias' constitui uma proposição lógica simples.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. A frase apresenta um pensamento completo, com sujeito e predicado definidos, podendo ser julgada como verdadeira ou falsa, e possui apenas uma única oração (um só verbo principal), classificando-se como proposição simples."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "A sentença 'Que o edital do concurso seja publicado o quanto antes!' é um exemplo clássico de proposição lógica exclamativa.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. Frases exclamativas, interrogativas, imperativas (ordens) e optativas (desejos) não possuem valor de verdade definitivo e, portanto, não são consideradas proposições lógicas pela lógica sentencial."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "A expressão 'x + 5 = 12' é classificada como uma sentença aberta e não pode ser considerada uma proposição lógica puramente definida enquanto o valor da variável 'x' for desconhecido.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Sentenças que contêm variáveis indeterminadas (como x, y, ele, ela) são chamadas de sentenças abertas, pois seu valor lógico (V ou F) depende da atribuição de um valor à variável."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "Uma proposição composta cujo conectivo principal é a conjunção (representada pelo termo 'e') será considerada verdadeira se, e somente se, todas as suas proposições componentes forem simultaneamente verdadeiras.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. A conjunção (P ∧ Q) é extremamente exigente. A tabela-verdade do conectivo 'e' determina que a estrutura só resulta em valor lógico Verdadeiro se ambas as partes que a integram forem verdadeiras."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "Se a proposição P for verdadeira e a proposição Q for falsa, então a condicional 'Se P, então Q' (P → Q) terá valor lógico verdadeiro.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. Na tabela-verdade da condicional (Se... então), a única combinação que resulta em um valor falso é quando a primeira proposição (antecedente) é Verdadeira e a segunda (consequente) é Falsa, conhecido historicamente como a regra da 'Vera Fischer'."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "A negação lógica da proposição composta 'O candidato estuda ou ele trabalha' é corretamente expressa por 'O candidato não estuda e ele não trabalha'.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Aplica-se a Primeira Lei de Morgan para negar uma disjunção (ou). Nega-se a primeira parte, nega-se a segunda parte e troca-se o conectivo 'ou' pelo conectivo 'e'."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "A negação da proposição 'Se o segurado preencher os requisitos, então ele receberá o benefício' é logicamente equivalente a 'Se o segurado não preencher os requisitos, então ele não receberá o benefício'.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. Para negar uma proposição condicional (Se P, então Q), utiliza-se a regra do 'Mané' (Mantém a primeira E Nega a segunda). A negação correta seria: 'O segurado preenche os requisitos E não recebe o benefício'."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "A proposição condicional 'Se chover amanhã, a agência do INSS ficará vazia' é logicamente equivalente à sua contrapositiva: 'Se a agência do INSS não ficar vazia, então não choveu amanhã'.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. A contrapositiva é uma das principais equivalências da condicional (P → Q ≡ ~Q → ~P). Para obtê-la, basta inverter a ordem das duas proposições e negar ambas simultaneamente."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "Uma tabela-verdade correspondente a uma proposição composta que possua exatamente 4 proposições simples distintas terá um total de 16 linhas de combinações lógicas.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. O número de linhas de uma tabela-verdade é calculado pela fórmula matemática 2^n, onde 'n' representa a quantidade de proposições simples distintas. No caso, 2^4 = 2 * 2 * 2 * 2 = 16 linhas."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "Chama-se contradição a proposição composta cujo valor lógico final na tabela-verdade é sempre verdadeiro, independentemente dos valores lógicos das proposições simples que a compõem.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. A proposição composta cujo valor é sempre verdadeiro chama-se Tautologia. Contradição é aquela cujo resultado é integralmente falso em todas as linhas da tabela-verdade."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "A negação lógica da proposição 'Todos os técnicos do INSS usam crachá' é expressa corretamente por 'Nenhum técnico do INSS usa crachá'.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. Para negar o quantificador universal 'Todos', basta encontrar pelo menos uma exceção (quantificador existencial + negação). A negação correta seria: 'Pelo menos um técnico do INSS não usa crachá' ou 'Existe técnico do INSS que não usa crachá'."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "A negação da proposição 'Algum processo está atrasado' é logicamente construída por meio da sentença 'Nenhum processo está atrasado'.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Para negar um quantificador existencial ('Algum', 'Existe um', 'Pelo menos um'), utiliza-se o quantificador universal negativo correspondente, que é o 'Nenhum'."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "Considere as seguintes premissas: 'Se o foco aumenta, a produtividade cresce' e 'O foco aumentou'. Logo, a conclusão lógica e válida deduzida a partir dessas premissas é 'A produtividade cresceu'.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Este argumento constitui uma estrutura clássica de inferência válida denominada Modus Ponens, onde a afirmação do antecedente acarreta obrigatoriamente na afirmação do consequente."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "Seja o argumento: 'Se o sistema falha, o atendimento é interrompido' e 'O atendimento não foi interrompido'. A conclusão logicamente válida para este argumento é 'O sistema falhou'.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. A estrutura correta seria o Modus Tollens, no qual a negação do consequente leva à negação obrigatória do antecedente. Portanto, a conclusão correta e válida deveria ser: 'O sistema NÃO falhou'."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "A proposição composto pelo conectivo de disjunção exclusiva (representado pelas palavras 'Ou... ou') assume valor lógico verdadeiro se as duas proposições lógicas que a integram tiverem valores de verdade opostos.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. A disjunção exclusiva (Ou P ou Q) exige mutualidade excludente para ser verdadeira. Se uma parte for Verdadeira e a outra Falsa, o resultado é Verdadeiro. Se ambas forem iguais (V e V, ou F e F), o resultado é Falso."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "Em um grupo composto por 100 servidores do INSS, sabe-se que 60 gostam de Direito Previdenciário, 50 gostam de Direito Administrativo e 20 gostam de ambas as matérias. Nesse cenário, o número total de servidores que não gostam de nenhuma das duas matérias é igual a 10.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Utilizando diagramas de conjuntos, colocamos 20 na interseção. Quem gosta apenas de Previdenciário: 60 - 20 = 40. Quem gosta apenas de Administrativo: 50 - 20 = 30. Somando os que gostam de algo: 40 + 20 + 30 = 90. Logo, 100 - 90 = 10 servidores não gostam de nenhuma."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "A equivalência lógica da condicional 'Se estudo, passo' pode ser perfeitamente obtida por meio de uma disjunção inclusiva sob a estrutura 'Não estudo ou passo'.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Esta é a famosa regra da equivalência 'Neymar' (Nega a primeira OU Mantém a segunda). A condicional (P → Q) é perfeitamente equivalente à disjunção (~P ∨ Q)."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "A negação da proposição 'O servidor é assíduo e o chefe elogia' é 'O servidor não é assíduo e o chefe não elogia'.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. Pela Segunda Lei de Morgan, a negação de uma conjunção (e) requer negar ambas as proposições simples e substituir o conectivo 'e' pelo conectivo 'ou' (~(P ∧ Q) ≡ ~P ∨ ~Q). A frase correta é: 'O servidor não é assíduo OU o chefe não elogia'."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "A sentença 'Onde estão guardados os formulários de requerimento de pensão por morte?' constitui uma proposição simples com valor lógico indefinido.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. Sentenças interrogativas diretas (perguntas) não expressam juízo de valor passível de classificação binária (Verdadeiro ou Falso), não se enquadrando em nenhuma categoria de proposição lógica."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "O conectivo condicional 'Se P, então Q' indica que a ocorrência da proposição P é uma condição necessária para que a proposição Q ocorra.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. Na estrutura 'Se P, então Q', o antecedente P é uma condição suficiente para Q, enquanto o consequente Q é classificado logicamente como a condição necessária para P."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "Considere que a proposição 'Se o sistema está operando, os servidores conseguem trabalhar' seja VERDADEIRA. Diante disso, se for constatado que os servidores NÃO estão conseguindo trabalhar, infere-se dedutivamente que o sistema NÃO está operando.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Trata-se da aplicação válida da lei da contrapositiva (Modus Tollens). Como a negação do consequente é verdadeira, o antecedente deve necessariamente ser falso para manter a validade da relação original."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "A ordem de precedência padrão dos conectivos lógicos estabelece que a negação (~) deve ser avaliada por último em uma expressão lógica complexa que contenha conjunções e condicionais.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. A negação lógica (~) possui a maior precedência de operação na lógica proposicional, devendo ser avaliada antes de conjunções, disjunções, condicionais e bicondicionais, a menos que haja parênteses ditando outra prioridade."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "As proposições lógicas compostas P → Q e ~P ∨ Q apresentam exatamente as mesmas tabelas-verdade finais, o que as caracteriza como equivalentes lógicas entre si.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Ambas as estruturas resultam na sequência de valores lógicos (V, F, V, V) quando montadas sob as mesmas entradas de P e Q, confirmando a regra de transformação de condicional em disjunção."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "A bicondicional 'P se e somente se Q' (P ↔ Q) assume valor de verdade falso se ambas as proposições lógicas P e Q possuírem o mesmo valor lógico simultaneamente.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. A estrutura bicondicional opera como uma relação de equivalência direta: ela resulta em Verdadeiro se ambos os componentes forem iguais (ambos Verdadeiros ou ambos Falsos) e resulta em Falso se forem diferentes."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "A negação da proposição conceitual 'Nenhum funcionário público pode aceitar suborno' é expressa por 'Todos os funcionários públicos podem aceitar suborno'.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. O antônimo lógico de 'Nenhum' (universal negativo) não é 'Todos' (universal positivo). A quebra da negação do 'Nenhum' exige apenas a existência de um elemento. O correto seria: 'Pelo menos um funcionário público pode aceitar suborno'."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "Considere que a afirmação 'Algum processo de aposentadoria foi extraviado' seja classificada como FALSA. Nesse caso, a afirmação 'Nenhum processo de aposentadoria foi extraviado' será obrigatoriamente VERDADEIRA.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Como a afirmação existencial de que existe algum processo extraviado é falsa, significa que a realidade aponta para a ausência completa de casos, validando a sentença universal negativa de que nenhum foi extraviado."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "A negação da frase 'Se corro, fico cansado' é equivalente a 'Corro e não fico cansado'.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. A regra de negação da condicional exige a manutenção da primeira parte (antecedente: 'Corro') conectada pelo operador 'e' à negação da segunda parte (consequente: 'não fico cansado')."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "Dadas as proposições simples: A: 'O concurso é difícil' e B: 'O salário é bom'. A tradução para a linguagem simbólica da sentença 'O concurso não é difícil ou o salário não é bom' corresponde a ~A ∧ ~B.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. O conectivo explícito no enunciado é a disjunção 'ou', cujo símbolo correspondente é a fresta para cima (∨). A tradução correta para a linguagem da lógica proposicional é ~A ∨ ~B."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "A proposição composta representada matematicamente por (P ∧ ~P) constitui um exemplo típico de contradição na lógica sentencial.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Uma proposição não pode assumir um valor e a sua própria negação ao mesmo tempo sob o princípio da não-contradição. Portanto, o resultado dessa conjunção será invariavelmente Falso, caracterizando uma contradição."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "Em diagramas lógicos, se a premissa maior afirma que 'Todos os advogados conhecem as leis' e a premissa menor dita que 'Carlos conhece as leis', conclui-se de forma válida e necessária que Carlos é advogado.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. Trata-se da falácia da afirmação do consequente. O conjunto dos advogados está contido no conjunto das pessoas que conhecem as leis, mas Carlos pode estar situado na região das pessoas que conhecem as leis sem fazer parte do círculo menor dos advogados."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "A frase 'Se João é perito do INSS, então ele possui registro no conselho de classe correspondente' pode ser equivalentemente reescrita como 'João não é perito do INSS ou possui registro no conselho de classe correspondente'.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Aplicação correta da equivalência lógica de condicional para disjunção inclusiva (~P ∨ Q), conhecida pelo mnemônico 'Neymar' (Nega a primeira, coloca o OU, e Mantém a segunda)."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "Se a proposição simples P possui valor lógico Falso, então qualquer proposição composta construída na forma 'P ∧ Q' terá valor lógico final Falso, independentemente do valor assumido por Q.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Como a conjunção exige a cumulatividade de verdades para se estabelecer como verdadeira, a presença de uma única premissa componente Falsa anula o conectivo imediatamente, forçando o resultado a ser Falso."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "A condicional 'P → Q' apresenta equivalência lógica direta com a proposição invertida 'Q → P'.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. Inverter os termos sem realizar as devidas negações (~Q → ~P) gera a chamada falácia da conversão. As tabelas-verdade de P → Q e Q → P divergem, mostrando que elas não são equivalentes."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "A frase 'Não é verdade que nenhum benefício foi revisado' possui o mesmo significado lógico e factual da asserção 'Pelo menos um benefício foi revisado'.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Dizer 'não é verdade que' equivale a aplicar um operador de negação sobre a frase seguinte. A negação do quantificador universal negativo 'Nenhum' resulta na afirmação existencial 'Pelo menos um'."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "Uma contingência é classificada na lógica proposicional como uma estrutura cujo resultado final de sua tabela-verdade exibe uma alternância de valores lógicos Verdadeiros e Falsos a depender das combinações das premissas de entrada.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Se o resultado não for totalmente verdadeiro (Tautologia) e nem totalmente falso (Contradição), a tabela-verdade constitui uma Contingência."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "A negação da proposição 'Se o servidor é eficiente, então o cidadão é bem atendido e o processo é concluído' é logicamente descrita por 'O servidor é eficiente e, o cidadão não é bem atendido ou o processo não é concluído'.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Para negar uma condicional (P → Q), mantém-se o antecedente (P) e nega-se o consequente (Q). Como o consequente é uma conjunção (A ∧ B), sua negação segue a Lei de Morgan, transformando-se em uma disjunção de negações (~A ∨ ~B)."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "A proposição composto 'Não é verdade que, se Carlos é segurado especial, então ele é pescador artesanal' possui o mesmo valor lógico que 'Carlos é segurado especial e não é pescador artesanal'.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. A expressão 'Não é verdade que...' indica a negação de uma condicional. A regra de negação de P → Q resulta exatamente na conjunção P ∧ ~Q."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "Se a proposição simples 'O processo foi auditado' for considerada Falsa, a proposição composta 'O processo foi auditado se e somente se o sistema gerou o relatório correspondente' poderá ser Verdadeira ou Falsa, a depender do valor lógico da segunda sentença.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Na bicondicional (↔), o resultado é Verdadeiro se ambos os lados possuírem o mesmo valor. Se o primeiro lado é Falso, a estrutura será Verdadeira se o segundo lado também for Falso, e será Falsa se o segundo lado for Verdadeiro."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "A estrutura lógica conhecida como Princípio da Não-Contradição estabelece que uma proposição não pode ser simultaneamente verdadeira e falsa sob as mesmas circunstâncias contextuais.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Este é um dos três princípios fundamentais da lógica clássica aristotélica, impedindo que uma afirmação conceitual e sua negação direta coexistam como válidas ao mesmo tempo."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "O número total de senhas distintas de 4 dígitos numéricos que podem ser criadas utilizando-se apenas os algarismos 1, 2, 3, 4 e 5, sem que haja repetição de algarismos na mesma senha, é igual a 120.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Trata-se de um problema de arranjo simples (ou aplicação do Princípio Fundamental da Contagem). Temos 5 opções para o primeiro dígito, 4 para o segundo, 3 para o terceiro e 2 para o quarto. Multiplicando: 5 * 4 * 3 * 2 = 120 senhas."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "Para selecionar uma comissão de fiscalização interna composta por exatamente 3 técnicos do INSS, dispondo-se de um grupo total de 6 técnicos elegíveis, a Administração poderá realizar essa escolha de 20 maneiras distintas.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Como a ordem dos membros na comissão não importa, aplica-se a fórmula de Combinação Simples: C(6,3) = (6 * 5 * 4) / (3 * 2 * 1) = 120 / 6 = 20 formas diferentes."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "Considere que, em uma agência do INSS, a probabilidade de um sistema apresentar lentidão em um dia chuvoso é de 70%. Se a previsão indica que a probabilidade de chover amanhã é de 40%, então a probabilidade de amanhã ser um dia chuvoso e o sistema apresentar lentidão é de 28%.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Aplica-se o conceito de probabilidade condicional para eventos dependentes através da regra da multiplicação: P(Chuva ∧ Lentidão) = P(Chuva) * P(Lentidão|Chuva) = 0,40 * 0,70 = 0,28 ou 28%."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "Em uma urna contendo 5 processos de aposentadoria por idade e 3 processos de amparo assistencial, ao se retirar dois processos sequencialmente e sem reposição, a probabilidade de o primeiro ser de aposentadoria e o segundo ser de amparo é de 15/56.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. A probabilidade de o primeiro ser de aposentadoria é 5/8. Como não há reposição, restam 7 processos na urna, dos quais 3 são de amparo. A probabilidade do segundo evento é 3/7. Multiplicando as frações: (5/8) * (3/7) = 15/56."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "Se a proposição composta 'P ou Q' for Falsa, infere-se dedutivamente que a condicional 'Se P, então Q' terá valor lógico Falso.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. Para que a disjunção 'P ou Q' seja Falsa, ambas as proposições simples P e Q devem ser obrigatoriamente Falsas. Se P é Falso e Q é Falso, a condicional P → Q resulta em um valor lógico Verdadeiro na tabela-verdade."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "A frase 'Nenhum erro foi detectado na folha de pagamentos' é logicamente equivalente a 'Não existe erro que tenha sido detectado na folha de pagamentos'.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. O quantificador universal negativo 'Nenhum' pode ser equivalentemente expresso pela negação do quantificador existencial correspondente ('Não existe', 'Não há nenhum')."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "No diagrama conjuntista, se afirmarmos que 'Alguns idosos são beneficiários' e 'Alguns beneficiários são servidores públicos', conclui-se de forma válida que obrigatoriamente existem idosos que são servidores públicos.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. Trata-se de um erro clássico de silogismo categórico. Duas premissas particulares contendo o quantificador 'Algum' não permitem estabelecer um nexo causal ou interseção obrigatória entre os extremos (Idosos e Servidores), restando a conclusão inválida."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "Se a proposição composta 'P → Q' é considerada verdadeira, a afirmação de que Q é verdadeira nos permite concluir, com absoluta certeza, que P também é verdadeira.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. Esta inferência é a falácia formal da afirmação do consequente. Na tabela-verdade da condicional, se o consequente Q é Verdadeiro, a condicional inteira será Verdadeira independentemente de P ser Verdadeiro ou Falso."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "A equivalência lógica da frase 'Se o sistema é seguro, os dados não vazam' pode ser expressa de forma válida por 'Se os dados vazam, o sistema não é seguro'.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Trata-se da aplicação exata da regra da contrapositiva (P → Q ≡ ~Q → ~P). Inverteu-se a ordem das sentenças e negou-se ambas (a negação de 'não vazam' é 'vazam')."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "A proposição composta '~(~P ∨ ~Q)' possui a mesma tabela-verdade que a conjunção simples 'P ∧ Q'.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Aplicando a negação de Morgan distributiva sobre a estrutura entre parênteses, a negação de ~P vira P, a disjunção (∨) converte-se em conjunção (∧) e a negação de ~Q vira Q, resultando em P ∧ Q."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "Considere as afirmações verdadeiras: 'Todo técnico é focado' e 'Marta não é focada'. A partir dessas premissas, conclui-se de forma válida que Marta não é técnica.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Pelo diagrama lógico, o conjunto dos técnicos está inteiramente contido dentro do conjunto dos focados. Se Marta está fora do conjunto dos focados, ela jamais poderá integrar o conjunto dos técnicos."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "O conectivo de disjunção inclusiva (ou) é adequadamente representado na lógica computacional e proposicional pelo símbolo matemático de interseção (∩).",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. O conectivo 'ou' relaciona-se conceitualmente com a operação de união de conjuntos (∪) e é representado formalmente pelo símbolo v (∨). A interseção (∩) liga-se à conjunção (e)."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "A proposição composta 'Se o Sol é uma estrela, então a Lua é feita de queijo' possui valor lógico Verdadeiro se avaliada sob a ótica da tabela-verdade padrão da condicional, visto que seu antecedente é verdadeiro e seu consequente é falso.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. Conforme as diretrizes da tabela-verdade do conectivo condicional, a combinação de antecedente Verdadeiro com consequente Falso resulta unicamente em um valor lógico Falso."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "A sentença 'A fiscalização identificou fraude ou a empresa foi penalizada' é uma proposição composta por disjunção, que aceita a ocorrência simultânea de ambos os eventos factuais como válida para torná-la verdadeira.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Trata-se de uma disjunção inclusiva padrão (ou). Ela exige que pelo menos um dos eventos ocorra, não proibindo que ambos aconteçam ao mesmo tempo para validar a estrutura."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "Dada a sequência lógica de números: 2, 5, 11, 23, 47, ... O próximo elemento matemático a preencher a ordem lógica de progressão baseada nessa amostragem é o número 95.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. O padrão de formação da sequência consiste em multiplicar o termo atual por 2 e somar 1 (22+1=5; 52+1=11; 112+1=23; 232+1=47). Logo, o próximo termo será 47 * 2 + 1 = 94 + 1 = 95."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "O argumento 'Se estudo, ganho conhecimento. Se ganho conhecimento, tomo boas decisões. Logo, se estudo, tomo boas decisões' é um exemplo de argumento válido denominado Silogismo Disjuntivo.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. Embora o argumento seja perfeitamente válido, a sua nomenclatura estrutural correta é Silogismo Hipotético (ou propriedade transitiva da condicional), e não Silogismo Disjuntivo."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "A proposição composto 'P ∧ ~P' resulta em uma Tautologia, independentemente se o valor de entrada de P for Verdadeiro ou Falso.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. Conforme detalhado em tabelas-verdade, a estrutura 'P ∧ ~P' (P e não P) é uma Contradição, gerando apenas saídas Falsas. Uma Tautologia exigiria saídas integralmente Verdadeiras."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "Em termos lógicos, a frase 'Nem todos os processos foram arquivados' carrega o mesmo valor descritivo e semântico que a asserção 'Pelo menos um processo não foi arquivado'.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. A expressão 'Nem todos' indica a quebra da totalidade universal, significando de modo idêntico que existe ao menos uma exceção pontual que não cumpre a característica descrita."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "Considerando um grupo de 8 pessoas, o número de maneiras de organizar essas pessoas em uma fila indiana simples, onde a ordem posicional é estritamente relevante, é calculado por meio de uma Permutação Simples de 8 elementos.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Para dispor todos os elementos de um conjunto em uma sequência linear ordenada onde todos mudam de posição, utiliza-se a permutação simples (P8 = 8!)."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "Se a negação de uma proposição P é verdadeira (~P = V), a condicional 'P → Q' será necessariamente classificada como verdadeira na tabela-verdade, seja qual for o valor lógico imputado a Q.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Se a negação de P é verdadeira, a proposição P em si é Falsa. Na tabela-verdade da condicional (→), se o antecedente for Falso, o resultado do conectivo será invariavelmente Verdadeiro."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "O Princípio do Terceiro Excluído dita que uma proposição lógica simples ou será Verdadeira ou será Falsa, restando proibida a existência de uma terceira classificação ou meio-termo valorativo.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Esta é a definição clássica do Princípio do Terceiro Excluído da lógica matemática binária, estabelecendo que não há margem para gradações ou estados intermediários de verdade."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "A proposição 'O auditor viajou para Brasília ou o auditor permaneceu em análise de dados na agência regional' classifica-se como uma proposição simples, devido ao fato de referenciar um único sujeito.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. A frase apresenta duas orações completas distintas com verbos próprios ('viajou' e 'permaneceu') interconectadas explicitamente pelo conectivo lógico de disjunção 'ou', definindo uma proposição composta."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "As proposições compostas 'P → Q' e '~Q → ~P' não compartilham da mesma equivalência lógica, pois operam sob direções inversas de causalidade condicional.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. Elas são perfeitamente equivalentes. A estrutura ~Q → ~P representa a contrapositiva exata de P → Q, possuindo tabelas-verdade idênticas."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "A negação da frase 'Nenhum servidor público é corrupto' é construída de modo correto através da sentença 'Todos os servidores públicos são corruptos'.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. A negação de um quantificador universal negativo (Nenhum) requer demonstrar apenas uma exceção por meio de um quantificador existencial afirmado. O correto seria: 'Algum servidor público é corrupto' ou 'Pelo menos um servidor público é corrupto'."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "Para que um argumento lógico seja classificado como válido, é estritamente necessário que todas as suas premissas de base e a sua conclusão final correspondam a fatos empiricamente verdadeiros no mundo real.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. A validade de um argumento diz respeito unicamente à coerência e estrutura formal de sua construção lógica (se as premissas forem tratadas como verdadeiras, a conclusão decorre delas). Um argumento pode ser perfeitamente válido contendo premissas factualmente falsas na realidade prática."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "A negação lógica da proposição composta 'O sistema operacional é Linux e o banco de dados é seguro' corresponde à frase 'O sistema operacional não é Linux ou o banco de dados não é seguro'.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Conforme as Leis de De Morgan, para negar uma conjunção (e), deve-se negar individualmente cada uma das proposições simples e trocar o conectivo pelo operador de disjunção (ou)."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "No lançamento simultâneo de dois dados honestos de 6 faces, a probabilidade de a soma dos números obtidos nas faces superiores ser igual a 7 é de 1/6.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. O espaço amostral total possui 6 * 6 = 36 resultados. Os pares que somam 7 são: (1,6), (2,5), (3,4), (4,3), (5,2) e (6,1), totalizando 6 casos favoráveis. A probabilidade é 6/36, simplificando resulta em 1/6."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "Se a proposição condicional 'Se corro, então canso' é verdadeira, a proposição 'Se não corro, então não canso' é sua equivalência direta.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. Negar simplesmente ambos os lados sem inverter a ordem cronológica do fluxo condicional gera a falácia da negação do antecedente, não correspondendo a uma equivalência lógica válida."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "Em análise combinatória, se dispomos de 5 objetos e desejamos escolher 5 deles para dispor em posições específicas e ordenadas, o cálculo numérico correspondente é dado por uma combinação simples.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Errado. Quando utilizamos todos os elementos disponíveis do grupo mudando-os de ordem posicional, o arranjo completo caracteriza-se estritamente como um problema de Permutação Simples (5!), e não combinação."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "A conjunção lógica 'P ∧ Q' e a disjunção inclusiva 'P ∨ Q' geram tabelas-verdade idênticas apenas na linha em que os valores de entrada de P e Q são ambos falsos.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Se P e Q forem Falsos, tanto P ∧ Q quanto P ∨ Q resultarão em Falso. Em todas as demais combinações de linhas (V e V, V e F, F e V), os resultados das tabelas divergem, tornando a asserção correta."
+  },
+  {
+    "concurso": "INSS",
+    "materia": "Raciocínio Lógico",
+    "enunciado": "A sentença aberta 'Ele foi o relator do parecer técnico da autarquia' pode se transformar em uma proposição lógica válida se o pronome 'Ele' for devidamente substituído pelo nome de um servidor específico.",
+    "alternativas": [
+      "Certo",
+      "Errado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Certo. Ao atribuir um valor ou sujeito determinado à variável (neste caso, o pronome indeterminado 'Ele'), a sentença perde sua abertura e passa a carregar um juízo de valor passível de julgamento (V ou F)."
+  }
 ]

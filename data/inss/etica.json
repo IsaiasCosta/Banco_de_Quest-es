@@ -27,5 +27,90 @@
       "alternativas": ["A) Certo", "B) Errado"],
       "respostaCorreta": 0,
       "explicacao": "Gabarito: Certo. O Código foi atualizado para utilizar terminologias mais precisas e inclusivas, adequando a linguagem à realidade contemporânea da profissão."
-    }
+    },
+    {
+    "concurso": "INSS",
+    "materia": "etica",
+    "enunciado": "Quanto à Comissão de Ética Pública, nos termos do Decreto nº 6.029, de 1º de fevereiro de 2007, é correto afirmar que[cite: 1]",
+    "alternativas": [
+      "A) É composta 9 (nove) por brasileiros que preencham os requisitos de idoneidade moral, reputação ilibada e notória experiência em administração pública.[cite: 1]",
+      "B) É assegurada remuneração a todos os membros, a qual será variável em razão do número de reuniões de que participarem.[cite: 1]",
+      "C) Seu Presidente não terá direito de manifestar-se nas deliberações da Comissão, nem mesmo com voto de qualidade.[cite: 1]",
+      "D) Seus membros possuem mandatos de 5 (cinco) anos, permitidas até duas reconduções.[cite: 1]",
+      "E) A atuação no âmbito da Comissão de Ética Pública não enseja qualquer remuneração para seus membros.[cite: 1]"
+    ],
+    "respostaCorreta": 4,
+    "explicacao": "A resposta correta é a letra E, conforme estabelecido pelo gabarito oficial da prova.[cite: 2]"
+  },[
+  {
+    "concurso": "INSS",
+    "materia": "etica",
+    "enunciado": "Quanto à Comissão de Ética Pública, nos termos do Decreto nº 6.029, de 1º de fevereiro de 2007, é correto afirmar que[cite: 1]",
+    "alternativas": [
+      "A) É composta 9 (nove) por brasileiros que preencham os requisitos de idoneidade moral, reputação ilibada e notória experiência em administração pública.[cite: 1]",
+      "B) É assegurada remuneração a todos os membros, a qual será variável em razão do número de reuniões de que participarem.[cite: 1]",
+      "C) Seu Presidente não terá direito de manifestar-se nas deliberações da Comissão, nem mesmo com voto de qualidade.[cite: 1]",
+      "D) Seus membros possuem mandatos de 5 (cinco) anos, permitidas até duas reconduções.[cite: 1]",
+      "E) A atuação no âmbito da Comissão de Ética Pública não enseja qualquer remuneração para seus membros.[cite: 1]"
+    ],
+    "respostaCorreta": 4,
+    "explicacao": "A alternativa correta é a letra E, de acordo com o gabarito oficial da disciplina de Administração.[cite: 2]"
+  },
+  {
+    "concurso": "INSS",
+    "materia": "etica",
+    "enunciado": "Atuar como instância consultiva do Presidente da República e Ministros de Estado em matéria de ética pública constitui competência da[cite: 1]",
+    "alternativas": [
+      "A) Secretaria Executiva de Ética Pública.[cite: 1]",
+      "B) Comissão de Avaliação Institucional.[cite: 1]",
+      "C) Coordenadoria de Ética Profissional.[cite: 1]",
+      "D) Comissão Permanente de Avaliação Ética.[cite: 1]",
+      "E) Comissão de Ética Pública.[cite: 1]"
+    ],
+    "respostaCorreta": 4,
+    "explicacao": "A alternativa correta é a letra E, de acordo com o gabarito oficial da disciplina de Administração.[cite: 2]"
+  },
+  {
+    "concurso": "INSS",
+    "materia": "etica",
+    "enunciado": "De acordo com o Decreto nº 6.029, de 1º de fevereiro de 2007, os trabalhos das comissões de ética devem ser desenvolvidos com celeridade e com observância, dentre outros, do princípio da[cite: 1]",
+    "alternativas": [
+      "A) independência e parcialidade de seus membros na apuração dos fatos.[cite: 1]",
+      "B) exposição indiscriminada da pessoa investigada.[cite: 1]",
+      "C) conclusão abreviada da investigação, independentemente do contraditório e da ampla defesa.[cite: 1]",
+      "D) divulgação imediata da identidade do denunciante.[cite: 1]",
+      "E) proteção à honra e à imagem da pessoa investigada.[cite: 1]"
+    ],
+    "respostaCorreta": 4,
+    "explicacao": "A alternativa correta é a letra E, de acordo com o gabarito oficial da disciplina de Administração.[cite: 2]"
+  },
+  {
+    "concurso": "INSS",
+    "materia": "etica",
+    "enunciado": "Segundo o Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal, constitui vedação ao servidor público[cite: 1]",
+    "alternativas": [
+      "A) manter-se atualizado com as instruções, as normas de serviço e a legislação pertinentes ao órgão onde exerce suas funções.[cite: 1]",
+      "B) ter consciência de que seu trabalho é regido por princípios éticos que se materializam na adequada prestação dos serviços públicos.[cite: 1]",
+      "C) ser, em função de seu espírito de solidariedade, conivente com erro ou infração ao Código de Ética de sua profissão.[cite: 1]",
+      "D) conservar limpo e em perfeita ordem o local de trabalho, seguindo os métodos mais adequados à sua organização e distribuição.[cite: 1]",
+      "E) zelar, no exercício do direito de greve, pelas exigências específicas da defesa da vida e da segurança coletiva.[cite: 1]"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A alternativa correta é a letra C, de acordo com o gabarito oficial da disciplina de Administração.[cite: 2]"
+  },
+  {
+    "concurso": "INSS",
+    "materia": "etica",
+    "enunciado": "O Sistema de Gestão da Ética do Poder Executivo Federal foi instituído com a finalidade de promover atividades que dispõem sobre a conduta ética no âmbito do Executivo Federal, possuindo, dentre outras, a competência de[cite: 1]",
+    "alternativas": [
+      "A) implementar políticas públicas onde a transparência e o acesso à informação são instrumentos dispensáveis ao exercício de gestão da ética pública.[cite: 1]",
+      "B) articular ações com vistas a estabelecer e efetivar procedimentos de incentivo e incremento ao desempenho institucional na gestão da ética pública do Estado brasileiro.[cite: 1]",
+      "C) permitir a utilização de artifícios destinados a procrastinar o exercício de direito por qualquer cidadão.[cite: 1]",
+      "D) utilizar meios que impeçam a compatibilização e a interação de normas e procedimentos relativos à ética pública.[cite: 1]",
+      "E) discriminar e segregar os órgãos, programas e ações relacionados com a ética pública.[cite: 1]"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A alternativa correta é a letra B, de acordo com o gabarito oficial da disciplina de Administração.[cite: 2]"
+  }
+]
 ]

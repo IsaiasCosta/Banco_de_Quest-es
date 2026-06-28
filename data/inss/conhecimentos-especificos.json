@@ -1,0 +1,366 @@
+[
+  {
+    "concurso": "INSS",
+    "materia": "conhecimentos-especificos",
+    "enunciado": "Há vários métodos de previsão orçamentária (SCHUBERT, 2005). Dentre eles podem ser citados: I. Análise de séries temporais e de projeções de tendências - utiliza técnicas estatísticas e é baseado na curva histórica e quando a sua relação e sua tendência são relativamente claras e estáveis, ou seja, quando valores do passado podem ser projetados para o futuro. Exemplos: Média Móvel, Projeção de Tendências e Box-Jenkins. II. Modelos causais usados quando os dados históricos são abundantes, se baseia na comparação entre valores a serem orçados e em um fato que é tomado como base. É o mais sofisticado método de previsão. Utiliza modelos matemáticos. Deve ser continuamente revisado, à medida que novas informações forem sendo apresentadas. Exemplos: Modelo de Regressão, Modelo Econométrico e Índices de Difusão. III. Modelo Qualitativo usado quando os dados são escassos, geralmente para introdução de novos produtos e para previsões de longo prazo. Fundamenta-se na experiência individual. Exemplos: Pesquisa de Mercado, Analogia Histórica e Método Delphos. Quantas das explicações acima estão corretas?[cite: 1]",
+    "alternativas": [
+      "A) Apenas a primeira.[cite: 1]",
+      "B) As duas primeiras.[cite: 1]",
+      "C) Todas as três.[cite: 1]",
+      "D) As duas últimas.[cite: 1]",
+      "E) A segunda.[cite: 1]"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A resposta correta é a letra C, conforme estabelecido pelo gabarito oficial da prova para a matéria de Administração.[cite: 2]"
+  },
+  {
+    "concurso": "INSS",
+    "materia": "conhecimentos-especificos",
+    "enunciado": "é uma técnica de previsão orçamentária onde a previsão usa critérios pessoais, julgamento e, quando possível, fatos sobre diferentes panoramas do futuro. É caracterizado pela conjectura subjetiva e imaginação, e em geral os métodos usados não são científicos (SCHUBERT, 2005). Qual das alternativas abaixo completa coerentemente a lacuna?[cite: 1]",
+    "alternativas": [
+      "A) Previsão Visionária[cite: 1]",
+      "B) X-II[cite: 1]",
+      "C) Ponderação Exponencial[cite: 1]",
+      "D) Modelo Econômico de Entrada e Saída[cite: 1]",
+      "E) Análise do Ciclo de vida do produto[cite: 1]"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A resposta correta é a letra A, conforme estabelecido pelo gabarito oficial da prova para a matéria de Administração.[cite: 2]"
+  },
+  {
+    "concurso": "INSS",
+    "materia": "conhecimentos-especificos",
+    "enunciado": "A metodologia desenvolvida por Rummler e Branche (1992) é baseada na chamada \"melhoria do desempenho humano\" e pode ser utilizada para entender o alinhamento de recursos humanos centrais para o desempenho de uma ou mais cadeias de valor. A estrutura é baseada em três níveis de desempenho. Dessa forma, o modelo de melhoria de desempenho utiliza uma matriz que endereça preocupações nos seguintes três níveis: Assinale a opção correta:[cite: 1]",
+    "alternativas": [
+      "A) Estratégico, tático e operacional;[cite: 1]",
+      "B) Gerencial, finalístico e de suporte;[cite: 1]",
+      "C) Organizacional, de processo e de tarefa;[cite: 1]",
+      "D) Estratégico, finalístico e operacional;[cite: 1]",
+      "E) Organizacional, finalístico e de tarefa.[cite: 1]"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A resposta correta é a letra C, conforme estabelecido pelo gabarito oficial da prova para a matéria de Administração.[cite: 2]"
+  },
+  {
+    "concurso": "INSS",
+    "materia": "conhecimentos-especificos",
+    "enunciado": "No Gerenciamento de Projetos ________ é um dos elementos básicos do projeto e deve conter os itens necessários para orientar o planejamento do projeto e servir de base para futuras negociações decorrentes de alterações futuras (VALERIANO, 2005. p. 123). Qual das alternativas abaixo completa coerentemente a lacuna?[cite: 1]",
+    "alternativas": [
+      "A) a Definição do Escopo;[cite: 1]",
+      "B) os Indicadores de Desempenho;[cite: 1]",
+      "C) a Relação de Configurações;[cite: 1]",
+      "D) a Estrutura Analítica do Projeto;[cite: 1]",
+      "E) o Gráfico de Gantt.[cite: 1]"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A resposta correta é a letra D, conforme estabelecido pelo gabarito oficial da prova para a matéria de Administração.[cite: 2]"
+  },
+  {
+    "concurso": "INSS",
+    "materia": "conhecimentos-especificos",
+    "enunciado": "O Processo de Negócio é estruturado a partir de modelos gerenciais e operacionais que abrangem técnicas e métodos de trabalho. Muitos modelos se tornam referência devido aos bons resultados gerados em determinada empresa ou conjunto de empresas. Quando comparamos os valores alcançados pelos indicadores de desempenho do processo de negócio de nossa responsabilidade com valores alcançados pelos processos de negócios com padrão de desempenho mundial, estamos exercitando ________ (DE SORDI, 2012. p. 86). Qual das alternativas abaixo completa coerentemente a lacuna?[cite: 1]",
+    "alternativas": [
+      "A) a Engenharia Reversa;[cite: 1]",
+      "B) a Análise e Solução de Problemas;[cite: 1]",
+      "C) o JAD - Joint Application Design;[cite: 1]",
+      "D) o Benchmarking;[cite: 1]",
+      "E) a Análise do Valor.[cite: 1]"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A resposta correta é a letra D, conforme estabelecido pelo gabarito oficial da prova para a matéria de Administração.[cite: 2]"
+  },
+  {
+    "concurso": "INSS",
+    "materia": "conhecimentos-especificos",
+    "enunciado": "Qualidade total assenta-se sobre duas premissas importantes: conscientização e planejamento. A conscientização é o caminho para resultados e o planejamento é estabelecer metas específicas a serem atingidas; estabelecer planos para atingir tais metas; atribuir responsabilidades definidas a fim de obter resultados e recompensar com base em resultados obtidos. Adicionalmente, existem duas vertentes críticas no processo de planejamento (ARAUJO, 2001. p. 119). Quem é o autor dessa afirmação?[cite: 1]",
+    "alternativas": [
+      "A) Joseph M. Juran;[cite: 1]",
+      "B) W. Edwards Deming;[cite: 1]",
+      "C) Armand V. Feigenbaum;[cite: 1]",
+      "D) Philip B. Crosby;[cite: 1]",
+      "E) K. Ishikawa.[cite: 1]"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A resposta correta é a letra A, conforme estabelecido pelo gabarito oficial da prova para a matéria de Administração.[cite: 2]"
+  },
+  {
+    "concurso": "INSS",
+    "materia": "conhecimentos-especificos",
+    "enunciado": "No âmbito das teorias modernas de gestão, encontramos as teorias administrativas que vêm sendo defendidas nas últimas décadas, atingindo um grau de complexidade tal que deixaram de ser simples modelos e formam um corpo de conhecimentos consistentes e abrangentes dos aspectos, técnicos, estratégicos e humanos que compões a Organização. Uma dessas abordagens foi desenvolvida em função das exigências ambientais, tanto externas quanto internas, que as organizações passaram a sofrer. Ganhou força e foi amplamente difundida considerando que as organizações precisam estabelecer objetivos claros, mensuráveis e encadeados, de forma que toda a estrutura da organização se envolva para ações concretas e práticas que permitirão chegar aos resultados pretendidos (OLIVEIRA; SILVA, 2006). Assinale a opção que melhor representa a abordagem descrita:[cite: 1]",
+    "alternativas": [
+      "A) Administração Empreendedora;[cite: 1]",
+      "B) Administração Estratégica;[cite: 1]",
+      "C) Administração do Conhecimento;[cite: 1]",
+      "D) Administração por Objetivos;[cite: 1]",
+      "E) Administração Participativa.[cite: 1]"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A resposta correta é a letra D, conforme estabelecido pelo gabarito oficial da prova para a matéria de Administração.[cite: 2]"
+  },
+  {
+    "concurso": "INSS",
+    "materia": "conhecimentos-especificos",
+    "enunciado": "Uma empresa utiliza o método de média móvel para previsão de seus estoques, considerando que os volumes consumidos entre janeiro e julho de determinado ano foram, respectivamente, 30, 70, 50, 60, 40, 20 e 30. Utilizando o método de média móvel com n=3, qual seria a previsão para o mês de agosto?[cite: 1]",
+    "alternativas": [
+      "A) 60[cite: 1]",
+      "B) 30[cite: 1]",
+      "C) 50[cite: 1]",
+      "D) 70[cite: 1]",
+      "E) 40[cite: 1]"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A resposta correta é a letra B, conforme estabelecido pelo gabarito oficial da prova para a matéria de Administração.[cite: 2]"
+  },
+  {
+    "concurso": "INSS",
+    "materia": "conhecimentos-especificos",
+    "enunciado": "Analise as duas afirmações a seguir e suas interligação (DIAS, 2012): O estoque é necessário para que o processo de produção/vendas da empresa opere com um número mínimo de preocupações e desníveis. PORQUE O custo total é o somatório do custo de armazenagem e o custo do transporte. Acerca dessas afirmações, cabe dizer que[cite: 1]",
+    "alternativas": [
+      "A) as duas são proposições verdadeiras, e a segunda é uma justificativa da primeira.[cite: 1]",
+      "B) as duas são proposições verdadeiras, e a segunda não é uma justificativa correta da primeira.[cite: 1]",
+      "C) a primeira é uma proposição verdadeira, e a segunda é uma proposição falsa.[cite: 1]",
+      "D) a primeira é uma proposição falsa, e a segunda é uma proposição verdadeira.[cite: 1]",
+      "E) as duas são proposições falsas.[cite: 1]"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A resposta correta é a letra C, conforme estabelecido pelo gabarito oficial da prova para a matéria de Administração.[cite: 2]"
+  },
+  {
+    "concurso": "INSS",
+    "materia": "conhecimentos-especificos",
+    "enunciado": "A empresa ROSAMAR tem três diretorias ligadas à Presidência. A Diretoria de Recursos Humanos tem dois Departamentos: (I) Recrutamento e Seleção e (II) Folha de Pagamento; a Diretoria de Comercial tem dois Departamentos: (I) Pesquisa de Mercado e (II) Vendas; e a Diretoria de Produção tem quatro departamentos: (I) Engenharia, (II) Suprimentos, (III) Planejamento e Controle da Produção e (IV) Fabricação. O principal critério de departamentalização existente na empresa é por[cite: 1]",
+    "alternativas": [
+      "A) produto;[cite: 1]",
+      "B) função (ou funcional);[cite: 1]",
+      "C) processo;[cite: 1]",
+      "D) cliente;[cite: 1]",
+      "E) área geográfica.[cite: 1]"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A resposta correta é a letra B, conforme estabelecido pelo gabarito oficial da prova para a matéria de Administração.[cite: 2]"
+  },
+  {
+    "concurso": "INSS",
+    "materia": "conhecimentos-especificos",
+    "enunciado": "Segundo Vasconcellos e Hemsley (2000), a estrutura de uma organização deve estar em contínua sintonia com a natureza da atividade e seu ambiente. Atividades repetitivas e ambientes estáveis favorecem as chamadas estruturas tradicionais que possuem as seguintes características: I - Alto nível de formalização; II- Unidade de comando; III - Especialização elevada; IV - Comunicação vertical. Quantas dessas características estão corretamente atribuídas?[cite: 1]",
+    "alternativas": [
+      "A) As três primeiras;[cite: 1]",
+      "B) Todas, exceto a terceira;[cite: 1]",
+      "C) As três últimas;[cite: 1]",
+      "D) Todas as quatro;[cite: 1]",
+      "E) Apenas as duas últimas.[cite: 1]"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A resposta correta é a letra D, conforme estabelecido pelo gabarito oficial da prova para a matéria de Administração.[cite: 2]"
+  },
+  {
+    "concurso": "INSS",
+    "materia": "conhecimentos-especificos",
+    "enunciado": "Pode-se definir Cultura Organizacional, segundo CHIAVENATO (2000, p. 126), como[cite: 1]",
+    "alternativas": [
+      "A) as normas formais e definidas que orientam o comportamento dos membros de uma organização no dia a dia e que direcionam suas ações para a realização dos objetivos organizacionais.[cite: 1]",
+      "B) as normas informais escritas que orientam o comportamento dos membros de uma organização no dia a dia e que direcionam suas ações para a realização dos objetivos organizacionais.[cite: 1]",
+      "C) a maneira costumeira ou tradicional de pensar e fazer as coisas, que são compartilhadas em grande extensão por todos os membros da organização e que os novos membros devem aprender a aceitar para serem aceitos no serviço da organização.[cite: 1]",
+      "D) a maneira costumeira ou tradicional de pensar e fazer as coisas, que são compartilhadas em grande extensão por todos os membros da organização e que cabe aos novos membros da organização modificar para serem aceitos no serviço da organização.[cite: 1]",
+      "E) é um conjunto de normas e regulamentos definidos pela cúpula estratégica da organização e compartilhados por todos os seus membros.[cite: 1]"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A resposta correta é a letra C, conforme estabelecido pelo gabarito oficial da prova para a matéria de Administração.[cite: 2]"
+  },
+  {
+    "concurso": "INSS",
+    "materia": "conhecimentos-especificos",
+    "enunciado": "________ é o registro do trabalho efetuado, à proporção que vai sendo realizado, de modo que o desempenho (resultado) possa ser comparado com o valor de padrão estabelecido (LACOMBE; HEILBORN, 2003 p. 174). Qual das alternativas abaixo completa coerentemente a lacuna?[cite: 1]",
+    "alternativas": [
+      "A) Controle;[cite: 1]",
+      "B) Aferição do resultado;[cite: 1]",
+      "C) Desempenho;[cite: 1]",
+      "D) Interpretação dos resultados;[cite: 1]",
+      "E) Indicador de resultado.[cite: 1]"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A resposta correta é a letra B, conforme estabelecido pelo gabarito oficial da prova para a matéria de Administração.[cite: 2]"
+  },
+  {
+    "concurso": "INSS",
+    "materia": "conhecimentos-especificos",
+    "enunciado": "Mintzberg, Ahlstrand e Lampel (2000) apresentaram dez escolas do pensamento estratégico que, segundo os autores, possuem cada uma a seu modo uma perspectiva limitada. Abaixo estão descritas as escolas e o que cada uma aborda. Correlacione a coluna da esquerda (escolas) com a coluna da direita (abordagem da escola)... Assinale a alternativa que corresponde à correlação correta.[cite: 1]",
+    "alternativas": [
+      "A) 2, 3, 4, 5, 6, 7, 8, 9, 10 e 1[cite: 1]",
+      "B) 3, 4, 5, 6, 7, 8, 9, 10, 1 e 2[cite: 1]",
+      "C) 1, 2, 3, 4, 5, 6, 7, 8, 9 e 10[cite: 1]",
+      "D) 1, 3, 5, 7, 9, 2, 4, 6, 8 e 10[cite: 1]",
+      "E) 2, 4, 6, 8, 10, 1, 3, 5, 7, e 9[cite: 1]"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A resposta correta é a letra C, conforme estabelecido pelo gabarito oficial da prova para a matéria de Administração.[cite: 2]"
+  },
+  {
+    "concurso": "INSS",
+    "materia": "conhecimentos-especificos",
+    "enunciado": "Segundo Hitt, Ireland e Hoskisson (2002, p. 114) existem dois instrumentos que possibilitam à empresa que identifique e desenvolva competências essenciais. O primeiro dele é constituído dos quatro critérios específicos que as empresas usam para determinar quais de seus recursos e capacidades são competências essenciais. O segundo instrumento é a análise da cadeia de valor. No que se refere aos quatro critérios específicos que as empresas usam para determinar quais recursos e capacidades são competências essenciais, citam-se: capacidades valiosas, capacidades raras, capacidades de imitação dispendiosa e capacidades insubstituíveis. Qual das alternativas abaixo indica a competência definida como CAPACIDADE VALIOSA?[cite: 1]",
+    "alternativas": [
+      "A) Não existe equivalente estratégico;[cite: 1]",
+      "B) Cultura organizacional ou marca singular e valiosa;[cite: 1]",
+      "C) Não existe em grande número de empresas;[cite: 1]",
+      "D) Ajuda a empresa a neutralizar ameaças ou a explorar oportunidades;[cite: 1]",
+      "E) Tem um valor de mercado superior às concorrentes.[cite: 1]"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A resposta correta é a letra D, conforme estabelecido pelo gabarito oficial da prova para a matéria de Administração.[cite: 2]"
+  },
+  {
+    "concurso": "INSS",
+    "materia": "conhecimentos-especificos",
+    "enunciado": "O Modelo de ________ proporciona diretrizes para os gerentes decidirem qual grau de participação os subordinados devem ter no processo de tomada de decisão. Procura identificar qual o estilo mais eficaz e qual o grau de participação apropriado dos subordinados na tomada de decisão organizacional através de três componentes: os estilos de participação dos líderes, um conjunto de questões de diagnóstico da situação e uma série de regras de decisão (SOBRAL; PECI, 2008, p. 176) Qual das alternativas abaixo completa coerentemente a lacuna?[cite: 1]",
+    "alternativas": [
+      "A) Henry Mintizberg;[cite: 1]",
+      "B) Douglas McGregor;[cite: 1]",
+      "C) Clayton Alderfer e Artur Jago;[cite: 1]",
+      "D) David McClelland e Clayton Alderfer;[cite: 1]",
+      "E) Victor Vroom e Artur Jago.[cite: 1]"
+    ],
+    "respostaCorreta": 4,
+    "explicacao": "A resposta correta é a letra E, conforme estabelecido pelo gabarito oficial da prova para a matéria de Administração.[cite: 2]"
+  },
+  {
+    "concurso": "INSS",
+    "materia": "conhecimentos-especificos",
+    "enunciado": "Algumas decisões são tão complexas, envolvem tantas variáveis, incertezas e riscos que, mesmo que se procure estruturar o processo decisório, sempre haverá necessidade de flexibilizar o processo e de se confiar no julgamento e intuição de pessoas que se presumem experientes, honestas e equilibradas. Decisões com essas características são denominadas DECISÕES NÃO ESTRUTURÁVEIS. No caso de decisões não estruturáveis, na escolha de alternativas são usados, geralmente, dois tipos de treinamento (LACOMBE; HEILBORN, 2003, p. 446), a saber:[cite: 1]",
+    "alternativas": [
+      "A) treinamento profissional e treinamento à distância;[cite: 1]",
+      "B) treinamento profissional e treinamento pela experiência;[cite: 1]",
+      "C) treinamento pela experiência e treinamento com instrução programada;[cite: 1]",
+      "D) treinamento a distância e treinamento com instrução programada;[cite: 1]",
+      "E) dinâmicas de grupo e desenvolvimento de equipes.[cite: 1]"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A resposta correta é a letra B, conforme estabelecido pelo gabarito oficial da prova para a matéria de Administração.[cite: 2]"
+  },
+  {
+    "concurso": "INSS",
+    "materia": "conhecimentos-especificos",
+    "enunciado": "Lacombe; Heilborn (2003) mencionam três importantes autores de trabalhos na área e assim os apresentam: I - Estudou os métodos de influência e as limitações da autoridade, concluindo ser preciso adequar a forma de exercício da autoridade ao grau de dependência do subordinado II - Desenvolveu estudos relacionados a tipos de supervisão; lealdade aos colegas; liberdade de comunicação e sua percepção; correlação entre comunicação e produção; variáveis causais; intervenientes e finais; e sistemas de gestão empresarial. III - Estudou como as pessoas evoluem de um estágio de imaturidade pessoal e profissional para a maturidade. Quem foram, respectivamente, os autores desses estudos?[cite: 1]",
+    "alternativas": [
+      "A) Douglas McGregor, Resis Likert e Chris Argyris;[cite: 1]",
+      "B) Douglas McGregor, Chris Argyris e Rensis Likert;[cite: 1]",
+      "C) Chris Argyris, Douglas McGregor e Rensis Likert;[cite: 1]",
+      "D) Chris Argyris; Rensis Likert; Douglas McGregor;[cite: 1]",
+      "E) Rensis Likert, Chris Argyris e Douglas McGregor.[cite: 1]"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A resposta correta é a letra A, conforme estabelecido pelo gabarito oficial da prova para a matéria de Administração.[cite: 2]"
+  },
+  {
+    "concurso": "INSS",
+    "materia": "conhecimentos-especificos",
+    "enunciado": "As teorias de conteúdo de motivação enfocam as necessidades internas dos trabalhadores que motivam seu comportamento. Essas teorias partem do pressuposto de que as pessoas agem para satisfazer suas necessidades. A Teoria das Três Necessidades proposta por David McClelland é uma teoria mais contemporânea de conteúdo da motivação (SOBRAL; PECI, 2008. p. 322-333). Quais são as três necessidades propostas por McClelland?[cite: 1]",
+    "alternativas": [
+      "A) realização, poder e afiliação;[cite: 1]",
+      "B) fisiológicas, sociais e autorrealização;[cite: 1]",
+      "C) estima, segurança e afiliação;[cite: 1]",
+      "D) fisiológicas, poder e autorrealização;[cite: 1]",
+      "E) existenciais, relacionais e crescimentistas.[cite: 1]"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A resposta correta é a letra A, conforme estabelecido pelo gabarito oficial da prova para a matéria de Administração.[cite: 2]"
+  },
+  {
+    "concurso": "INSS",
+    "materia": "conhecimentos-especificos",
+    "enunciado": "Vários autores estudaram os papéis de um gerente. Dentre os estudiosos das atividades gerenciais, podemos encontrar Henry Mintzberg e Fred Luthans. O estudo de Mintzberg concluiu que os gerentes desempenham dez papéis, divididos em três categorias. Luthans concluiu que as atividades dos gerentes podem ser classificadas em quatro categorias (MAΧΙΜΙΑΝΟ, 2000, p. 35). As categorias propostas por Luthans são as seguintes:[cite: 1]",
+    "alternativas": [
+      "A) Funções Gerenciais / Comunicação / Administração de Recursos Humanos / Relacionamento;[cite: 1]",
+      "B) Funções Gerenciais / Processador de Informação / Administração de Recursos Humanos / Relacionamento;[cite: 1]",
+      "C) Liderança / Comunicação / Administração de Recursos Materiais e Humanos / Relacionamento;[cite: 1]",
+      "D) Lideranca / Negociador / Administração de Recursos / Elemento de Ligação;[cite: 1]",
+      "E) Liderança / Negociador / Processador de Informação / Relacionamento.[cite: 1]"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A resposta correta é a letra A, conforme estabelecido pelo gabarito oficial da prova para a matéria de Administração.[cite: 2]"
+  },
+  {
+    "concurso": "INSS",
+    "materia": "conhecimentos-especificos",
+    "enunciado": "A natureza do modelo utilizado na busca de compreender as relações entre estado e sociedade é determinante para os resultados que se obtêm ao analisar e elaborar uma política pública. Nesse sentido, quatro Escolas, Pluralista, Elitista, Marxista e Corporativista, ganham destaque (MATIAS-PEREIRA, 2012, p. 220-223). As características de cada uma delas está apresentada a seguir: [ ] ESCOLA PLURALISTA - enfatiza as restrições que colocam sobre o estado um grande espectro de grupos de pressão dotados de poder diferenciado nas diversas áreas onde se conformam as políticas públicas, sendo estas um resultado das preferências desses grupos. [ ] ESCOLA ELITISTA ressalta o poder exercido por um pequeno número de bem organizados interesse societais e habilidades dos mesmos para alcançar seus objetivos. [ ] ESCOLA MARXISTA aponta a influência dos interesses econômicos na ação política e vê o estado como um importante meio para a manutenção do predomínio de uma classe social particular. [ ] ESCOLA CORPORATIVISTA foca na forma de atuação de grupos de pressão - organizações de trabalhadores e patrões, enfatizando que estes passam a ser integrados no Estado. Analise cada afirmação e avalie se é FALSA (F) ou VERDADEIRA (V), assinalando a alternativa que corresponde à sua avaliação.[cite: 1]",
+    "alternativas": [
+      "A) V-V-V-V[cite: 1]",
+      "B) V-V-F-F[cite: 1]",
+      "C) V-F-V-F[cite: 1]",
+      "D) F-F-F-F[cite: 1]",
+      "E) F-V-F-V[cite: 1]"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A resposta correta é a letra A, conforme estabelecido pelo gabarito oficial da prova para a matéria de Administração.[cite: 2]"
+  },
+  {
+    "concurso": "INSS",
+    "materia": "conhecimentos-especificos",
+    "enunciado": "Analise a seguinte afirmação de Marconi (2005, p. 338): \"a contratação de novos funcionários é uma das principais alternativas para conseguir profissionais com o perfil ideal, quantitativo e qualitativo, para ocupar quadros nos órgão públicos, constituindo a porta de entrada, muitas vezes permanentes, no serviço público. Por esse motivo, tal processo deve ser realizado de forma muito precisa\" A afirmação de Marconi (2005) corresponde à necessidade de[cite: 1]",
+    "alternativas": [
+      "A) um planejamento de recursos humanos eficaz;[cite: 1]",
+      "B) um processo de recrutamento e seleção feito pelo próprio órgão;[cite: 1]",
+      "C) uma contratação sem concurso e por indicação;[cite: 1]",
+      "D) uma avaliação de desempenho aleatória;[cite: 1]",
+      "E) uma distribuição do quadro de efetivo flexível.[cite: 1]"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A resposta correta é a letra A, conforme estabelecido pelo gabarito oficial da prova para a matéria de Administração.[cite: 2]"
+  },
+  {
+    "concurso": "INSS",
+    "materia": "conhecimentos-especificos",
+    "enunciado": "De acordo com Huberman (1973, p. 84), o processo de mudança/inovação pode se dar de três formas: pesquisa & desenvolvimento, resolução de problemas e interação social. Assinale a opção que descreve as fases do modelo de processo de mudança/ inovação por meio da INTERAÇÃO SOCIAL:[cite: 1]",
+    "alternativas": [
+      "A) Invenção ou descoberta da inovação; desenvolvimento; produção e condições da inovação; difusão.[cite: 1]",
+      "B) Tradução da necessidade em problema; diagnóstico do problema; busca e localização de informações; adaptação da inovação; experimentação; avaliação da expectativa do ponto de vista da satisfação da necessidade.[cite: 1]",
+      "C) Tomada de consciência da inovação; interesse manifestado da inovação; avaliação da necessidade da inovação; experimentação; adoção para utilização permanente.[cite: 1]",
+      "D) Invenção ou descoberta da inovação; desenvolvimento; produção e condições da inovação; experimentação; difusão.[cite: 1]",
+      "E) Tomada de consciência da inovação; busca e localização de informações; adaptação da inovação; avaliação da necessidade da inovação; experimentação; adoção para utilização permanente.[cite: 1]"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A resposta correta é a letra C, conforme estabelecido pelo gabarito oficial da prova para a matéria de Administração.[cite: 2]"
+  },
+  {
+    "concurso": "INSS",
+    "materia": "conhecimentos-especificos",
+    "enunciado": "Segundo Kepner e Tregoe (1976, p. 122), em seu livro O Administrador Racional, existem cinco tipos de ações ligadas às aplicações e métodos de análise de análise de problemas. São elas: ação provisória, ação adaptativa, ação corretiva, ação preventiva e ação contingente. De acordo com cada tipo de decisão indicada na coluna da esquerda, faça a devida correspondência com a definição apresentada na coluna da direita. 1. Ação Provisória 2. Ação Adaptativa 3. Ação Corretiva 4. Ação Preventiva 5. Ação Contingente [ ] proporciona providências de reserva para compensar ou minimizar os efeitos de um problema em potencial sério. [ ] elimina a possível causa de um problema ou reduz sua probabilidade [ ] elimina a causa conhecida de um problema [ ] permite ao administrador aceitar os efeitos toleráveis de um problema ou os de uma causa que não pode erradicar [ ] propicia ao administrador tempo para descobrir a causa do problema. Assinale a alternativa que corresponde à correlação correta.[cite: 1]",
+    "alternativas": [
+      "A) 1, 2, 3, 4, 5[cite: 1]",
+      "B) 1, 3, 5, 2, 4[cite: 1]",
+      "C) 2, 4, 1, 3, 5[cite: 1]",
+      "D) 5, 4, 3, 2, 1[cite: 1]",
+      "E) 1, 3, 2, 4, 5[cite: 1]"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A resposta correta é a letra D, conforme estabelecido pelo gabarito oficial da prova para a matéria de Administração.[cite: 2]"
+  },
+  {
+    "concurso": "INSS",
+    "materia": "conhecimentos-especificos",
+    "enunciado": "Para Paim et al (2009, p. 245) o modelo de escritório de processos é definido como uma unidade relacional que prescreve métodos e ferramentas que orientam o gerenciamento de processos da organização e que atua como elo de comunicação entre os diferentes departamentos envolvidos nos processos gerenciados, podem ser dos seguintes tipos:[cite: 1]",
+    "alternativas": [
+      "A) normativo e coordenador;[cite: 1]",
+      "B) normativo e gestor;[cite: 1]",
+      "C) coordenador e gestor;[cite: 1]",
+      "D) gestor e controlador;[cite: 1]",
+      "E) controlador e normativo.[cite: 1]"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A resposta correta é a letra A, conforme estabelecido pelo gabarito oficial da prova para a matéria de Administração.[cite: 2]"
+  },
+  {
+    "concurso": "INSS",
+    "materia": "conhecimentos-especificos",
+    "enunciado": "Para Ford (2012, p. 315), o dinheiro investido em matéria-prima ou artigos manufaturados é considerado comumente dinheiro vivo, mas o dinheiro só é vivo quando empregado no negócio. Um estoque excessivo de mercadorias é dinheiro que dorme e constitui um desperdício redundante que provoca[cite: 1]",
+    "alternativas": [
+      "A) preços elevados e salários baixos;[cite: 1]",
+      "B) preços elevados;[cite: 1]",
+      "C) salários baixos;[cite: 1]",
+      "D) preços elevados e assédio moral;[cite: 1]",
+      "E) assédio moral e salários baixos.[cite: 1]"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A resposta correta é a letra A, conforme estabelecido pelo gabarito oficial da prova para a matéria de Administração.[cite: 2]"
+  }
+]
