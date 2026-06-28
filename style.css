@@ -4,12 +4,6 @@
     padding: 0;
 }
 
-@media (max-width: 600px) {
-    body {
-        padding: 10px;
-        /* Reduz o padding do corpo para aproveitar mais a tela */
-    }
-
     body {
         background-color: #f4f6f8;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -270,4 +264,7 @@
     #btn-anterior:hover {
         background-color: #5a6268;
     }
+    @media (max-width: 600px) {
+    body { padding: 10px; }
+    .caderno { padding: 30px 20px 30px 40px; }
 }
