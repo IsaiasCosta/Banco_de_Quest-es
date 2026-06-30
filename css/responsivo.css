@@ -1,0 +1,30 @@
+/* ==========================
+   RESPONSIVO
+========================== */
+
+@media(max-width:768px){
+
+    body{
+
+        padding:10px;
+
+    }
+
+    .controles-filtro{
+
+        flex-direction:column;
+
+    }
+
+    .botoes-navegacao{
+
+        flex-direction:column;
+
+    }
+
+    .abas{
+
+        flex-direction:column;
+
+    }
+}

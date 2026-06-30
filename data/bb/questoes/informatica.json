@@ -1,0 +1,30 @@
+[
+    {
+    "concurso": "Banco do Brasil 2023",
+    "materia": "Conhecimentos de Informática",
+    "enunciado": "Os mecanismos de segurança combinam técnicas e ações de segurança para prover a proteção de usuários e de dados. O mecanismo de segurança que consiste em definir as ações que uma determinada entidade pode executar, ou a quais informações essa entidade pode ter acesso, é o de:",
+    "alternativas": [
+      "A) confidencialidade",
+      "B) autorização",
+      "C) identificação",
+      "D) integridade",
+      "E) autenticação"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A 'autorização' é o processo de segurança que determina os direitos de acesso e os privilégios de uma entidade já identificada e autenticada, estabelecendo exatamente o que ela tem permissão para fazer ou visualizar no sistema."
+  },
+  {
+    "concurso": "Banco do Brasil 2023",
+    "materia": "Conhecimentos de Informática",
+    "enunciado": "A utilização de computadores compartilhados aumenta o nível de risco da segurança da informação. Para reduzir tais riscos, pode-se ativar a navegação privativa, que não salva as informações de navegação, como histórico e cookies, e não deixa rastros após o término da sessão. Para navegar de forma privativa no Mozilla Firefox, o usuário deve abrir uma nova janela privativa, pressionando a seguinte combinação de teclas:",
+    "alternativas": [
+      "A) Ctrl+Shift+A",
+      "B) Ctrl+Shift+A",
+      "C) Ctrl+N",
+      "D) Ctrl+P",
+      "E) Ctrl+T"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "No navegador Mozilla Firefox, o atalho padrão de teclado utilizado para abrir uma nova janela de navegação privativa (Private Browsing) é o 'Ctrl+Shift+P'. No Google Chrome, por exemplo, o atalho equivalente para a janela anônima seria o 'Ctrl+Shift+N'."
+  }
+]

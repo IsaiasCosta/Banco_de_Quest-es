@@ -1,0 +1,16 @@
+[
+    {
+    "concurso": "Banco do Brasil 2023",
+    "materia": "Matemática",
+    "enunciado": "As 2023 assertivas a seguir estão escritas em um caderno.\n1) Só 1 assertiva é falsa neste caderno.\n2) Só 2 assertivas são falsas neste caderno.\n3) Só 3 assertivas são falsas neste caderno.\n...\nn) Só n assertivas são falsas neste caderno.\n...\n2022) Só 2022 assertivas são falsas neste caderno.\n2023) Só 2023 assertivas são falsas neste caderno.\nConsiderando-se essas 2023 assertivas, o número de assertivas verdadeiras é:",
+    "alternativas": [
+      "A) 0",
+      "B) 1",
+      "C) 2023",
+      "D) 2022",
+      "E) 1011"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Como cada assertiva declara que existe um número exato e excludente de afirmações falsas, apenas uma delas pode estar certa. Se apenas uma assertiva é verdadeira, isso significa que as outras 2022 assertivas são falsas. Portanto, a assertiva número 2022 é a única verdadeira."
+  }
+]

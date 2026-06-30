@@ -1,0 +1,25 @@
+/* ==========================
+   ESTUDOS
+========================== */
+
+.material-estudo{
+
+    width:100%;
+
+    max-width:900px;
+
+    background:white;
+
+    border-radius:var(--raio);
+
+    box-shadow:var(--sombra);
+
+    padding:30px;
+
+}
+
+.oculto{
+
+    display:none;
+
+}

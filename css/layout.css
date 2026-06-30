@@ -1,0 +1,43 @@
+/* ==========================
+   VARIÁVEIS
+========================== */
+
+:root{
+    --azul:#0056b3;
+    --azul-hover:#004494;
+    --verde:#28a745;
+    --vermelho:#dc3545;
+    --cinza:#6c757d;
+    --fundo:#f4f6f8;
+    --branco:#fff;
+    --sombra:0 2px 8px rgba(0,0,0,.08);
+    --raio:8px;
+}
+
+/* ==========================
+   RESET
+========================== */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+
+    background:var(--fundo);
+
+    font-family:"Segoe UI",sans-serif;
+
+    color:#333;
+
+    display:flex;
+
+    flex-direction:column;
+
+    align-items:center;
+
+    padding:20px;
+
+}

@@ -35,5 +35,19 @@
       ],
       "respostaCorreta": 1,
       "explicacao": "O Open Finance permite que os clientes autorizem o compartilhamento de seus dados financeiros entre diferentes instituições, estimulando a concorrência e a oferta de melhores produtos."
-    }
+    },
+     {
+    "concurso": "Banco do Brasil 2023",
+    "materia": "Conhecimentos Bancários",
+    "enunciado": "O Conselho Monetário Nacional (CMN) é um órgão importante do Sistema Financeiro Nacional. As atribuições do CMN são inúmeras, entre as quais:",
+    "alternativas": [
+      "A) emitir títulos do CMN, responsabilizando-se pelo seu resgate.",
+      "B) autorizar o funcionamento das instituições financeiras operando no país.",
+      "C) regular os serviços de compensação de cheques e outros papéis.",
+      "D) autorizar a emissão de papel moeda.",
+      "E) determinar, via Comitê de Política Monetária, a taxa de juros Selic."
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Dentre as competências do Conselho Monetário Nacional (CMN), que é o órgão deliberativo máximo do SFN, está a função de autorizar as emissões de papel-moeda. A execução prática e a definição da Selic cabem ao Banco Central (e ao COPOM)."
+  }
 ]

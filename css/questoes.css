@@ -1,0 +1,124 @@
+/* ==========================
+   QUESTÃO
+========================== */
+
+.enunciado{
+
+    margin-bottom:25px;
+
+    line-height:1.6;
+
+}
+
+.opcoes{
+
+    display:flex;
+
+    flex-direction:column;
+
+    gap:12px;
+
+}
+
+.opcoes button{
+
+    padding:16px;
+
+    border-radius:8px;
+
+    border:1px solid #ccc;
+
+    background:white;
+
+    cursor:pointer;
+
+    text-align:left;
+
+    transition:.2s;
+
+}
+
+.opcoes button:hover:not(:disabled){
+
+    background:#f8f8f8;
+
+}
+
+.opcoes button.correta{
+
+    background:#d4edda !important;
+
+    border-color:var(--verde);
+
+}
+
+.opcoes button.errada{
+
+    background:#f8d7da !important;
+
+    border-color:var(--vermelho);
+
+}
+/* ==========================
+   CADERNO
+========================== */
+
+.caderno{
+
+    width:100%;
+    max-width:900px;
+
+    background:#fdfbf7;
+
+    border-left:6px solid #d9534f;
+
+    border-radius:var(--raio);
+
+    padding:30px;
+
+    box-shadow:var(--sombra);
+
+    background-image:
+    repeating-linear-gradient(
+        transparent,
+        transparent 31px,
+        #e5e5e5 31px,
+        #e5e5e5 32px
+    );
+
+}
+
+
+
+
+/* ==========================
+   FEEDBACK
+========================== */
+
+.feedback-oculto{
+
+    display:none;
+
+}
+
+.feedback-visivel{
+
+    display:block;
+
+    margin-top:25px;
+
+}
+
+.explicacao{
+
+    margin-top:15px;
+
+    background:#f8f9fa;
+
+    padding:18px;
+
+    border-left:5px solid var(--cinza);
+
+    border-radius:6px;
+
+}

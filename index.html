@@ -2,70 +2,228 @@
 <html lang="pt-BR">
 
 <head>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <title>Meu Caderno de Questões</title>
-    <link rel="stylesheet" href="style.css">
+
+    <link rel="stylesheet" href="./css/style.css">
+
 </head>
 
 <body>
 
-    <!-- Filtros de Estudo -->
-    <div class="painel-filtros">
+    <!-- CABEÇALHO -->
+
+    <header class="cabecalho">
+
+        <h1>📚 Meu Caderno de Questões</h1>
+
+        <div class="abas">
+
+            <button class="aba ativa" id="btn-questoes">
+                ❓ Questões
+            </button>
+            <button onclick="iniciarQuestoes()">
+                Iniciar Questões
+            </button>
+            <button class="aba" id="btn-estudos">
+                📖 Estudos
+            </button>
+            <button onclick="iniciarEstudos()">
+                Iniciar Estudo
+            </button>
+
+        </div>
+
+    </header>
+
+
+    <!-- FILTROS -->
+
+    <section class="painel-filtros">
+
         <h3>🎯 Escolha o que estudar hoje</h3>
 
         <div class="controles-filtro">
 
             <select id="select-concurso">
+
                 <option value="">Selecione um concurso</option>
+
             </select>
 
             <select id="select-materia">
+
                 <option value="">Selecione a matéria</option>
+
             </select>
 
             <button class="btn-filtrar" onclick="iniciarEstudos()">
+
                 Iniciar Revisão
+
             </button>
 
         </div>
-    </div>
-    <!-- Dashboard de Desempenho -->
-    <div class="dashboard">
-        <div class="placar-item">Questões: <span id="total-respondidas">0</span>/<span id="total-filtradas">0</span>
-        </div>
-        <div class="placar-item acertos">Acertos: <span id="total-acertos">0</span> (<span id="pct-acertos">0%</span>)
-        </div>
-        <div class="placar-item erros">Erros: <span id="total-erros">0</span></div>
-    </div>
 
-    <!-- Interface do Caderno -->
-    <div class="caderno" id="caderno-questoes">
-        <div class="topo-caderno">
-            <span class="tag-concurso" id="tag-concurso">...</span>
-            <span class="tag-materia" id="tag-materia">...</span>
-        </div>
+    </section>
 
-        <h2 class="enunciado" id="enunciado">Selecione os filtros acima e clique em "Iniciar Revisão".</h2>
 
-        <div class="opcoes" id="opcoes">
-            <!-- Alternativas dinâmicas -->
+    <!-- DASHBOARD -->
+
+    <section class="dashboard">
+
+        <div class="placar-item">
+
+            Questões
+
+            <span id="total-respondidas">0</span>
+
+            /
+
+            <span id="total-filtradas">0</span>
+
+
         </div>
 
-        <div id="area-feedback" class="feedback-oculto">
-            <div id="status-resposta"></div>
-            <div class="explicacao">
-                <strong>Gabarito Comentado:</strong>
-                <p id="texto-explicacao"></p>
+        <div class="placar-item acertos">
+
+            Acertos
+
+            <span id="total-acertos">0</span>
+
+            (
+
+            <span id="pct-acertos">0%</span>
+
+            )
+
+        </div>
+
+        <div class="placar-item erros">
+
+            Erros
+
+            <span id="total-erros">0</span>
+
+        </div>
+
+    </section>
+
+
+
+    <!-- ABA QUESTÕES -->
+
+    <main id="pagina-questoes" class="pagina">
+
+        <div class="caderno">
+
+            <div class="topo-caderno">
+
+                <span class="tag-concurso" id="tag-concurso">
+
+                    Concurso
+
+                </span>
+
+                <span class="tag-materia" id="tag-materia">
+
+                    Matéria
+
+                </span>
+
             </div>
+
+            <h2 class="enunciado" id="enunciado">
+
+                Selecione um concurso e uma matéria.
+
+            </h2>
+
+            <div class="opcoes" id="opcoes">
+
+            </div>
+
+            <div id="area-feedback" class="feedback-oculto">
+
+                <div id="status-resposta"></div>
+
+                <div class="explicacao">
+
+                    <strong>Gabarito Comentado</strong>
+
+                    <p id="texto-explicacao"></p>
+
+                </div>
+
+            </div>
+
             <div class="botoes-navegacao">
-                <button id="btn-anterior" onclick="questaoAnterior()">&larr; Anterior</button>
-                <button id="btn-proxima" onclick="proximaQuestao()">Próxima Questão &rarr;</button>
-            </div>
-        </div>
-    </div>
 
-    <script src="script.js"></script>
+                <button onclick="questaoAnterior()">
+
+                    ← Anterior
+
+                </button>
+
+                <button onclick="proximaQuestao()">
+
+                    Próxima →
+
+                </button>
+
+            </div>
+
+        </div>
+
+    </main>
+
+
+
+    <!-- ABA ESTUDOS -->
+
+    <main id="pagina-estudos" class="pagina oculto">
+
+        <div class="material-estudo">
+
+            <h2 id="titulo-estudo">
+
+                Área de Estudos
+
+            </h2>
+
+            <div id="conteudo-estudo">
+
+                Em breve você poderá estudar a teoria aqui.
+
+            </div>
+
+            <button class="btn-filtrar">
+
+                Resolver questões deste conteúdo
+
+            </button>
+
+        </div>
+
+    </main>
+
+    <script src="js/estado.js"></script>
+
+    <script src="js/util.js"></script>
+
+    <script src="js/dashboard.js"></script>
+
+    <script src="js/filtros.js"></script>
+
+    <script src="js/questoes.js"></script>
+
+    <script src="js/estudos.js"></script>
+
+    <script src="js/script.js"></script>
+
 </body>
 
 </html>

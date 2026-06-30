@@ -1,0 +1,43 @@
+[
+    {
+      "concurso": "Caixa",
+      "materia": "Língua Portuguesa",
+      "enunciado": "A crase é o fenômeno da fusão da preposição 'a' com o artigo definido feminino 'a'. Assinale a alternativa onde a crase é obrigatória:",
+      "alternativas": [
+        "A) Entregou o documento a ele.",
+        "B) Começou a chover forte.",
+        "C) Fomos à agência da Caixa bem cedo.",
+        "D) O prêmio será pago a qualquer pessoa."
+      ],
+      "respostaCorreta": 2,
+      "explicacao": "Utiliza-se crase porque o verbo 'Fomos' exige a preposição 'a', e 'agência' é um substantivo feminino que admite o artigo 'a'. Não se usa crase antes de verbo (B) ou pronomes (A, D)."
+    },
+     {
+    "concurso": "Banco do Brasil 2023",
+    "materia": "Língua Portuguesa",
+    "enunciado": "A frase em que a palavra destacada respeita as regras da concordância nominal de acordo com a norma-padrão da língua portuguesa é:",
+    "alternativas": [
+      "A) O sistema de códigos de Braille tinha menas limitações que o de Barbier.",
+      "B) Os alunos ficavam meio desorientados com o método de Barbier.",
+      "C) Hoje, Braille e seu método são muitos conhecidos.",
+      "D) Depois do acidente, Braille e sua família não ficaram só.",
+      "E) Há bastante razões para se considerar Braille um herói nacional."
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A palavra 'meio', quando funciona como advérbio (modificando um adjetivo), é invariável e significa 'um pouco'. As demais alternativas contêm erros: 'menas' não existe; 'muitos' deveria ser o advérbio 'muito'; 'só' deveria estar no plural ('sós'); e 'bastante' deveria concordar com razões ('bastantes')."
+  },
+  {
+    "concurso": "Banco do Brasil 2023",
+    "materia": "Língua Portuguesa",
+    "enunciado": "De acordo com a norma-padrão da língua portuguesa, o sinal indicativo de crase está corretamente empregado em:",
+    "alternativas": [
+      "A) Todos estavam à espera de que o valor de Braille fosse reconhecido.",
+      "B) Ele queria ensinar à todos os alunos o seu sistema de escrita.",
+      "C) Braille foi forçado à superar sua cegueira.",
+      "D) O professor referiu-se à um aluno brilhante: Braille.",
+      "E) Braille não foi reconhecido até que se consolidasse à oficialização de seu método."
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A locução prepositiva feminina 'à espera de' exige o uso do acento grave indicativo de crase. Nas outras opções, a crase é incorreta porque ocorre antes de palavra masculina ('todos', 'um'), antes de verbo ('superar') ou antes de um sujeito ('a oficialização')."
+  }
+]
