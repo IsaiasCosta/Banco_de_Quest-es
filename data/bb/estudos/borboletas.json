@@ -1,0 +1,56 @@
+{
+  "id": 2,
+  "titulo": "Borboletas",
+  "fonte": "Prova Banco do Brasil",
+  "texto": [
+    "Quando depositamos muita confiança ou expectativas em uma pessoa, o risco de se decepcionar é grande.",
+    "As pessoas não estão neste mundo para satisfazer as nossas expectativas, assim como não estamos aqui, para satisfazer as delas.",
+    "Temos que nos bastar... nos bastar sempre e quando procuramos estar com alguém, temos que nos conscientizar de que estamos juntos porque gostamos, porque queremos e nos sentimos bem, nunca por precisar de alguém.",
+    "As pessoas não se precisam, elas se completam... não por serem metades, mas por serem inteiras, dispostas a dividir objetivos comuns, alegrias e vida.",
+    "Com o tempo, você vai percebendo que, para ser feliz com a outra pessoa, você precisa, em primeiro lugar, não precisar dela. Percebe também que aquela pessoa que você ama (ou acha que ama) e que não quer nada com você, definitivamente, não é o homem ou a mulher de sua vida.",
+    "Você aprende a gostar de você, a cuidar de você e, principalmente, a gostar de quem gosta de você.",
+    "O segredo é não cuidar das borboletas e sim cuidar do jardim para que elas venham até você.",
+    "No final das contas, você vai achar não quem você estava procurando, mas quem estava procurando por você!"
+  ],
+  "questoes": [
+    {
+      "id": 4,
+      "enunciado": "Segundo o Texto, a relação afetiva deve caracterizar-se, fundamentalmente, pela(o)",
+      "alternativas": [
+        "busca",
+        "carência",
+        "compartilhamento",
+        "indiferença",
+        "insistência"
+      ],
+      "respostaCorreta": 2,
+      "explicacao": "O texto afirma que as pessoas estão 'dispostas a dividir objetivos comuns, alegrias e vida', o que caracteriza o compartilhamento."
+    },
+    {
+      "id": 5,
+      "enunciado": "Segundo as ideias do Texto, projetar no outro nossas ansiedades torna-nos:",
+      "alternativas": [
+        "condescendentes para com os outros",
+        "vulneráveis a possíveis insucessos",
+        "seguros quanto à consecução do objetivo",
+        "indiferentes a quaisquer consequências",
+        "mais resistentes aos obstáculos"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "O texto sugere que depositar expectativas em alguém gera o risco de decepção, tornando-nos vulneráveis."
+    },
+    {
+      "id": 6,
+      "enunciado": "Segundo as ideias do Texto, a felicidade de duas pessoas marca-se pela(o):",
+      "alternativas": [
+        "dedicação incondicional de uma delas à outra",
+        "desnecessidade existente em ambas",
+        "capacidade de uma controlar a relação",
+        "submissão de uma à outra",
+        "empenho mútuo de uma subjugar a outra"
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "O texto defende que, para ser feliz com o outro, 'precisa, em primeiro lugar, não precisar dela', ou seja, a independência (desnecessidade) de ambas as partes."
+    }
+  ]
+}

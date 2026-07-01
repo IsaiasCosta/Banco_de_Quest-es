@@ -66,7 +66,8 @@
 .caderno{
 
     width:100%;
-    max-width:900px;
+    max-width:1000px;
+    min-width:320px;
 
     background:#fdfbf7;
 
@@ -78,6 +79,8 @@
 
     box-shadow:var(--sombra);
 
+    margin:0 auto;
+
     background-image:
     repeating-linear-gradient(
         transparent,
@@ -88,6 +91,11 @@
 
 }
 
+.opcoes button{
+
+    width:100%;
+
+}
 
 
 
@@ -120,5 +128,79 @@
     border-left:5px solid var(--cinza);
 
     border-radius:6px;
+
+}
+/* ===================================
+   PAINEL DE QUESTÕES
+=================================== */
+
+.painel-filtros{
+
+    width:100%;
+    max-width:520px;
+
+    margin:30px auto;
+
+    padding:30px;
+
+    background:#fff;
+
+    border-radius:12px;
+
+    box-shadow:0 10px 30px rgba(0,0,0,.08);
+
+}
+
+.painel-filtros h2{
+
+    text-align:center;
+
+    color:var(--azul);
+
+    margin-bottom:10px;
+
+}
+
+.painel-filtros p{
+
+    text-align:center;
+
+    color:#666;
+
+    font-size:14px;
+
+    margin-bottom:25px;
+
+}
+
+.campo{
+
+    display:flex;
+
+    flex-direction:column;
+
+    margin-bottom:20px;
+
+}
+
+.campo label{
+
+    font-weight:600;
+
+    margin-bottom:8px;
+
+}
+
+.campo select{
+
+    width:100%;
+
+    padding:14px;
+
+    border:1px solid #d9d9d9;
+
+    border-radius:8px;
+
+    font-size:15px;
 
 }

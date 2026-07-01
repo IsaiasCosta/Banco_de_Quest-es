@@ -22,9 +22,35 @@
 
     }
 
-    .abas{
+    .abas,
+
+    .acoes-principais{
 
         flex-direction:column;
+
+    }
+
+    .cabecalho{
+
+        align-items:stretch;
+
+    }
+
+    .cabecalho h1{
+
+        width:100%;
+
+        text-align:center;
+
+        white-space:normal;
+
+        word-break:break-word;
+
+    }
+
+    .acoes-principais .btn-acao{
+
+        width:100%;
 
     }
 }

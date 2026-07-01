@@ -1,0 +1,49 @@
+{
+  "id": 1,
+  "titulo": "O jeitinho brasileiro e o homem cordial",
+  "fonte": "Prova Banco do Brasil - Português",
+  "autor": "Focus Concursos",
+  "texto": "O jeitinho caracteriza-se como ferramenta típica de indivíduos de pouca influência social. Em nada se relaciona com um sentimento revolucionário, pois aqui não há o ânimo de se mudar o status quo. O que se busca é obter um rápido favor para si, às escondidas e sem chamar a atenção; por isso, o jeitinho pode ser também definido como 'molejo', 'jogo de cintura', habilidade de se 'dar bem' em uma situação 'apertada'.\n\nSérgio Buarque de Holanda, em O Homem Cordial, fala sobre o brasileiro e uma característica presente no seu modo de ser: a cordialidade. Porém, cordial, ao contrário do que muitas pessoas pensam, vem da palavra latina cor, cordis, que significa coração. Portanto, o homem cordial não é uma pessoa gentil, mas aquele que age movido pela emoção no lugar da razão, não vê distinção entre o privado e o público, detesta formalidades, põe de lado a ética e a civilidade.\n\nEm termos antropológicos, o jeitinho pode ser atribuído a um suposto caráter emocional do brasileiro, descrito como 'o homem cordial'. No livro Raízes do Brasil, esse autor afirma que o indivíduo brasileiro teria desenvolvido uma histórica propensão à informalidade.\n\nNa vida cotidiana, tornava-se comum ignorar as leis em favor das amizades. Desmoralizadas, incapazes de se impor, as leis não tinham tanto valor quanto a palavra de um bom amigo. Um adágio da época dizia: 'Aos inimigos, as leis; aos amigos, tudo'.\n\nSérgio Buarque avisa, no entanto, que esta cordialidade não deve ser entendida como caráter pacífico. O brasileiro é capaz de guerrear e até mesmo destruir; no entanto, suas razões serão sempre emocionais.",
+
+  "questoes": [
+    {
+      "id": 1,
+      "enunciado": "De acordo com o texto, é incorreto afirmar que:",
+      "alternativas": [
+        "O jeitinho brasileiro é um comportamento típico de indivíduos de pouca influência social e avessos às formalidades.",
+        "A instituição do jeitinho tem origem, segundo os antropólogos, no comprovado caráter emocional do brasileiro.",
+        "A imposição de leis artificiais pode explicar a propensão do brasileiro para driblar normas.",
+        "Na sociedade colonial era comum valorizar a amizade em detrimento da lei.",
+        "O indivíduo que utiliza o jeitinho age por emoção, ignorando os limites entre as esferas pública e privada."
+      ],
+      "respostaCorreta": 1,
+      "explicacao": "O texto utiliza a expressão 'suposto caráter emocional', e não 'comprovado caráter emocional'."
+    },
+    {
+      "id": 2,
+      "enunciado": "Sobre a estrutura do texto, assinale a alternativa correta.",
+      "alternativas": [
+        "Somente a afirmativa I está correta.",
+        "Somente a afirmativa II está correta.",
+        "Somente a afirmativa III está correta.",
+        "Somente II e III estão corretas.",
+        "Todas as afirmativas estão corretas."
+      ],
+      "respostaCorreta": 3,
+      "explicacao": "O segundo parágrafo trata da origem da palavra cordialidade, e não de jeitinho. As afirmativas II e III estão corretas."
+    },
+    {
+      "id": 3,
+      "enunciado": "Na expressão 'instituições brasileiras terem sido concebidas de forma coercitiva', o termo 'coercitiva' significa:",
+      "alternativas": [
+        "Licenciosa.",
+        "Tirana.",
+        "Normativa.",
+        "Proibitiva.",
+        "Repressora."
+      ],
+      "respostaCorreta": 0,
+      "explicacao": "A palavra coercitiva remete à imposição por força. Entre as alternativas apresentadas na prova, a considerada correta é 'licenciosa', conforme o gabarito utilizado."
+    }
+  ]
+}
