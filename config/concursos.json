@@ -14,6 +14,16 @@
             "servico-social",
             "direito-previdenciario",
             "conhecimentos-especificos"
+        ],
+                "estudos": [
+            {
+                "id":" id-texto",
+                "titulo":"titulo-texto"
+            },
+            {
+                "id":" id-texto",
+                "titulo":"titulo-texto"
+            }
         ]
     },
     {
@@ -30,6 +40,16 @@
             "vendas-negociacao",
             "ingles",
             "etica"
+        ],
+                "estudos": [
+            {
+                "id":"jeitinho-brasileiro",
+                "titulo":"O Jeitinho Brasileiro e o Homem Cordial"
+            },
+            {
+                "id":"borboletas",
+                "titulo":"Borboletas"
+            }
         ]
     },
     {
@@ -44,6 +64,16 @@
             "atendimento-bancario",
             "vendas-negociacao",
             "etica"
+        ],
+                "estudos": [
+            {
+                "id":" id-texto",
+                "titulo":"titulo-texto"
+            },
+            {
+                "id":" id-texto",
+                "titulo":"titulo-texto"
+            }
         ]
     }
 ]

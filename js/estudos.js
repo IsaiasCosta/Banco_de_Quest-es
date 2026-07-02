@@ -1,55 +1,95 @@
-function ativarAba(tipo) {
+// =====================================
+// ESTUDOS
+// =====================================
 
-    document.getElementById("btn-questoes").classList.toggle(
-        "ativa",
-        tipo === "questoes"
-    );
+let textoAtual = null;
+let concursoAtual = null;
 
-    document.getElementById("btn-estudos").classList.toggle(
-        "ativa",
-        tipo === "estudos"
-    );
+// =====================================
+// ABRIR TEXTO
+// =====================================
 
-}
+async function iniciarEstudos() {
 
-function mostrarQuestoes(){
+    concursoAtual =
+        document.getElementById("select-concurso-e").value;
 
-    document
-        .getElementById("pagina-questoes")
-        .classList.remove("oculto");
+    textoAtual =
+        document.getElementById("select-texto").value;
 
-    document
-        .getElementById("pagina-estudos")
-        .classList.add("oculto");
+    if (!concursoAtual || !textoAtual) {
 
-    ativarAba("questoes");
+        alert("Selecione um concurso e um texto.");
 
-}
+        return;
 
-
-function mostrarEstudos(){
-
-    document
-        .getElementById("pagina-estudos")
-        .classList.remove("oculto");
-
-    document
-        .getElementById("pagina-questoes")
-        .classList.add("oculto");
-
-    ativarAba("estudos");
-
-}
-
-window.addEventListener("load", () => {
-    const btnQuestoes = document.getElementById("btn-questoes");
-    const btnEstudos = document.getElementById("btn-estudos");
-
-    if (btnQuestoes) {
-        btnQuestoes.addEventListener("click", mostrarQuestoes);
     }
 
-    if (btnEstudos) {
-        btnEstudos.addEventListener("click", mostrarEstudos);
+    try {
+
+        const resposta = await fetch(
+            `data/${concursoAtual}/estudos/${textoAtual}.json`
+        );
+
+        if (!resposta.ok)
+            throw new Error();
+
+        const estudo =
+            await resposta.json();
+
+        document.getElementById("titulo-estudo").innerText =
+            estudo.titulo;
+
+        document.getElementById("conteudo-estudo").innerHTML =
+            estudo.conteudo;
+
+        mostrarEstudos();
+
     }
-});
+
+    catch {
+
+        alert("Material de estudo não encontrado.");
+
+    }
+
+}
+
+// =====================================
+// RESOLVER QUESTÕES DO TEXTO
+// =====================================
+
+function resolverQuestoesTexto() {
+
+    if (!concursoAtual || !textoAtual) {
+
+        alert("Abra um texto primeiro.");
+
+        return;
+
+    }
+
+    iniciarQuestoesTexto(
+        concursoAtual,
+        textoAtual
+    );
+
+}
+
+// =====================================
+// LIMPAR ESTUDO
+// =====================================
+
+function limparEstudo() {
+
+    textoAtual = null;
+
+    concursoAtual = null;
+
+    document.getElementById("titulo-estudo").innerText =
+        "Área de Estudos";
+
+    document.getElementById("conteudo-estudo").innerHTML =
+        "Escolha um texto para iniciar.";
+
+}

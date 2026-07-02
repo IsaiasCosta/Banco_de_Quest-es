@@ -9,6 +9,8 @@
     <title>Meu Caderno de Questões</title>
 
     <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/questoes.css">
+
 
 </head>
 
@@ -23,13 +25,16 @@
         <h1>📚 Meu Caderno de Questões</h1>
 
         <div class="abas">
+            <button class="aba ativa" id="btn-questoes" onclick="mostrarQuestoes()">
 
-            <button class="aba ativa" id="btn-questoes">
                 ❓ Questões
+
             </button>
 
-            <button class="aba" id="btn-estudos">
+            <button class="aba" id="btn-estudos" onclick="mostrarEstudos()">
+
                 📖 Estudos
+
             </button>
 
         </div>
@@ -45,7 +50,6 @@
     <main id="pagina-questoes" class="pagina">
 
         <!-- Painel -->
-
         <section class="painel-filtros">
 
             <h2>🎯 Revisão por Questões</h2>
@@ -70,17 +74,13 @@
 
             </div>
 
-            <button
-                class="btn-filtrar"
-                onclick="iniciarQuestoes()">
+            <button class="btn-filtrar" onclick="iniciarQuestoes()">
 
                 🚀 Iniciar Revisão
 
             </button>
 
         </section>
-
-
 
         <!-- Dashboard -->
 
@@ -148,9 +148,7 @@
 
             <div id="opcoes" class="opcoes"></div>
 
-            <div
-                id="area-feedback"
-                class="feedback-oculto">
+            <div id="area-feedback" class="feedback-oculto">
 
                 <div id="status-resposta"></div>
 
@@ -190,9 +188,7 @@
          PÁGINA ESTUDOS
     ========================== -->
 
-    <main
-        id="pagina-estudos"
-        class="pagina oculto">
+    <main id="pagina-estudos" class="pagina oculto">
 
         <!-- Painel -->
 
@@ -205,9 +201,7 @@
                 <label>Concurso</label>
 
                 <select id="select-concurso-e">
-
                     <option value="">Selecione...</option>
-
                 </select>
 
             </div>
@@ -217,23 +211,18 @@
                 <label>Texto</label>
 
                 <select id="select-texto">
-
                     <option value="">Selecione...</option>
-
                 </select>
 
             </div>
 
-            <button
-                class="btn-filtrar"
-                onclick="iniciarEstudos()">
+            <button class="btn-filtrar" onclick="iniciarEstudos()">
 
                 📚 Abrir Material
 
             </button>
 
         </section>
-
 
 
         <!-- Conteúdo -->
@@ -252,9 +241,7 @@
 
             </div>
 
-            <button
-                class="btn-filtrar"
-                onclick="resolverQuestoesTexto()">
+            <button class="btn-filtrar" onclick="resolverQuestoesTexto()">
 
                 Resolver questões deste texto
 
